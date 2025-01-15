@@ -1,9 +1,10 @@
 # Fdb version 4
-["pdflatex"] 1736932715.94359 "c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/German/Literatur/Kafka/Heimkehr/introduction.tex" "introduction.pdf" "introduction" 1736932717.04701 0
+["pdflatex"] 1736934331.75373 "c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/German/Literatur/Kafka/Heimkehr/introduction.tex" "introduction.pdf" "introduction" 1736934332.86173 0
   "C:/Users/fiste/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1736845609 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/fiste/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1736508873 11548 345a1da7815729fdbc4a240848edae00 ""
   "C:/Users/fiste/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1736506805 11993824 149d4662361325235f1a89f3693cf17c ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
+  "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -15,6 +16,7 @@
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
+  "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
@@ -56,9 +58,9 @@
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1730400552 10214 61188260d324e94bc2f66825d7d3fdf4 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1730400552 32879 f4cfa2226c995da5b04a89ee47abf182 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/German/Literatur/Kafka/Heimkehr/introduction.tex" 1736932715 1961 f2339cd77f36389c0a577d326dff90b4 ""
-  "introduction.aux" 1736932716 276 6faf034c001fbd02997d9181c53a57bd "pdflatex"
-  "introduction.tex" 1736932715 1961 f2339cd77f36389c0a577d326dff90b4 ""
+  "c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/German/Literatur/Kafka/Heimkehr/introduction.tex" 1736934330 3801 07dacb024e7e8fda80d2d329a61fa4be ""
+  "introduction.aux" 1736934332 378 2d332770cc6cb2c13645bd23ee8046bd "pdflatex"
+  "introduction.tex" 1736934330 3801 07dacb024e7e8fda80d2d329a61fa4be ""
   (generated)
   "introduction.aux"
   "introduction.log"
