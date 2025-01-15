@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1736859910.8735 "c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/German/Epochen/Moderne/summary.tex" "summary.pdf" "summary" 1736859911.88186 0
+["pdflatex"] 1736934925.456 "c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/German/Epochen/Moderne/summary.tex" "summary.pdf" "summary" 1736934926.67377 0
   "C:/Users/fiste/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1736845609 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/fiste/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1736508873 11548 345a1da7815729fdbc4a240848edae00 ""
   "C:/Users/fiste/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1736506805 11993824 149d4662361325235f1a89f3693cf17c ""
@@ -57,9 +57,10 @@
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1730400552 10214 61188260d324e94bc2f66825d7d3fdf4 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1730400552 32879 f4cfa2226c995da5b04a89ee47abf182 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/German/Epochen/Moderne/summary.tex" 1736859909 5645 06a0d63d96100296c219d633b4bb124b ""
-  "summary.aux" 1736859911 1483 9f93d2d80e74574905b20b996620257d "pdflatex"
-  "summary.tex" 1736859909 5645 06a0d63d96100296c219d633b4bb124b ""
+  "c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/German/Epochen/Moderne/summary.tex" 1736934923 5727 2a75a0dec551e1093e2eb8d5910108cc ""
+  "resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf" 1736932394 103500 384b4b0e19dad9c2352dc42b4c95952f ""
+  "summary.aux" 1736934926 1483 6b8a931957a3b55c553906c93ee588e3 "pdflatex"
+  "summary.tex" 1736934923 5727 2a75a0dec551e1093e2eb8d5910108cc ""
   (generated)
   "summary.aux"
   "summary.log"

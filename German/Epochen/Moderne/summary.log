@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.10)  14 JAN 2025 14:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.10)  15 JAN 2025 10:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -321,26 +321,93 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {C:/Users/fiste/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
-[2]
+pdfTeX warning: pdflatex (file ./resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf, id=8, 597.55246pt x 845.07718pt>
+File: resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf Graphic file (type pdf)
+<use resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf>
+Package pdftex.def Info: resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf  used on input line 73.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
-[3] (summary.aux)
+
+pdfTeX warning: pdflatex (file ./resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+File: resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf Graphic file (type pdf)
+<use resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf>
+Package pdftex.def Info: resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf  used on input line 73.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+
+
+pdfTeX warning: pdflatex (file ./resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf, id=11, page=1, 597.55246pt x 845.07718pt>
+File: resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf Graphic file (type pdf)
+<use resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf, page 1>
+Package pdftex.def Info: resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf , page1 used on input line 73.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf Graphic file (type pdf)
+<use resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf, page 1>
+Package pdftex.def Info: resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf , page1 used on input line 73.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+
+
+[2]
+File: resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf Graphic file (type pdf)
+<use resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf, page 1>
+Package pdftex.def Info: resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf , page1 used on input line 73.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf Graphic file (type pdf)
+<use resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf, page 1>
+Package pdftex.def Info: resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf , page1 used on input line 73.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+
+
+File: resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf Graphic file (type pdf)
+<use resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf, page 1>
+Package pdftex.def Info: resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf , page1 used on input line 73.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+[3
+
+ <./resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf>]
+
+pdfTeX warning: pdflatex (file ./resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf, id=51, page=2, 597.55246pt x 845.07718pt>
+File: resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf Graphic file (type pdf)
+<use resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf, page 2>
+Package pdftex.def Info: resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf , page2 used on input line 73.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf Graphic file (type pdf)
+<use resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf, page 2>
+Package pdftex.def Info: resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf , page2 used on input line 73.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+
+
+File: resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf Graphic file (type pdf)
+<use resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf, page 2>
+Package pdftex.def Info: resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf , page2 used on input line 73.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+[4
+
+ <./resources/pdfs/Arbeitsauftrag_Buch_Gegenwartsliteratur.pdf>]
+
+[5] (summary.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5180 strings out of 473577
- 88392 string characters out of 5716317
+ 5195 strings out of 473577
+ 89458 string characters out of 5716317
  514601 words of memory out of 5000000
- 28313 multiletter control sequences out of 15000+600000
+ 28328 multiletter control sequences out of 15000+600000
  563265 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,11n,79p,348b,257s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 68i,17n,79p,348b,433s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\fiste\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on summary.pdf (3 pages, 72606 bytes).
+Output written on summary.pdf (5 pages, 166286 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
+ 80 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
