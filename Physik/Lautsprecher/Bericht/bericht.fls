@@ -215,6 +215,10 @@ INPUT .\resources\images\Lautsprecher_Celestion.jpg
 INPUT .\resources\images\Lautsprecher_Celestion.jpg
 INPUT .\resources\images\Lautsprecher_Celestion.jpg
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1095.tfm
+INPUT .\bericht.lof
+INPUT .\bericht.lof
+INPUT bericht.lof
+OUTPUT bericht.lof
 INPUT .\bericht.bbl
 INPUT .\bericht.bbl
 INPUT bericht.bbl
