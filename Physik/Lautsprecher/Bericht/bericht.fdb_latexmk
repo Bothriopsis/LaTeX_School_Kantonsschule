@@ -1,15 +1,17 @@
 # Fdb version 4
-["bibtex bericht"] 1737386272.71908 "bericht.aux" "bericht.bbl" "bericht" 1737386405.24043 0
-  "C:/Users/fiste/AppData/Local/Programs/MiKTeX/bibtex/bib/ijqc/mybib.bib" 1165437420 34021 457e5faf663e489fbcb0d4065934a539 ""
+["bibtex bericht"] 1737392736.07001 "bericht.aux" "bericht.bbl" "bericht" 1737392968.03899 0
+  "./mybib.bib" 1737387530 433 2c18e36365042cc2fd5afba84cb547a0 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "bericht.aux" 1737386404 744 28172b02b4370a83b6140ac3bed56f18 "pdflatex"
+  "bericht.aux" 1737392967 2076 c9e5dca783fe286247d5782ec78004d3 "pdflatex"
   (generated)
   "bericht.bbl"
   "bericht.blg"
   (rewritten before read)
-["pdflatex"] 1737386404.3276 "d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" "bericht.pdf" "bericht" 1737386405.24096 0
-  "C:/Users/fiste/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1737386008 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1737392966.5981 "d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" "bericht.pdf" "bericht" 1737392968.03961 0
+  "C:/Users/fiste/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1737389080 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/fiste/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1736532422 11548 b7c20edf37e01f8c46ec63d563f4d2cb ""
   "C:/Users/fiste/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1736532273 24225046 56686b561ae72c909159ebc4b0fc6164 ""
+  "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -22,10 +24,12 @@
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
+  "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmtt10.tfm" 1136765053 768 1321e9409b4137d6fb428ac9dc956269 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb" 1247596667 31099 342ef5a582aacbd3346f3cf4579679fa ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1704647332 150008 7a05b0fdc0167c04e192003e780ab195 ""
@@ -93,12 +97,12 @@
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1700599895 32515 51caec75eda9c8890135f12f1a4eddc3 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "bericht.aux" 1737386404 744 28172b02b4370a83b6140ac3bed56f18 "pdflatex"
-  "bericht.bbl" 1737386272 52 0eba253fc001332e731e8aba3f23127b "bibtex bericht"
-  "bericht.out" 1737386404 410 28ef8f9e70e3a3cfcef3dd0df6b1fcfe "pdflatex"
-  "bericht.tex" 1737386403 1834 3acde9ffafa25becd6a579ebb3ea84be ""
-  "bericht.toc" 1737386404 256 7aa62c102f187d5c5e6bee21a51c6b85 "pdflatex"
-  "d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" 1737386403 1834 3acde9ffafa25becd6a579ebb3ea84be ""
+  "bericht.aux" 1737392967 2076 c9e5dca783fe286247d5782ec78004d3 "pdflatex"
+  "bericht.bbl" 1737392736 429 7d4c5fb986947697f8858a3b30fb6d2a "bibtex bericht"
+  "bericht.out" 1737392967 1361 6a109a870731cf977580e379de634a26 "pdflatex"
+  "bericht.tex" 1737392966 3362 71ebf922169ac3948724b799fd1a2738 ""
+  "bericht.toc" 1737392967 899 2ced7596a22fcea90a7ed9f1e8e16273 "pdflatex"
+  "d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" 1737392966 3362 71ebf922169ac3948724b799fd1a2738 ""
   (generated)
   "bericht.aux"
   "bericht.log"
