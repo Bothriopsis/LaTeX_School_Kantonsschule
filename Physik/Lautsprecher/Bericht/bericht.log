@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.10)  20 JAN 2025 18:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.10)  20 JAN 2025 22:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -466,21 +466,34 @@ Overfull \hbox (3.68158pt too wide) in paragraph at lines 73--74
 []\OT1/cmr/m/n/10 Wir ge-hen da-von aus, dass wir einen Laut-spre-cher bau-en k[]onnen, der bei mitt-le-ren Lautst[]arken
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--86
+
+ []
+
 [1
 
 ]
-Kapitel 2.
-[2
 
-]
-Kapitel 3.
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.54448pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.54448pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-10.54448pt}.
+
+[2]
+Kapitel 2.
 [3
 
 ]
-Kapitel 4.
+Kapitel 3.
 [4
 
-] (bericht.bbl) [5
+]
+Kapitel 4.
+[5
+
+] (bericht.bbl) [6
 
 ] (bericht.aux)
  ***********
@@ -488,20 +501,20 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `bericht.out' has not changed.
-(rerunfilecheck)             Checksum: 6A109A870731CF977580E379DE634A26;1361.
+(rerunfilecheck)             Checksum: 51A7540B5B1133A064499738156FB4ED;1506.
  ) 
 Here is how much of TeX's memory you used:
- 12233 strings out of 474486
- 198472 string characters out of 5743755
- 1931542 words of memory out of 5000000
- 34326 multiletter control sequences out of 15000+600000
+ 12256 strings out of 474486
+ 199064 string characters out of 5743755
+ 1933542 words of memory out of 5000000
+ 34345 multiletter control sequences out of 15000+600000
  564039 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,329b,480s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\fiste\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on bericht.pdf (8 pages, 101515 bytes).
+ 75i,11n,79p,329b,480s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\fiste\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on bericht.pdf (9 pages, 152364 bytes).
 PDF statistics:
- 151 PDF objects out of 1000 (max. 8388607)
- 29 named destinations out of 1000 (max. 500000)
- 97 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 188 PDF objects out of 1000 (max. 8388607)
+ 33 named destinations out of 1000 (max. 500000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
