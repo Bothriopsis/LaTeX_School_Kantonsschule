@@ -1,4 +1,4 @@
-\documentclass{article}
+\documentclass{report}
 \usepackage{graphicx}
 \usepackage{enumitem}
 \usepackage{pdfpages}
@@ -8,24 +8,52 @@
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 
-% Header
-\fancyhead[L]{Niklas Fister}
-\fancyhead[C]{Kantonnschule Wettingen - Geschichte}
-\fancyhead[R]{\thepage}
-
 % clear Footer
 \fancyfoot{}
 
+
+% Header
+\fancyhead[L]{Andrin Tim Lerjen, \\ Nadja Rahm, Niklas Fister}
+\fancyhead[C]{Kantonnschule Wettingen - Physik}
+\fancyhead[R]{\thepage}
+\renewcommand{\headrulewidth}{1pt}
+
 % Title
 \title{\Huge\textbf{Bericht Physik - Lautsprecher}}
-\author{Niklas Fister}
+\author{Andrin Tim Lerjen, Nadja Rahm, Niklas Fister}
 \date{\today}
 
+% makeing title
 \begin{document}
+\pagenumbering{Roman}
 \maketitle
-\newpage
-\section{Notizen}
-\subsection{Zustandekommen}
 
+% Abstract
+\newpage
+\begin{abstract}
+    In dem Folgenden Bericht geht es um die Bau eines Lautsprechers aus alltäglichen Materialien.
+
+    Es wurde ein Leistungsstarken Lautsprecher gebaut, was vor allem an den starken Magneten liegt.
+
+    Die Bauart aus leichten Materialien für den Schallerzeuger und dem stabilen Klangkörper sorgen für ein gutes Klangerlebnis.
+    
+\end{abstract}
+
+% Table of contents
+\newpage
+\tableofcontents
+
+% report
+\newpage
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+% Theory
+\chapter{Theorie}
+\section{Geschichte des Lautsprechers}
+Für einen Lautsprecher ist eine Spule und ein Magnet das Wichtigste. Ohne das ist man gut am A und darf weinen\dots
+
+Herr Perucchi sieht aber gerne Menschen weinen und ist ein toller lieber Sadist\dots
+\section{Ideale Bauweise}
 
 \end{document}
