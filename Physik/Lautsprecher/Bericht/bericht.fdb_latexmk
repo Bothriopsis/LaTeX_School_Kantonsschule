@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex bericht"] 1737410182.63153 "bericht.aux" "bericht.bbl" "bericht" 1737410377.7572 0
+["bibtex bericht"] 1737410182.63153 "bericht.aux" "bericht.bbl" "bericht" 1737410447.89027 0
   "./mybib.bib" 1737408835 671 02e5d54e88ecf99ebf549f05538e395f ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "bericht.aux" 1737410377 2490 3f992b96dfa69698e98cd29726e31843 "pdflatex"
+  "bericht.aux" 1737410447 2490 3f992b96dfa69698e98cd29726e31843 "pdflatex"
   (generated)
   "bericht.bbl"
   "bericht.blg"
   (rewritten before read)
-["pdflatex"] 1737410376.74128 "d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" "bericht.pdf" "bericht" 1737410377.75776 0
+["pdflatex"] 1737410446.88856 "d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" "bericht.pdf" "bericht" 1737410447.89084 0
   "C:/Users/fiste/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1737394704 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/fiste/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1095.pk" 1737409475 28976 38beb3dac16ff72548b2c66013b00a8f ""
   "C:/Users/fiste/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1737409473 31952 048b21beb3179ca431168c11ad4aafcb ""
@@ -130,13 +130,13 @@
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "bericht.aux" 1737410377 2490 3f992b96dfa69698e98cd29726e31843 "pdflatex"
+  "bericht.aux" 1737410447 2490 3f992b96dfa69698e98cd29726e31843 "pdflatex"
   "bericht.bbl" 1737410182 642 cfb3cb77fca9de292912d2f7a56bb2a2 "bibtex bericht"
-  "bericht.lof" 1737410377 210 18899c7a327da27de766dacea02c5942 "pdflatex"
-  "bericht.out" 1737410377 1506 51a7540b5b1133a064499738156fb4ed "pdflatex"
-  "bericht.tex" 1737410376 5201 6c3b3d53e56d8dffbd97fff2726d8612 ""
-  "bericht.toc" 1737410377 985 1270eb2099cb630eb6e0d892e6010d26 "pdflatex"
-  "d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" 1737410376 5201 6c3b3d53e56d8dffbd97fff2726d8612 ""
+  "bericht.lof" 1737410447 210 18899c7a327da27de766dacea02c5942 "pdflatex"
+  "bericht.out" 1737410447 1506 51a7540b5b1133a064499738156fb4ed "pdflatex"
+  "bericht.tex" 1737410446 5187 fa4c51b75f2071fb1021b0225fcc594b ""
+  "bericht.toc" 1737410447 985 1270eb2099cb630eb6e0d892e6010d26 "pdflatex"
+  "d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" 1737410446 5187 fa4c51b75f2071fb1021b0225fcc594b ""
   "resources/images/Lautsprecher_Celestion.jpg" 1737393142 1310695 fd32fa6f4b336894e49ff242c1b79df0 ""
   (generated)
   "bericht.aux"
