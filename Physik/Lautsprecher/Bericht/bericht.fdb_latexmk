@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex bericht"] 1737408450.94181 "bericht.aux" "bericht.bbl" "bericht" 1737408452.04211 0
+["bibtex bericht"] 1737408450.94181 "bericht.aux" "bericht.bbl" "bericht" 1737408565.18784 0
   "./mybib.bib" 1737407781 433 2c18e36365042cc2fd5afba84cb547a0 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "bericht.aux" 1737408451 2203 c6ac7e372d77a28d18336cf59d7fd429 "pdflatex"
+  "bericht.aux" 1737408564 2203 c6ac7e372d77a28d18336cf59d7fd429 "pdflatex"
   (generated)
   "bericht.bbl"
   "bericht.blg"
   (rewritten before read)
-["pdflatex"] 1737408451.14522 "d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" "bericht.pdf" "bericht" 1737408452.04263 0
+["pdflatex"] 1737408564.2753 "d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" "bericht.pdf" "bericht" 1737408565.18834 0
   "C:/Users/fiste/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1737394704 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/fiste/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1736532422 11548 b7c20edf37e01f8c46ec63d563f4d2cb ""
   "C:/Users/fiste/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1736532273 24225046 56686b561ae72c909159ebc4b0fc6164 ""
@@ -102,12 +102,12 @@
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1700599895 32515 51caec75eda9c8890135f12f1a4eddc3 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "bericht.aux" 1737408451 2203 c6ac7e372d77a28d18336cf59d7fd429 "pdflatex"
+  "bericht.aux" 1737408564 2203 c6ac7e372d77a28d18336cf59d7fd429 "pdflatex"
   "bericht.bbl" 1737408451 429 7d4c5fb986947697f8858a3b30fb6d2a "bibtex bericht"
-  "bericht.out" 1737408451 1506 51a7540b5b1133a064499738156fb4ed "pdflatex"
-  "bericht.tex" 1737408449 3947 f48ce245918c4a1cb4eb3ef2c590894b ""
-  "bericht.toc" 1737408451 985 f122fe5239e2a8d18b45698d91a26cc9 "pdflatex"
-  "d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" 1737408449 3947 f48ce245918c4a1cb4eb3ef2c590894b ""
+  "bericht.out" 1737408564 1506 51a7540b5b1133a064499738156fb4ed "pdflatex"
+  "bericht.tex" 1737408563 4261 925426c4a7b017ddce24f52fb8bceef5 ""
+  "bericht.toc" 1737408564 985 f122fe5239e2a8d18b45698d91a26cc9 "pdflatex"
+  "d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" 1737408563 4261 925426c4a7b017ddce24f52fb8bceef5 ""
   (generated)
   "bericht.aux"
   "bericht.log"
