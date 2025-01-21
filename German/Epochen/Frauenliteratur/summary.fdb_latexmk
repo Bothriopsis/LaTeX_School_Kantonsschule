@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1737455567.47796 "c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/English/Essay/GPT-Essay/essay.tex" "essay.pdf" "essay" 1737455568.89938 0
+["pdflatex"] 1737458505.02423 "c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/German/Epochen/Frauenliteratur/summary.tex" "summary.pdf" "summary" 1737458506.09586 0
   "C:/Users/fiste/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1737445551 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/fiste/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1736508873 11548 345a1da7815729fdbc4a240848edae00 ""
   "C:/Users/fiste/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1736506805 11993824 149d4662361325235f1a89f3693cf17c ""
@@ -20,6 +20,7 @@
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1735755817 143199 6628c2c818feff6774c63ae8a4d8738d ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/en/babel-en.ini" 1735755818 3966 caeee5a9e5771d4446aa1ca9015ba1b2 ""
@@ -55,12 +56,12 @@
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/pdfpages/pppdftex.def" 1730132580 6591 44acff2f5a3c688dbf342ff2ff0192e9 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1730400552 10214 61188260d324e94bc2f66825d7d3fdf4 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/English/Essay/GPT-Essay/essay.tex" 1737455564 5160 aeb69f7a2201ed91be9fc0cca9da8a8d ""
-  "essay.aux" 1737455568 466 ca032ae6fc2538f1dcf380f69956c660 "pdflatex"
-  "essay.tex" 1737455564 5160 aeb69f7a2201ed91be9fc0cca9da8a8d ""
-  "resources/pdf/Argumentative Essay Writing.pdf" 1737016486 3481523 240d8120269a53ff87aea5760717e252 ""
+  "c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/German/Epochen/Frauenliteratur/summary.tex" 1737458504 4591 7220f5798ceee0805ed6a83401a0ab90 ""
+  "resources/pdf/Kurzgeschichten.pdf" 1737455809 48364 e164f5f2bedbae957a542fdf7f7958c7 ""
+  "summary.aux" 1737458505 972 350f6c3338f861c49bd1337ff72ce986 "pdflatex"
+  "summary.tex" 1737458504 4591 7220f5798ceee0805ed6a83401a0ab90 ""
   (generated)
-  "essay.aux"
-  "essay.log"
-  "essay.pdf"
+  "summary.aux"
+  "summary.log"
+  "summary.pdf"
   (rewritten before read)

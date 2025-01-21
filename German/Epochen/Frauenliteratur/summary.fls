@@ -1,7 +1,7 @@
-PWD c:\Users\fiste\Documents\GitHub\LaTeX_School_Kantonsschule\English\Essay\GPT-Essay
+PWD c:\Users\fiste\Documents\GitHub\LaTeX_School_Kantonsschule\German\Epochen\Frauenliteratur
 INPUT C:\Users\fiste\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\fiste\Documents\GitHub\LaTeX_School_Kantonsschule\English\Essay\GPT-Essay\essay.tex
-OUTPUT essay.log
+INPUT c:\Users\fiste\Documents\GitHub\LaTeX_School_Kantonsschule\German\Epochen\Frauenliteratur\summary.tex
+OUTPUT summary.log
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
@@ -69,10 +69,10 @@ INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.s
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\essay.aux
-INPUT .\essay.aux
-INPUT essay.aux
-OUTPUT essay.aux
+INPUT .\summary.aux
+INPUT .\summary.aux
+INPUT summary.aux
+OUTPUT summary.aux
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -99,76 +99,36 @@ INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
-OUTPUT essay.pdf
+OUTPUT summary.pdf
 INPUT C:\Users\fiste\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\resources\pdf\Kurzgeschichten.pdf
+INPUT .\resources\pdf\Kurzgeschichten.pdf
+INPUT .\resources\pdf\Kurzgeschichten.pdf
+INPUT .\resources\pdf\Kurzgeschichten.pdf
+INPUT .\resources\pdf\Kurzgeschichten.pdf
+INPUT .\resources\pdf\Kurzgeschichten.pdf
+INPUT .\resources\pdf\Kurzgeschichten.pdf
+INPUT .\resources\pdf\Kurzgeschichten.pdf
+INPUT .\resources\pdf\Kurzgeschichten.pdf
+INPUT .\resources\pdf\Kurzgeschichten.pdf
+INPUT .\resources\pdf\Kurzgeschichten.pdf
+INPUT .\resources\pdf\Kurzgeschichten.pdf
+INPUT .\resources\pdf\Kurzgeschichten.pdf
+INPUT .\resources\pdf\Kurzgeschichten.pdf
+INPUT .\resources\pdf\Kurzgeschichten.pdf
+INPUT .\resources\pdf\Kurzgeschichten.pdf
+INPUT .\resources\pdf\Kurzgeschichten.pdf
+INPUT .\resources\pdf\Kurzgeschichten.pdf
+INPUT .\resources\pdf\Kurzgeschichten.pdf
+INPUT .\resources\pdf\Kurzgeschichten.pdf
+INPUT .\resources\pdf\Kurzgeschichten.pdf
+INPUT .\resources\pdf\Kurzgeschichten.pdf
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
-INPUT .\resources\pdf\Argumentative Essay Writing.pdf
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
-INPUT essay.aux
+INPUT summary.aux
 INPUT C:\Users\fiste\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\fiste\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
@@ -179,3 +139,5 @@ INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\c
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
