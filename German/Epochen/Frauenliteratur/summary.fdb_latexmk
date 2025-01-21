@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1737460112.08641 "c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/German/Epochen/Frauenliteratur/summary.tex" "summary.pdf" "summary" 1737460112.81349 0
+["pdflatex"] 1737460982.80163 "c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/German/Epochen/Frauenliteratur/summary.tex" "summary.pdf" "summary" 1737460983.63591 0
   "C:/Users/fiste/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1737445551 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/fiste/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1736508873 11548 345a1da7815729fdbc4a240848edae00 ""
   "C:/Users/fiste/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1736506805 11993824 149d4662361325235f1a89f3693cf17c ""
@@ -56,11 +56,12 @@
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/pdfpages/pppdftex.def" 1730132580 6591 44acff2f5a3c688dbf342ff2ff0192e9 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1730400552 10214 61188260d324e94bc2f66825d7d3fdf4 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/German/Epochen/Frauenliteratur/summary.tex" 1737460111 6024 126e81fe20fa259d61ffd17e6033189e ""
+  "c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/German/Epochen/Frauenliteratur/summary.tex" 1737460982 7193 9f90460ad665bf4563b534191695b1c9 ""
+  "resources/pdf/Die_schönste_Version.pdf" 1737460211 198460 473cbff7f5d73b17379cbf843038e12c ""
   "resources/pdf/Kurzgeschichten.pdf" 1737455809 48364 e164f5f2bedbae957a542fdf7f7958c7 ""
   "resources/pdf/Lars_Karasek_Aufgabe.pdf" 1737458860 71712 6707c2b071fa46c5ae0ee3cd37dcae45 ""
-  "summary.aux" 1737460112 1393 3205fe856da2775936bb03a72cea7294 "pdflatex"
-  "summary.tex" 1737460111 6024 126e81fe20fa259d61ffd17e6033189e ""
+  "summary.aux" 1737460983 1603 55e41e41a8580a21f6b3c9ff7cc37563 "pdflatex"
+  "summary.tex" 1737460982 7193 9f90460ad665bf4563b534191695b1c9 ""
   (generated)
   "summary.aux"
   "summary.log"
