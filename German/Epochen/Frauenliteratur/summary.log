@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.10)  21 JAN 2025 12:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.10)  21 JAN 2025 12:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -336,25 +336,77 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 65.
 
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
-[4] (summary.aux)
+ []
+
+
+
+pdfTeX warning: pdflatex (file ./resources/pdf/Lars_Karasek_Aufgabe.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<resources/pdf/Lars_Karasek_Aufgabe.pdf, id=45, 597.4822pt x 845.1575pt>
+File: resources/pdf/Lars_Karasek_Aufgabe.pdf Graphic file (type pdf)
+<use resources/pdf/Lars_Karasek_Aufgabe.pdf>
+Package pdftex.def Info: resources/pdf/Lars_Karasek_Aufgabe.pdf  used on input line 104.
+(pdftex.def)             Requested size: 597.48073pt x 845.15544pt.
+
+
+pdfTeX warning: pdflatex (file ./resources/pdf/Lars_Karasek_Aufgabe.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+File: resources/pdf/Lars_Karasek_Aufgabe.pdf Graphic file (type pdf)
+<use resources/pdf/Lars_Karasek_Aufgabe.pdf>
+Package pdftex.def Info: resources/pdf/Lars_Karasek_Aufgabe.pdf  used on input line 104.
+(pdftex.def)             Requested size: 597.48073pt x 845.15544pt.
+
+
+pdfTeX warning: pdflatex (file ./resources/pdf/Lars_Karasek_Aufgabe.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./resources/pdf/Lars_Karasek_Aufgabe.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<resources/pdf/Lars_Karasek_Aufgabe.pdf, id=48, page=1, 597.4822pt x 845.1575pt>
+File: resources/pdf/Lars_Karasek_Aufgabe.pdf Graphic file (type pdf)
+<use resources/pdf/Lars_Karasek_Aufgabe.pdf, page 1>
+Package pdftex.def Info: resources/pdf/Lars_Karasek_Aufgabe.pdf , page1 used on input line 104.
+(pdftex.def)             Requested size: 597.48073pt x 845.15544pt.
+File: resources/pdf/Lars_Karasek_Aufgabe.pdf Graphic file (type pdf)
+<use resources/pdf/Lars_Karasek_Aufgabe.pdf, page 1>
+Package pdftex.def Info: resources/pdf/Lars_Karasek_Aufgabe.pdf , page1 used on input line 104.
+(pdftex.def)             Requested size: 537.729pt x 760.63474pt.
+
+
+[4]
+File: resources/pdf/Lars_Karasek_Aufgabe.pdf Graphic file (type pdf)
+<use resources/pdf/Lars_Karasek_Aufgabe.pdf, page 1>
+Package pdftex.def Info: resources/pdf/Lars_Karasek_Aufgabe.pdf , page1 used on input line 104.
+(pdftex.def)             Requested size: 537.729pt x 760.63474pt.
+File: resources/pdf/Lars_Karasek_Aufgabe.pdf Graphic file (type pdf)
+<use resources/pdf/Lars_Karasek_Aufgabe.pdf, page 1>
+Package pdftex.def Info: resources/pdf/Lars_Karasek_Aufgabe.pdf , page1 used on input line 104.
+(pdftex.def)             Requested size: 537.729pt x 760.63474pt.
+
+
+File: resources/pdf/Lars_Karasek_Aufgabe.pdf Graphic file (type pdf)
+<use resources/pdf/Lars_Karasek_Aufgabe.pdf, page 1>
+Package pdftex.def Info: resources/pdf/Lars_Karasek_Aufgabe.pdf , page1 used on input line 104.
+(pdftex.def)             Requested size: 537.729pt x 760.63474pt.
+[5
+
+ <./resources/pdf/Lars_Karasek_Aufgabe.pdf>] (summary.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4968 strings out of 473577
- 85570 string characters out of 5716317
- 503319 words of memory out of 5000000
- 28107 multiletter control sequences out of 15000+600000
+ 4980 strings out of 473577
+ 86170 string characters out of 5716317
+ 505319 words of memory out of 5000000
+ 28119 multiletter control sequences out of 15000+600000
  563265 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,18n,79p,384b,441s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\fiste\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on summary.pdf (4 pages, 117639 bytes).
+Output written on summary.pdf (5 pages, 184581 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
+ 98 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
