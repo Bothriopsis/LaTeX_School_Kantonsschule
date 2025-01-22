@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1737534921.21896 "c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/German/Literatur/Kafka/Heimkehr/introduction.tex" "introduction.pdf" "introduction" 1737534921.8389 0
+["pdflatex"] 1737536066.13318 "c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/German/Literatur/Kafka/Allgemein/introduction.tex" "introduction.pdf" "introduction" 1737536066.77416 0
   "C:/Users/fiste/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1737445551 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/fiste/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1736508873 11548 345a1da7815729fdbc4a240848edae00 ""
   "C:/Users/fiste/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1736506805 11993824 149d4662361325235f1a89f3693cf17c ""
@@ -58,9 +58,9 @@
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1730400552 10214 61188260d324e94bc2f66825d7d3fdf4 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1730400552 32879 f4cfa2226c995da5b04a89ee47abf182 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/German/Literatur/Kafka/Heimkehr/introduction.tex" 1737534920 3886 2ac8220bf5218b98742788919f1cca35 ""
-  "introduction.aux" 1737534921 557 8667997f6abbd8091567f23bc7f15103 "pdflatex"
-  "introduction.tex" 1737534920 3886 2ac8220bf5218b98742788919f1cca35 ""
+  "c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/German/Literatur/Kafka/Allgemein/introduction.tex" 1737536065 4828 955a4aa3f5f679ce6c13fe74dab00175 ""
+  "introduction.aux" 1737536066 799 4395703c914c1ae66abdcaafcd5332d5 "pdflatex"
+  "introduction.tex" 1737536065 4828 955a4aa3f5f679ce6c13fe74dab00175 ""
   (generated)
   "introduction.aux"
   "introduction.log"
