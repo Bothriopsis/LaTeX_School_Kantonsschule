@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.10)  23 JAN 2025 23:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.10)  23 JAN 2025 23:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -432,7 +432,7 @@ Package: fancyhdr 2025/01/07 v5.1.1 Extensive control of page headers and footer
 \f@nch@widthR=\skip73
 \@temptokenb=\toks31
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 27.
+Package hyperref Info: Option `colorlinks' set `true' on input line 25.
  (C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count312
@@ -440,24 +440,24 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 ) (bericht.aux)
 \openout1 = `bericht.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
  (C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count313
@@ -523,7 +523,7 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 51.
+Package hyperref Info: Link coloring ON on input line 49.
 (bericht.out) (bericht.out)
 \@outlinefile=\write3
 \openout3 = `bericht.out'.
@@ -534,7 +534,7 @@ Package hyperref Info: Link coloring ON on input line 51.
 pdfTeX warning (ext4): destination with the same identifier (name{page.I}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.64 \end{abstract}
+l.62 \end{abstract}
                     [1] (bericht.toc)
 \tf@toc=\write4
 \openout4 = `bericht.toc'.
@@ -543,7 +543,7 @@ l.64 \end{abstract}
 pdfTeX warning (ext4): destination with the same identifier (name{page.I}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.72 \newpage
+l.70 \newpage
               [1
 
 ]
@@ -568,37 +568,37 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 97--103
+Underfull \hbox (badness 10000) in paragraph at lines 95--101
 
  []
 
 <resources/images/Lautsprecher_Celestion.jpg, id=121, 2248.4pt x 1686.3pt>
 File: resources/images/Lautsprecher_Celestion.jpg Graphic file (type jpg)
 <use resources/images/Lautsprecher_Celestion.jpg>
-Package pdftex.def Info: resources/images/Lautsprecher_Celestion.jpg  used on input line 118.
+Package pdftex.def Info: resources/images/Lautsprecher_Celestion.jpg  used on input line 116.
 (pdftex.def)             Requested size: 162.1777pt x 121.62964pt.
 
-Underfull \hbox (badness 1859) in paragraph at lines 119--119
+Underfull \hbox (badness 1859) in paragraph at lines 117--117
 []\T1/cmr/m/n/10.95 Abbildung 1.1: |Laut-spre-cher von
  []
 
 <resources/images/Bassreflex-Gehäuse.png, id=125, 150.5625pt x 200.75pt>
 File: resources/images/Bassreflex-Gehäuse.png Graphic file (type png)
 <use resources/images/Bassreflex-Gehäuse.png>
-Package pdftex.def Info: resources/images/Bassreflex-Gehäuse.png  used on input line 139.
+Package pdftex.def Info: resources/images/Bassreflex-Gehäuse.png  used on input line 137.
 (pdftex.def)             Requested size: 81.08885pt x 108.12155pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
 []\T1/cmr/m/n/10.95 Abbildung 1.2:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
 |\T1/cmr/m/n/10.95 Bassreflex-
  []
 
 
-Underfull \hbox (badness 2582) in paragraph at lines 147--150
+Underfull \hbox (badness 2582) in paragraph at lines 145--148
 []\T1/cmr/m/n/10.95 Dabei wird als all-ge-mei-ne For-mel f�r die Be-rech-nung der
  []
 
