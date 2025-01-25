@@ -59,8 +59,8 @@
 \begin{titlepage}
     \centering
     \begin{tikzpicture}[remember picture, overlay]
-        \draw[line width=5pt, color=JungleGreen]($(current page.west)+(1cm, 0)$) -- ($(current page.north west)+(1cm, -1cm)$) -- ($(current page.north)+(0, -1cm)$);
-        \draw[line width=5pt, color=JungleGreen]($(current page.east)+(-1cm, 0)$) -- ($(current page.south east)+(-1cm, 1cm)$) -- ($(current page.south)+(0, 1cm)$);
+        \draw[line width=5pt, line cap=round, color=JungleGreen, rounded corners=5pt]($(current page.west)+(1cm, 0)$) -- ($(current page.north west)+(1cm, -1cm)$) -- ($(current page.north)+(0, -1cm)$);
+        \draw[line width=5pt, line cap=round, color=JungleGreen, rounded corners=5pt]($(current page.east)+(-1cm, 0)$) -- ($(current page.south east)+(-1cm, 1cm)$) -- ($(current page.south)+(0, 1cm)$);
     \end{tikzpicture}
     
     % Start Text

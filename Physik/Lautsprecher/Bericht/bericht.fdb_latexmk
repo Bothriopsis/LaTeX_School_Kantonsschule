@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex bericht"] 1737846239.35702 "bericht.aux" "bericht.bbl" "bericht" 1737846251.54907 0
+["bibtex bericht"] 1737846658.63197 "bericht.aux" "bericht.bbl" "bericht" 1737846660.03856 0
   "./mybib.bib" 1737582366 860 1ca1f4e156f79499208cbadad2ac7c3d ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "bericht.aux" 1737846250 3453 40e8e933710a853909c217f294afc2cd "pdflatex"
+  "bericht.aux" 1737846659 3453 40e8e933710a853909c217f294afc2cd "pdflatex"
   (generated)
   "bericht.bbl"
   "bericht.blg"
   (rewritten before read)
-["pdflatex"] 1737846250.33904 "d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" "bericht.pdf" "bericht" 1737846251.54961 0
+["pdflatex"] 1737846658.83073 "d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" "bericht.pdf" "bericht" 1737846660.03913 0
   "C:/Users/fiste/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1737583036 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/fiste/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1095.pk" 1737409475 28976 38beb3dac16ff72548b2c66013b00a8f ""
   "C:/Users/fiste/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1737409473 31952 048b21beb3179ca431168c11ad4aafcb ""
@@ -196,13 +196,13 @@
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "bericht.aux" 1737846250 3453 40e8e933710a853909c217f294afc2cd "pdflatex"
-  "bericht.bbl" 1737846239 796 11e8d580feaee030097339f8f0a9587d "bibtex bericht"
-  "bericht.lof" 1737846250 355 a945f4f2ea33f808fcccabf7f4cb0161 "pdflatex"
-  "bericht.out" 1737846250 1895 31ad1363b470a8426e0e3448249df570 "pdflatex"
-  "bericht.tex" 1737846249 7039 20648208d822bc911ce72ffe0881c237 ""
-  "bericht.toc" 1737846250 1227 a76edbbaa1bbb40153f420fe7007f4cb "pdflatex"
-  "d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" 1737846249 7039 20648208d822bc911ce72ffe0881c237 ""
+  "bericht.aux" 1737846659 3453 40e8e933710a853909c217f294afc2cd "pdflatex"
+  "bericht.bbl" 1737846658 796 11e8d580feaee030097339f8f0a9587d "bibtex bericht"
+  "bericht.lof" 1737846659 355 a945f4f2ea33f808fcccabf7f4cb0161 "pdflatex"
+  "bericht.out" 1737846659 1895 31ad1363b470a8426e0e3448249df570 "pdflatex"
+  "bericht.tex" 1737846655 7113 c0f31a957edc21c840e0bdc5569a7a36 ""
+  "bericht.toc" 1737846659 1227 a76edbbaa1bbb40153f420fe7007f4cb "pdflatex"
+  "d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" 1737846655 7113 c0f31a957edc21c840e0bdc5569a7a36 ""
   "resources/images/Andrin_Cyrill_building.jpeg" 1737754847 182492 da844caaffe8316c1e8b02c983b03ea4 ""
   "resources/images/Bassreflex-Gehäuse.png" 1737581631 999 0066f40f3ab1dca15a840f1e5d00acf8 ""
   "resources/images/Lautsprecher_Celestion.jpg" 1737393142 1310695 fd32fa6f4b336894e49ff242c1b79df0 ""
