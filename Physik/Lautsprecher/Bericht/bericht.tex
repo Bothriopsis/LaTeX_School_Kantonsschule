@@ -18,6 +18,7 @@
 \usetikzlibrary{calc}
 \usepackage{titling}
 
+
 % hyperlink setup
 \hypersetup{
     colorlinks,
@@ -62,7 +63,9 @@
         \draw[line width=5pt, line cap=round, color=JungleGreen, rounded corners=5pt]($(current page.west)+(1cm, 0)$) -- ($(current page.north west)+(1cm, -1cm)$) -- ($(current page.north)+(0, -1cm)$);
         \draw[line width=5pt, line cap=round, color=JungleGreen, rounded corners=5pt]($(current page.east)+(-1cm, 0)$) -- ($(current page.south east)+(-1cm, 1cm)$) -- ($(current page.south)+(0, 1cm)$);
     \end{tikzpicture}
-    
+
+    % background
+    \tikz[remember picture,overlay] \node[opacity=0.3,inner sep=0pt] at (current page.center){\includegraphics[width=\paperwidth - 4cm, height=\paperheight - 4cm]{resources/images/soundwafe_vertical.jpg}};
     % Start Text
     \vspace{4cm}
 
@@ -79,7 +82,9 @@
     \vspace{5cm}
 
     % showcase
-    \includegraphics[width=.4\linewidth]{resources/images/Andrin_Cyrill_building.jpeg}
+    %\includegraphics[width=.4\linewidth]{resources/images/Andrin_Cyrill_building.jpeg}
+     
+
 
 \end{titlepage}
 

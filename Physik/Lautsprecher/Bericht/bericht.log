@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.10)  26 JAN 2025 00:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.10)  26 JAN 2025 10:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -616,7 +616,7 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmargin=\skip75
 \droptitle=\skip76
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 28.
+Package hyperref Info: Option `colorlinks' set `true' on input line 29.
  (C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count333
@@ -624,24 +624,24 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 ) (bericht.aux)
 \openout1 = `bericht.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
  (C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count334
@@ -707,7 +707,7 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 52.
+Package hyperref Info: Link coloring ON on input line 53.
 (bericht.out) (bericht.out)
 \@outlinefile=\write4
 \openout4 = `bericht.out'.
@@ -718,14 +718,14 @@ pdfTeX warning: pdflatex (file ./resources/pdf/Title.pdf): PDF inclusion: found 
 <resources/pdf/Title.pdf, id=74, 542.025pt x 782.925pt>
 File: resources/pdf/Title.pdf Graphic file (type pdf)
 <use resources/pdf/Title.pdf>
-Package pdftex.def Info: resources/pdf/Title.pdf  used on input line 56.
+Package pdftex.def Info: resources/pdf/Title.pdf  used on input line 57.
 (pdftex.def)             Requested size: 542.02367pt x 782.9231pt.
 
 
 pdfTeX warning: pdflatex (file ./resources/pdf/Title.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
 File: resources/pdf/Title.pdf Graphic file (type pdf)
 <use resources/pdf/Title.pdf>
-Package pdftex.def Info: resources/pdf/Title.pdf  used on input line 56.
+Package pdftex.def Info: resources/pdf/Title.pdf  used on input line 57.
 (pdftex.def)             Requested size: 542.02367pt x 782.9231pt.
 
 
@@ -736,49 +736,49 @@ pdfTeX warning: pdflatex (file ./resources/pdf/Title.pdf): PDF inclusion: found 
 <resources/pdf/Title.pdf, id=77, page=1, 542.025pt x 782.925pt>
 File: resources/pdf/Title.pdf Graphic file (type pdf)
 <use resources/pdf/Title.pdf, page 1>
-Package pdftex.def Info: resources/pdf/Title.pdf , page1 used on input line 56.
+Package pdftex.def Info: resources/pdf/Title.pdf , page1 used on input line 57.
 (pdftex.def)             Requested size: 542.02367pt x 782.9231pt.
 File: resources/pdf/Title.pdf Graphic file (type pdf)
 <use resources/pdf/Title.pdf, page 1>
-Package pdftex.def Info: resources/pdf/Title.pdf , page1 used on input line 56.
+Package pdftex.def Info: resources/pdf/Title.pdf , page1 used on input line 57.
 (pdftex.def)             Requested size: 569.1265pt x 822.07162pt.
 File: resources/pdf/Title.pdf Graphic file (type pdf)
 <use resources/pdf/Title.pdf, page 1>
-Package pdftex.def Info: resources/pdf/Title.pdf , page1 used on input line 56.
+Package pdftex.def Info: resources/pdf/Title.pdf , page1 used on input line 57.
 (pdftex.def)             Requested size: 569.1265pt x 822.07162pt.
 File: resources/pdf/Title.pdf Graphic file (type pdf)
 <use resources/pdf/Title.pdf, page 1>
-Package pdftex.def Info: resources/pdf/Title.pdf , page1 used on input line 56.
+Package pdftex.def Info: resources/pdf/Title.pdf , page1 used on input line 57.
 (pdftex.def)             Requested size: 569.1265pt x 822.07162pt.
 File: resources/pdf/Title.pdf Graphic file (type pdf)
 <use resources/pdf/Title.pdf, page 1>
-Package pdftex.def Info: resources/pdf/Title.pdf , page1 used on input line 56.
+Package pdftex.def Info: resources/pdf/Title.pdf , page1 used on input line 57.
 (pdftex.def)             Requested size: 569.1265pt x 822.07162pt.
 [1
 
 
  <./resources/pdf/Title.pdf>]
-<resources/images/Andrin_Cyrill_building.jpeg, id=97, 770.88pt x 1027.84pt>
-File: resources/images/Andrin_Cyrill_building.jpeg Graphic file (type jpg)
-<use resources/images/Andrin_Cyrill_building.jpeg>
-Package pdftex.def Info: resources/images/Andrin_Cyrill_building.jpeg  used on input line 82.
-(pdftex.def)             Requested size: 170.71393pt x 227.61543pt.
+<resources/images/soundwafe_vertical.jpg, id=97, 5781.6pt x 2409.0pt>
+File: resources/images/soundwafe_vertical.jpg Graphic file (type jpg)
+<use resources/images/soundwafe_vertical.jpg>
+Package pdftex.def Info: resources/images/soundwafe_vertical.jpg  used on input line 68.
+(pdftex.def)             Requested size: 483.62204pt x 731.23352pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.I}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.84 \end{titlepage}
-                     [1{C:/Users/fiste/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./resources/images/Andrin_Cyrill_building.jpeg>]
+l.89 \end{titlepage}
+                     [1{C:/Users/fiste/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./resources/images/soundwafe_vertical.jpg>]
 pdfTeX warning (ext4): destination with the same identifier (name{page.I}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.87 \maketitle
+l.92 \maketitle
                 [1]
 pdfTeX warning (ext4): destination with the same identifier (name{page.I}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.97 \end{abstract}
-                    [1] (bericht.toc)
+l.102 \end{abstract}
+                     [1] (bericht.toc)
 \tf@toc=\write5
 \openout5 = `bericht.toc'.
 
@@ -806,37 +806,37 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [3
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 128--134
+Underfull \hbox (badness 10000) in paragraph at lines 133--139
 
  []
 
 <resources/images/Lautsprecher_Celestion.jpg, id=151, 2248.4pt x 1686.3pt>
 File: resources/images/Lautsprecher_Celestion.jpg Graphic file (type jpg)
 <use resources/images/Lautsprecher_Celestion.jpg>
-Package pdftex.def Info: resources/images/Lautsprecher_Celestion.jpg  used on input line 149.
+Package pdftex.def Info: resources/images/Lautsprecher_Celestion.jpg  used on input line 154.
 (pdftex.def)             Requested size: 162.1777pt x 121.62964pt.
 
-Underfull \hbox (badness 1859) in paragraph at lines 150--150
+Underfull \hbox (badness 1859) in paragraph at lines 155--155
 []\T1/cmr/m/n/10.95 Abbildung 1.1: |Laut-spre-cher von
  []
 
 <resources/images/Bassreflex-Gehäuse.png, id=155, 150.5625pt x 200.75pt>
 File: resources/images/Bassreflex-Gehäuse.png Graphic file (type png)
 <use resources/images/Bassreflex-Gehäuse.png>
-Package pdftex.def Info: resources/images/Bassreflex-Gehäuse.png  used on input line 170.
+Package pdftex.def Info: resources/images/Bassreflex-Gehäuse.png  used on input line 175.
 (pdftex.def)             Requested size: 81.08885pt x 108.12155pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--171
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
 []\T1/cmr/m/n/10.95 Abbildung 1.2:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--171
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
 |\T1/cmr/m/n/10.95 Bassreflex-
  []
 
 
-Underfull \hbox (badness 2582) in paragraph at lines 178--181
+Underfull \hbox (badness 2582) in paragraph at lines 183--186
 []\T1/cmr/m/n/10.95 Dabei wird als all-ge-mei-ne For-mel f�r die Be-rech-nung der
  []
 
@@ -949,15 +949,15 @@ Package rerunfilecheck Info: File `bericht.out' has not changed.
 (rerunfilecheck)             Checksum: 31AD1363B470A8426E0E3448249DF570;1895.
  ) 
 Here is how much of TeX's memory you used:
- 24778 strings out of 474486
- 464130 string characters out of 5743755
+ 24802 strings out of 474486
+ 464579 string characters out of 5743755
  1937542 words of memory out of 5000000
- 46593 multiletter control sequences out of 15000+600000
+ 46617 multiletter control sequences out of 15000+600000
  572462 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,18n,87p,474b,585s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,18n,87p,474b,630s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\fiste\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\fiste\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\fiste\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\fiste\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\fiste\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\fiste\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\fiste\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\fiste\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\fiste\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\fiste\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on bericht.pdf (16 pages, 2057584 bytes).
+Output written on bericht.pdf (16 pages, 3579797 bytes).
 PDF statistics:
  584 PDF objects out of 1000 (max. 8388607)
  49 named destinations out of 1000 (max. 500000)
