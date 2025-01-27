@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.1.26)  27 JAN 2025 12:00
+This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.1.26)  27 JAN 2025 12:03
  restricted system commands enabled.
  file:line:error style messages enabled.
 **d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex
@@ -1229,7 +1229,12 @@ File: resources/images/soundwave.jpg Graphic file (type jpg)
 Package luatex.def Info: resources/images/soundwave.jpg  used on input line 80.
 
 (luatex.def)             Requested size: 483.68085pt x 731.24577pt.
- [1
+
+
+LaTeX Font Warning: Font shape `TU/BebasNeue(0)/b/n' undefined
+(Font)              using `TU/BebasNeue(0)/m/n' instead on input line 85.
+
+[1
 
 {C:/Users/fiste/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./resources/im
 ages/soundwave.jpg>]
@@ -1448,31 +1453,31 @@ Package rerunfilecheck Info: File `bericht.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 27965 strings out of 476497
+ 27968 strings out of 476497
  125027,1977958 words of node,token memory allocated
  656 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 31 attribute, 66 glue_spec
 , 17 attribute_list, 2 write, 3 pdf_action nodes
    avail lists: 1:2,2:812,3:265,4:118,5:348,6:58,7:4432,8:89,9:479,10:11,11:438
- 49251 multiletter control sequences out of 65536+600000
- 52 fonts using 4706679 bytes
+ 49254 multiletter control sequences out of 65536+600000
+ 53 fonts using 4786527 bytes
  84i,11n,89p,473b,659s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <//?/c:/users/fiste/appdata/local/programs/miktex/fonts/opentype/public/lm/lmrom
 an10-italic.otf><//?/c:/users/fiste/appdata/local/programs/miktex/fonts/opentype
 /public/lm/lmmono10-regular.otf><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fo
-nts/opentype/public/tex-gyre/texgyreheros-bold.otf><C:/Users/fiste/AppData/Local
-/Microsoft/Windows/Fonts/bebasneue-regular.ttf><//?/c:/users/fiste/appdata/local
-/programs/miktex/fonts/opentype/public/lm/lmroman10-bold.otf><//?/c:/users/fiste
-/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman10-regular.otf></
-/?/c:/users/fiste/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman
-12-bold.otf><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+nts/opentype/public/tex-gyre/texgyreheros-bold.otf><//?/c:/users/fiste/appdata/l
+ocal/programs/miktex/fonts/opentype/public/lm/lmroman12-bold.otf><//?/c:/users/f
+iste/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman10-bold.otf><
+//?/c:/users/fiste/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroma
+n10-regular.otf><C:/Users/fiste/AppData/Local/Microsoft/Windows/Fonts/bebasneue-
+regular.ttf><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmmi10.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmmi8.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmr10.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/
 fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/fiste/AppData/Local/Programs/M
 iKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/fiste/AppData/Local/Pr
 ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on bericht.pdf (15 pages, 3140092 bytes).
+Output written on bericht.pdf (15 pages, 3139671 bytes).
 
 PDF statistics: 270 PDF objects out of 1000 (max. 8388607)
  50 named destinations out of 1000 (max. 131072)

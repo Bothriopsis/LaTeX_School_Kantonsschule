@@ -400,10 +400,10 @@ INPUT .\resources\images\soundwave.jpg
 INPUT .\resources\images\soundwave.jpg
 INPUT .\resources\images\soundwave.jpg
 INPUT .\resources\images\soundwave.jpg
-INPUT C:\Users\fiste\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\lmroman17-regular.luc
-INPUT C:\Users\fiste\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\lmroman12-bold.luc
 INPUT C:\Users\fiste\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT .\resources\images\soundwave.jpg
+INPUT C:\Users\fiste\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\lmroman17-regular.luc
+INPUT C:\Users\fiste\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\lmroman12-bold.luc
 INPUT .\bericht.toc
 INPUT .\bericht.toc
 INPUT C:\Users\fiste\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\lmroman12-regular.luc
