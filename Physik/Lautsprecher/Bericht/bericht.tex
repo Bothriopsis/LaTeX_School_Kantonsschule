@@ -1,5 +1,4 @@
 \documentclass[a4paper,11pt]{report}
-\usepackage[utf8]{inputenc}
 \usepackage{amsmath}
 \usepackage{graphicx}
 \usepackage{wrapfig}
@@ -19,7 +18,6 @@
 \usepackage{fontspec}
 \usepackage{titlesec}
 \usepackage{moresize}
-
 
 % font setup
 \newfontfamily{\newUpperTitleFont}{Bebas Neue}
@@ -48,6 +46,7 @@
 \fancyhead[C]{Kantonnschule - Physik}
 \fancyhead[R]{\thepage}
 \renewcommand{\headrulewidth}{1pt}
+\setlength{\headheight}{30pt}
 
 \fancypagestyle{plain}{
     \fancyhead[L]{Andrin Tim Lerjen, \\ Nadja Rahm, Niklas Fister}
@@ -139,29 +138,32 @@
 \newpage
 \section{Theorie}
 \subsection{Wichtige Formeln}
-\textbf{Relevante Variablen} \\
-\(\mu_0\) : magnetische Permeabilität des Vakuums \\
-\(\mu_r\) : magnetische Permeabilität des Füllmaterials \\
-\(N\) : Anzahl Windungen \\
-\(I\) : Stromstärke \\
-\(L\) : Länge der Spule \\
+\textbf{Relevante Variablen} \par
+\begin{tabbing}
+    gamma\quad\= a Greek latter\kill
+    \(\mu_0\) :     \> magnetische Permeabilität des Vakuums \\
+    \(\mu_r\) :     \>magnetische Permeabilität des Füllmaterials \\
+    \(N\) :         \> Anzahl Windungen \\
+    \(I\) :         \>Stromstärke \\
+    \(L\) :         \>Länge der Spule \\
+\end{tabbing}
 
 \textbf{Berechnung der magnetischen Permeabilit im Vakuum}
 \begin{equation}
     \mu_0 = 4 \cdot \pi \cdot 10^{-7} \frac{V \cdot s}{A \cdot m}
-\end{equation}
+\end{equation}\par
 
 \textbf{Berechnung der magnetischen Kraft mit Füllmaterial}
 \begin{equation}
     B(r) \approx \frac{\mu_0 \cdot \mu_r \cdot N \cdot I}{L}
-\end{equation}
+\end{equation}\par
 
 \subsection{Geschichte des Lautsprechers}
 
 \begin{wrapfigure}{r}{0.4\textwidth}
     \centering
     \includegraphics[width=.95\linewidth]{resources/images/Lautsprecher_Celestion.jpg}
-    \caption{Lautsprecher von Celestion}
+    \caption{\raggedright{Lautsprecher von Celestion}}
     \label{fig:celection_speaker}
 \end{wrapfigure}
 
@@ -182,16 +184,19 @@ Vielen forschten gleichzeitig in diesem Thema und Patente unterschieden sich nur
 \begin{wrapfigure}{r}{0.2\textwidth}
     \centering
     \includegraphics[width=.95\linewidth]{resources/images/Bassreflex-Gehäuse.png}
-    \caption{Bassreflex-Gehäuse}
+    \caption{\raggedright{Bassreflex-Gehäuse}}
     \label{fig:bassreflex}
 \end{wrapfigure}
 
 Um eine möglichst guten Bass zu generieren ist die Bauart eines Bassreflex-Gehäuses optimal. Durch die offene Bauweise mit einem sogenannten "Bassrefelexkanal" versehen.
 Das Innere des Körpers wird als Resonator gebraucht, um den Bass zu verstärken.
 
-Dabei wird als allgemeine Formel für die Berechnung der Resonator-Kanälen mit kreisförmigen Querschnitt:\\
-d : Durchmesser (in cm) \\
-l : Länge (in cm)
+Dabei wird als allgemeine Formel für die Berechnung der Resonator-Kanälen mit kreisförmigen Querschnitt:
+\begin{tabbing}
+    gamma\quad\= a Greek latter\kill
+    d :    \>Durchmesser (in cm) \\
+    l :    \>Länge (in cm)
+\end{tabbing}
 
 \begin{equation}
     l = \frac{23400 \cdot d^2}{f^2 \cdot V_b} - 0.8 \cdot d
@@ -219,7 +224,6 @@ l : Länge (in cm)
     \end{itemize}
 \end{multicols}
 \section{Methoden}
-\section{Bauplan}
 \chapter{Resultate}
 \chapter{Diskussion}
 

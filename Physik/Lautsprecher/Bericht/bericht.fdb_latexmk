@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex bericht"] 1737976304.27417 "bericht.aux" "bericht.bbl" "bericht" 1737976418.95441 0
+["bibtex bericht"] 1737981047.9837 "bericht.aux" "bericht.bbl" "bericht" 1737981161.4005 0
   "./mybib.bib" 1737582366 860 1ca1f4e156f79499208cbadad2ac7c3d ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "bericht.aux" 1737976418 3498 e2ab74961cbd0e514809249656d12166 "lualatex"
+  "bericht.aux" 1737981160 3452 2cfa2e2bb0a015285ec7d2aa4e66ac87 "lualatex"
   (generated)
   "bericht.bbl"
   "bericht.blg"
   (rewritten before read)
-["lualatex"] 1737976416.91838 "d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" "bericht.pdf" "bericht" 1737976418.95492 0
+["lualatex"] 1737981159.33404 "d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" "bericht.pdf" "bericht" 1737981161.40103 0
   "//?/c:/users/fiste/appdata/local/programs/miktex/fonts/opentype/public/lm/lmmono10-regular.otf" 1256929440 64684 c6f5a48921f83c1a51d9384f785ddd5a ""
   "//?/c:/users/fiste/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman10-bold.otf" 1256929440 111240 1d60e9def74b1102bb4defa7cb772ee3 ""
   "//?/c:/users/fiste/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman10-italic.otf" 1256929440 118828 5d91d27a335c65bda4818de63abc25ce ""
@@ -143,7 +143,6 @@
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/base/atveryend-ltx.sty" 1705273579 2462 6bc53756156dbd71c1ad550d30a3b93f ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty" 1705273578 5119 a04a8b68ab4f6ce800a41f7f8012a10e ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/base/ifthen.sty" 1705273578 5319 2b738d02ce36ada6dcdd9534940db0ee ""
-  "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty" 1705273578 5048 425739d70251273bf93e3d51f3c40048 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/base/ltluatex.lua" 1705273578 24543 44e225ecc61706b060f0189a96e1cc1d ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/base/report.cls" 1705273579 23203 f5d913095ece2233436f0e628619cd37 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/base/size11.clo" 1705273578 8464 59874a3b0776c73e2a138b025d8473dd ""
@@ -252,13 +251,13 @@
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload-unicode.lua" 1693506766 7917 2ac5fb697191fbe7f30f4ab4e5f7037b ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload.lua" 1693506766 13565 c514d92e6ff6be7b2f35d8e0eb56185c ""
   "C:/Users/fiste/AppData/Roaming/MiKTeX/tex/generic/config/language.dat" 1736530677 2269 c2be9efecb8e53facf8213ae101f16af ""
-  "bericht.aux" 1737976418 3498 e2ab74961cbd0e514809249656d12166 "lualatex"
-  "bericht.bbl" 1737976304 796 11e8d580feaee030097339f8f0a9587d "bibtex bericht"
-  "bericht.lof" 1737976418 355 a945f4f2ea33f808fcccabf7f4cb0161 "lualatex"
-  "bericht.out" 1737976418 1895 31ad1363b470a8426e0e3448249df570 "lualatex"
-  "bericht.tex" 1737976416 7898 76a977d6b61b42f03fc1bc3ef32a0658 ""
-  "bericht.toc" 1737976418 1228 a3d12773418f581d5ebd6db21c880a7a "lualatex"
-  "d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" 1737976416 7898 76a977d6b61b42f03fc1bc3ef32a0658 ""
+  "bericht.aux" 1737981160 3452 2cfa2e2bb0a015285ec7d2aa4e66ac87 "lualatex"
+  "bericht.bbl" 1737981048 796 11e8d580feaee030097339f8f0a9587d "bibtex bericht"
+  "bericht.lof" 1737981160 385 81ca37c9c693774bf1bf45af55faf659 "lualatex"
+  "bericht.out" 1737981160 1805 c299b6d0248d54089e276e7711751c4e "lualatex"
+  "bericht.tex" 1737981158 8137 60431b5f337199c6d74c8749bb268fd2 ""
+  "bericht.toc" 1737981160 1161 f7772310b4d38e5b9fb8f026b32a9283 "lualatex"
+  "d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" 1737981158 8137 60431b5f337199c6d74c8749bb268fd2 ""
   "resources/images/Bassreflex-Gehäuse.png" 1737581631 999 0066f40f3ab1dca15a840f1e5d00acf8 ""
   "resources/images/Lautsprecher_Celestion.jpg" 1737393142 1310695 fd32fa6f4b336894e49ff242c1b79df0 ""
   "resources/images/soundwave.jpg" 1737841789 1699285 aeca5d0add63e9f443eaf978eaf38c73 ""
