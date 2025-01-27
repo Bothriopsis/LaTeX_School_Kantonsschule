@@ -1,7 +1,6 @@
 \documentclass[a4paper,11pt]{report}
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath}
-\usepackage[T1]{fontenc}
 \usepackage{graphicx}
 \usepackage{wrapfig}
 \usepackage{caption}
@@ -17,8 +16,20 @@
 \usepackage{tikz}
 \usetikzlibrary{calc}
 \usepackage{titling}
-\usepackage[T1]{fontenc}
+\usepackage{fontspec}
+\usepackage{titlesec}
+\usepackage{moresize}
 
+
+% font setup
+\newfontfamily{\newUpperTitleFont}{Bebas Neue}
+\newfontfamily{\newLowerTitleFont}{Tex Gyre Heros Bold}
+
+% font init
+\titleformat{\part}[display]{\centering\HUGE\scshape\newUpperTitleFont}{\partname~\thepart}{10pt}{}
+\titleformat{\chapter}{\Huge\bfseries\newUpperTitleFont}{\thechapter}{1em}{}
+\titleformat*{\section}{\Large\bfseries\newLowerTitleFont}
+\titleformat*{\subsection}{\large\bfseries\newLowerTitleFont}
 
 % hyperlink setup
 \hypersetup{
@@ -55,7 +66,7 @@
 \pagenumbering{Roman}
 
 % pretitle
-\includepdf[scale=1.05]{resources/pdf/Title.pdf}
+%\includepdf[scale=1.05]{resources/pdf/Title.pdf}
 
 % own title
 \begin{titlepage}
@@ -71,7 +82,7 @@
     \vspace{4cm}
 
     % the title
-    {\fontfamily{phv}\thetitle\par}
+    {\thetitle\par}
     \vspace{1cm}
 
     % the autors
@@ -87,7 +98,7 @@
 \end{titlepage}
 
 % normal title
-\maketitle
+%\maketitle
 
 % Abstract
 \begin{abstract}
