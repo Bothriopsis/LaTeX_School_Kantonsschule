@@ -10,7 +10,7 @@
 \usepackage[a4paper, left=3cm, right=3cm, top=3cm, bottom=3cm]{geometry}
 \usepackage[ngerman]{babel}
 \usepackage{hyperref}
-\usepackage[dvipsnames]{xcolor}
+\usepackage[x11names]{xcolor}
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \usepackage{tikz}
@@ -26,17 +26,17 @@
 \newfontfamily{\newLowerTitleFont}{Tex Gyre Heros Bold}
 
 % font init
-\titleformat{\part}[display]{\centering\HUGE\scshape\newUpperTitleFont}{\partname~\thepart}{10pt}{}
-\titleformat{\chapter}{\Huge\bfseries\newUpperTitleFont}{\thechapter}{1em}{}
-\titleformat*{\section}{\Large\bfseries\newLowerTitleFont}
-\titleformat*{\subsection}{\large\bfseries\newLowerTitleFont}
+\titleformat{\part}[display]{\centering\HUGE\scshape\newUpperTitleFont\color{SlateBlue4}}{\partname~\thepart}{10pt}{}
+\titleformat{\chapter}{\Huge\bfseries\newUpperTitleFont\color{SlateBlue4}}{\thechapter}{1em}{}
+\titleformat*{\section}{\Large\bfseries\newLowerTitleFont\color{SlateBlue3}}
+\titleformat*{\subsection}{\large\bfseries\newLowerTitleFont\color{SlateBlue2}}
 
 % hyperlink setup
 \hypersetup{
     colorlinks,
     citecolor=black,
     filecolor=black,
-    linkcolor=Emerald,
+    linkcolor=SlateBlue3,
     urlcolor=black
 }
 
@@ -72,8 +72,8 @@
 \begin{titlepage}
     \centering
     \begin{tikzpicture}[remember picture, overlay]
-        \draw[line width=5pt, line cap=round, color=JungleGreen, rounded corners=5pt]($(current page.west)+(1cm, 0)$) -- ($(current page.north west)+(1cm, -1cm)$) -- ($(current page.north)+(0, -1cm)$);
-        \draw[line width=5pt, line cap=round, color=JungleGreen, rounded corners=5pt]($(current page.east)+(-1cm, 0)$) -- ($(current page.south east)+(-1cm, 1cm)$) -- ($(current page.south)+(0, 1cm)$);
+        \draw[line width=5pt, line cap=round, color=SlateBlue1, rounded corners=5pt]($(current page.west)+(1cm, 0)$) -- ($(current page.north west)+(1cm, -1cm)$) -- ($(current page.north)+(0, -1cm)$);
+        \draw[line width=5pt, line cap=round, color=SlateBlue1, rounded corners=5pt]($(current page.east)+(-1cm, 0)$) -- ($(current page.south east)+(-1cm, 1cm)$) -- ($(current page.south)+(0, 1cm)$);
     \end{tikzpicture}
 
     % background
