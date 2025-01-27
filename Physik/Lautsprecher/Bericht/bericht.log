@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.1.26)  27 JAN 2025 17:52
+This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.1.26)  27 JAN 2025 18:23
  restricted system commands enabled.
  file:line:error style messages enabled.
 **d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex
@@ -1270,9 +1270,25 @@ nput line 165.
 File: resources/images/Bassreflex-Gehäuse.png Graphic file (type png)
 <use resources/images/Bassreflex-Gehäuse.png>
 Package luatex.def Info: resources/images/Bassreflex-Gehäuse.png  used on inpu
-t line 187.
-(luatex.def)             Requested size: 101.36261pt x 135.15425pt.
- [5<./resources/images/Bassreflex-Gehäuse.png>]
+t line 191.
+(luatex.def)             Requested size: 76.82074pt x 102.43015pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 192.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
+[]\TU/lmr/m/n/10.95 Ab-bil-dung 1.2:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
+|[]\TU/lmr/m/n/10.95 Bassreflex-
+ []
+
+[5<./resources/images/Bassreflex-Gehäuse.png>]
 Kapitel 2.
 [6
 
@@ -1333,13 +1349,13 @@ Package rerunfilecheck Info: File `bericht.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 28187 strings out of 476497
+ 28189 strings out of 476497
  125027,1977958 words of node,token memory allocated
  656 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 31 attribute, 66 glue_spec
 , 17 attribute_list, 2 write, 3 pdf_action nodes
-   avail lists: 1:3,2:712,3:208,4:115,5:290,6:47,7:3229,8:89,9:382,10:9,11:326
- 49479 multiletter control sequences out of 65536+600000
+   avail lists: 1:2,2:712,3:207,4:113,5:288,6:47,7:3229,8:89,9:382,10:11,11:326
+ 49481 multiletter control sequences out of 65536+600000
  53 fonts using 4786527 bytes
  84i,11n,89p,473b,659s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <//?/c:/users/fiste/appdata/local/programs/miktex/fonts/opentype/public/lm/lmrom
