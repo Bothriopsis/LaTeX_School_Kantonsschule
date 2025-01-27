@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex bericht"] 1737981047.9837 "bericht.aux" "bericht.bbl" "bericht" 1737981161.4005 0
+["bibtex bericht"] 1737981431.67664 "bericht.aux" "bericht.bbl" "bericht" 1737981479.05988 0
   "./mybib.bib" 1737582366 860 1ca1f4e156f79499208cbadad2ac7c3d ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "bericht.aux" 1737981160 3452 2cfa2e2bb0a015285ec7d2aa4e66ac87 "lualatex"
+  "bericht.aux" 1737981478 3452 7918c521f38408b38e2a0d0e8c301543 "lualatex"
   (generated)
   "bericht.bbl"
   "bericht.blg"
   (rewritten before read)
-["lualatex"] 1737981159.33404 "d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" "bericht.pdf" "bericht" 1737981161.40103 0
+["lualatex"] 1737981477.04795 "d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" "bericht.pdf" "bericht" 1737981479.06043 0
   "//?/c:/users/fiste/appdata/local/programs/miktex/fonts/opentype/public/lm/lmmono10-regular.otf" 1256929440 64684 c6f5a48921f83c1a51d9384f785ddd5a ""
   "//?/c:/users/fiste/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman10-bold.otf" 1256929440 111240 1d60e9def74b1102bb4defa7cb772ee3 ""
   "//?/c:/users/fiste/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman10-italic.otf" 1256929440 118828 5d91d27a335c65bda4818de63abc25ce ""
@@ -251,13 +251,13 @@
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload-unicode.lua" 1693506766 7917 2ac5fb697191fbe7f30f4ab4e5f7037b ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload.lua" 1693506766 13565 c514d92e6ff6be7b2f35d8e0eb56185c ""
   "C:/Users/fiste/AppData/Roaming/MiKTeX/tex/generic/config/language.dat" 1736530677 2269 c2be9efecb8e53facf8213ae101f16af ""
-  "bericht.aux" 1737981160 3452 2cfa2e2bb0a015285ec7d2aa4e66ac87 "lualatex"
-  "bericht.bbl" 1737981048 796 11e8d580feaee030097339f8f0a9587d "bibtex bericht"
-  "bericht.lof" 1737981160 385 81ca37c9c693774bf1bf45af55faf659 "lualatex"
-  "bericht.out" 1737981160 1805 c299b6d0248d54089e276e7711751c4e "lualatex"
-  "bericht.tex" 1737981158 8137 60431b5f337199c6d74c8749bb268fd2 ""
-  "bericht.toc" 1737981160 1161 f7772310b4d38e5b9fb8f026b32a9283 "lualatex"
-  "d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" 1737981158 8137 60431b5f337199c6d74c8749bb268fd2 ""
+  "bericht.aux" 1737981478 3452 7918c521f38408b38e2a0d0e8c301543 "lualatex"
+  "bericht.bbl" 1737981431 796 11e8d580feaee030097339f8f0a9587d "bibtex bericht"
+  "bericht.lof" 1737981478 385 7630ee84c1dcb21eeb4209c2034c6c61 "lualatex"
+  "bericht.out" 1737981478 1805 c299b6d0248d54089e276e7711751c4e "lualatex"
+  "bericht.tex" 1737981476 8147 097ae59e2c0ac615ad1e6c221bde17e5 ""
+  "bericht.toc" 1737981478 1161 f6c4268bfd85f718bc9a897018dc7a98 "lualatex"
+  "d:/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" 1737981476 8147 097ae59e2c0ac615ad1e6c221bde17e5 ""
   "resources/images/Bassreflex-Gehäuse.png" 1737581631 999 0066f40f3ab1dca15a840f1e5d00acf8 ""
   "resources/images/Lautsprecher_Celestion.jpg" 1737393142 1310695 fd32fa6f4b336894e49ff242c1b79df0 ""
   "resources/images/soundwave.jpg" 1737841789 1699285 aeca5d0add63e9f443eaf978eaf38c73 ""
