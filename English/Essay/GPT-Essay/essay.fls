@@ -1,6 +1,6 @@
-PWD c:\Users\fiste\Documents\GitHub\LaTeX_School_Kantonsschule\English\Essay\GPT-Essay
+PWD d:\GitHub\LaTeX_School_Kantonsschule\English\Essay\GPT-Essay
 INPUT C:\Users\fiste\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\fiste\Documents\GitHub\LaTeX_School_Kantonsschule\English\Essay\GPT-Essay\essay.tex
+INPUT d:\GitHub\LaTeX_School_Kantonsschule\English\Essay\GPT-Essay\essay.tex
 OUTPUT essay.log
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
