@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1739866699.97375 "d:/GitHub/LaTeX_School_Kantonsschule/Mathematik/Summary/summary.tex" "summary.pdf" "summary" 1739866701.75811 0
+["lualatex"] 1739866778.47564 "d:/GitHub/LaTeX_School_Kantonsschule/Mathematik/Summary/summary.tex" "summary.pdf" "summary" 1739866780.26823 0
   "//?/c:/users/fiste/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman10-regular.otf" 1256929440 111536 fc712364c8d0a1b548d46c76f2678030 ""
   "C:/Users/fiste/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1737996888 123019 4e6d54fe28a67ad1b512b0cc9d03c2e8 ""
   "C:/Users/fiste/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/bebasneue-regular.luc" 1737924035 101099 3ca54538c3a54b4745a896cfbafdc1a3 ""
@@ -290,11 +290,11 @@
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload-unicode.lua" 1693506766 7917 2ac5fb697191fbe7f30f4ab4e5f7037b ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload.lua" 1693506766 13565 c514d92e6ff6be7b2f35d8e0eb56185c ""
   "C:/Users/fiste/AppData/Roaming/MiKTeX/tex/generic/config/language.dat" 1736530677 2269 c2be9efecb8e53facf8213ae101f16af ""
-  "d:/GitHub/LaTeX_School_Kantonsschule/Mathematik/Summary/summary.tex" 1739866699 3813 2dd998aca5a98ee9f31c6da6c15dbe24 ""
+  "d:/GitHub/LaTeX_School_Kantonsschule/Mathematik/Summary/summary.tex" 1739866778 3950 711be6ffb15141a76892e9044bcb3b43 ""
   "resources/images/Mandelbrotmenge.jpg" 1739864978 1563277 5443e541ebc37540840f60a8988c5a09 ""
-  "summary.aux" 1739866701 1063 8461a173697155f371b3eae40d68005c "lualatex"
-  "summary.out" 1739866701 1008 d981d2d3dcff20ee3ac0b18ecf6c0a0f "lualatex"
-  "summary.tex" 1739866699 3813 2dd998aca5a98ee9f31c6da6c15dbe24 ""
+  "summary.aux" 1739866779 1063 8461a173697155f371b3eae40d68005c "lualatex"
+  "summary.out" 1739866779 1008 d981d2d3dcff20ee3ac0b18ecf6c0a0f "lualatex"
+  "summary.tex" 1739866778 3950 711be6ffb15141a76892e9044bcb3b43 ""
   (generated)
   "summary.aux"
   "summary.log"
