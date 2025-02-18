@@ -18,6 +18,8 @@
 \usepackage{fontspec}
 \usepackage{titlesec}
 \usepackage{moresize}
+\usepackage{pgfplots}
+\pgfplotsset{width=13cm,compat=1.9}
 
 % font setup
 \newfontfamily{\newUpperTitleFont}{Bebas Neue}
@@ -56,7 +58,7 @@
 
 % Title
 \title{\Huge\textbf{Bericht Physik - Lautsprecher}}
-\author{Andrin Tim Lerjen, Nadja Rahm, Niklas Fister}
+\author{Niklas Fister}
 \date{\today}
 
 % makeing title
@@ -95,5 +97,23 @@
     %\includegraphics[width=.4\linewidth]{resources/images/Andrin_Cyrill_building.jpeg}
 \end{titlepage}
 \part{Analysis}
-\chapter{}
+\chapter{Graphischer Zusammenhang der Analysis}
+\section{Bedeutung der Ableitung}
+Die Ableitung ist die Funktion, welche die Steigung einer Anderen Funktion an einem bestimmten Wert für $x$ angibt. \\
+\begin{tikzpicture}
+    \begin{axis}[
+        ymin=-30,ymax=20,
+        xmin=-5,xmax=10,
+        xlabel=$x$,
+        ylabel=$f(x)$,
+    ]
+    \addplot[smooth, thick, SlateBlue4, domain=-5:10]{x^3 - 3*x^2 - 9*x + 5};
+    \addplot[smooth, thick, SlateBlue1, domain=-5:10]{3*x^2-6*x-9}; 
+    \legend{$f(x) = x^3 - 3\cdot x^2 - 9\cdot x + 5$, $f'(x) = 3\cdot x^2 - 6\cdot x - 9$}
+    \end{axis}
+\end{tikzpicture}
+
+Dies lässt sich in dieser Grafik gut erkennen. Die abgeleitete Funktion $f'(x)$ gibt die Steigung der Funktion $f(x)$ an.
+\section{Graphische Darstellung des Differential}
+\section{Graphische Darstellung des Integral}
 \end{document}
