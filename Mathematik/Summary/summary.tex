@@ -19,7 +19,7 @@
 \usepackage{titlesec}
 \usepackage{moresize}
 \usepackage{pgfplots}
-\pgfplotsset{width=13cm,compat=1.9}
+\pgfplotsset{compat=1.9}
 
 % font setup
 \newfontfamily{\newUpperTitleFont}{Bebas Neue}
@@ -100,22 +100,40 @@
 \chapter{Graphischer Zusammenhang der Analysis}
 \section{Bedeutung der Ableitung}
 Die Ableitung ist die Funktion, welche die Steigung einer Anderen Funktion an einem bestimmten Wert für $x$ angibt. \\
-\begin{tikzpicture}
-    \begin{axis}[
-        axis lines = middle,
-        ymin=-30,ymax=20,
-        xmin=-5,xmax=10,
-        xlabel=$x$,
-        ylabel=$f(x)$,
-    ]
-    \addplot[smooth, thick, SlateBlue4, domain=-5:10]{x^3 - 3*x^2 - 9*x + 5};
-    \addplot[smooth, thick, SlateBlue1, domain=-5:10]{3*x^2-6*x-9}; 
-    \legend{$f(x) = x^3 - 3\cdot x^2 - 9\cdot x + 5$, $f'(x) = 3\cdot x^2 - 6\cdot x - 9$}
-    \end{axis}
-\end{tikzpicture}
+\begin{center}
+    \begin{tikzpicture}
+        \begin{axis}[
+            axis lines = middle,
+            width=.8\linewidth,
+            ymin=-25,ymax=20,
+            xmin=-5,xmax=10,
+            xlabel=$x$,
+            ylabel=$y$,
+        ]
+        \addplot[smooth, thick, SlateBlue4, domain=-5:10]{x^3 - 3*x^2 - 9*x + 5}; 
+        \addplot[smooth, thick, SlateBlue1, domain=-5:10]{3*x^2-6*x-9}; 
+        \legend{$f(x) = x^3 - 3\cdot x^2 - 9\cdot x + 5$, $f'(x) = 3\cdot x^2 - 6\cdot x - 9$}
+        \end{axis}
+    \end{tikzpicture}
+\end{center}
 
 Dies lässt sich in dieser Grafik gut erkennen. Die abgeleitete Funktion $f'(x)$ gibt die Steigung der Funktion $f(x)$ an.
 \section{Graphische Darstellung des Differential}
 Wie man jedoch schrittweise auf die Lösung kommt ist folgendermassen. Hierfür beginnen wir mit einer einfachen Funktion $f(x) = x^2$.
+Um die Steigung der Funktion zu bekommen, braucht man eine Tangente zu der Funktion. Die Tangente bekommt man in dem man $\frac{\Delta x}{\Delta y}$ berechnet.
+\begin{center}
+    \begin{tikzpicture}
+        \begin{axis}[
+            axis lines = middle,
+            width=.5\linewidth,
+            ymin=-5, ymax=10,
+            xmin=-5, xmax=5,
+            xlabel=$x$,
+            ylabel=$y$,
+        ]
+        \addplot[smooth, thick, SlateBlue4, domain=-5:5]{x^2}; 
+        \end{axis}
+    \end{tikzpicture}
+\end{center}
 \section{Graphische Darstellung des Integral}
 \end{document}
