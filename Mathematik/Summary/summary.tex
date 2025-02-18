@@ -1,0 +1,99 @@
+\documentclass[a4paper,11pt]{report}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{caption}
+\usepackage{enumitem}
+\usepackage{pdfpages}
+\usepackage{multicol}
+\usepackage[a4paper, left=3cm, right=3cm, top=3cm, bottom=3cm]{geometry}
+\usepackage[ngerman]{babel}
+\usepackage{hyperref}
+\usepackage[x11names]{xcolor}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\usepackage{tikz}
+\usetikzlibrary{calc}
+\usepackage{titling}
+\usepackage{fontspec}
+\usepackage{titlesec}
+\usepackage{moresize}
+
+% font setup
+\newfontfamily{\newUpperTitleFont}{Bebas Neue}
+\newfontfamily{\newLowerTitleFont}{Tex Gyre Heros Bold}
+
+% font init
+\titleformat{\part}[display]{\centering\HUGE\scshape\newUpperTitleFont\color{SlateBlue4}}{\partname~\thepart}{10pt}{}
+\titleformat{\chapter}{\Huge\bfseries\newUpperTitleFont\color{SlateBlue4}}{\thechapter}{1em}{}
+\titleformat*{\section}{\Large\bfseries\newLowerTitleFont\color{SlateBlue3}}
+\titleformat*{\subsection}{\large\bfseries\newLowerTitleFont\color{SlateBlue2}}
+
+% hyperlink setup
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=SlateBlue3,
+    urlcolor=black
+}
+
+% clear Footer
+\fancyfoot{}
+
+% Header
+\fancyhead[L]{Niklas Fister}
+\fancyhead[C]{Kantonnschule - Mathematik}
+\fancyhead[R]{\thepage}
+\renewcommand{\headrulewidth}{1pt}
+
+\fancypagestyle{plain}{
+    \fancyhead[L]{Niklas Fister}
+    \fancyhead[C]{Kantonnschule - Mathematik}
+    \fancyhead[R]{\thepage}
+    \renewcommand{\headrulewidth}{1pt}
+}
+
+% Title
+\title{\Huge\textbf{Bericht Physik - Lautsprecher}}
+\author{Andrin Tim Lerjen, Nadja Rahm, Niklas Fister}
+\date{\today}
+
+% makeing title
+\begin{document}
+\pagenumbering{Roman}
+
+% pretitle
+%\includepdf[scale=1.05]{resources/pdf/Title.pdf}
+
+% own title
+\begin{titlepage}
+    \centering
+    \begin{tikzpicture}[remember picture, overlay]
+        \draw[line width=5pt, line cap=round, color=SlateBlue1, rounded corners=5pt]($(current page.west)+(1cm, 0)$) -- ($(current page.north west)+(1cm, -1cm)$) -- ($(current page.north)+(0, -1cm)$);
+        \draw[line width=5pt, line cap=round, color=SlateBlue1, rounded corners=5pt]($(current page.east)+(-1cm, 0)$) -- ($(current page.south east)+(-1cm, 1cm)$) -- ($(current page.south)+(0, 1cm)$);
+    \end{tikzpicture}
+
+    % background
+    \tikz[remember picture,overlay] \node[opacity=0.3,inner sep=0pt] at (current page.center){\includegraphics[width=\paperwidth - 4cm, height=\paperheight - 4cm]{resources/images/Mandelbrotmenge.jpg}};
+    % Start Text
+    \vspace{4cm}
+
+    % the title
+    {\newUpperTitleFont\thetitle\par}
+    \vspace{1cm}
+
+    % the autors
+    {\theauthor\par}
+    \vspace{.5cm}
+
+    % date
+    {\thedate\par}
+    \vspace{5cm}
+
+    % showcase
+    %\includegraphics[width=.4\linewidth]{resources/images/Andrin_Cyrill_building.jpeg}
+\end{titlepage}
+\part{Analysis}
+\chapter{}
+\end{document}
