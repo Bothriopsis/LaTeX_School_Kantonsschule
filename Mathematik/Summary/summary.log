@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.1.27)  18 FEB 2025 19:58
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.1.27)  19 FEB 2025 07:49
  restricted system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/Mathematik/Summary
@@ -1469,13 +1469,13 @@ Package rerunfilecheck Info: File `summary.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 39560 strings out of 475554
+ 39555 strings out of 475554
  100000,1977958 words of node,token memory allocated
  603 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 12 attribute, 66 glue_spec
 , 8 attribute_list, 2 write nodes
-   avail lists: 2:4124,3:1323,4:68,5:181,6:27,7:3172,8:17,9:625,10:4,11:172
- 61581 multiletter control sequences out of 65536+600000
+   avail lists: 2:4034,3:1085,4:68,5:181,6:27,7:3172,8:17,9:625,10:4,11:172
+ 61576 multiletter control sequences out of 65536+600000
  51 fonts using 4103951 bytes
  84i,17n,91p,805b,2251s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/opentype/public/tex-gyre/tex
@@ -1488,7 +1488,7 @@ s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/fiste/AppData/Local/
 Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/fiste/AppData/
 Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/fiste/
 AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on summary.pdf (4 pages, 1648545 bytes).
+Output written on summary.pdf (4 pages, 1647904 bytes).
 
 PDF statistics: 92 PDF objects out of 1000 (max. 8388607)
  9 named destinations out of 1000 (max. 131072)
