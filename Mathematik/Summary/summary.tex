@@ -302,7 +302,7 @@ Es ist klar eine tendenz zu sehen, dass sich die Geraden immer mehr annähern. W
     }
 }
 
-\begin{tikzpicture}[/pgf/declare function={f=x^-1+1;}]
+\begin{tikzpicture}[/pgf/declare function={f=(1/32)*x^2;}]
 \begin{axis}[
     xmin=-1,
     xmax=20,
@@ -316,7 +316,7 @@ Es ist klar eine tendenz zu sehen, dass sich die Geraden immer mehr annähern. W
 \addplot [
     smooth,
     SlateBlue1,
-    integral=.5:10
+    integral=2:16,
 ] {f};
 \legend{$f(x) = x^{-1}+1$}
 \end{axis}
