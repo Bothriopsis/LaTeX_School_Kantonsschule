@@ -167,12 +167,13 @@ Um die Steigung der Funktion zu bekommen, braucht man eine Tangente zu der Funkt
         \draw [color=SeaGreen3, fill=SeaGreen3] (1,1) circle (1.5pt);
         \draw [color=SeaGreen3 , fill=SeaGreen3] (1.712609745304665,2.9330321397125094) circle (1.5pt);
         \begin{scriptsize}
-        \draw[color=SeaGreen3] (1.6,0.6) node {$\Delta x$};
-        \draw[color=SeaGreen3] (2.3,1.8) node {$\Delta y$};
-        \draw[color=SeaGreen3] (.5,1.2) node {$A$};
-        \draw[color=SeaGreen3] (1.3,3.2) node {$B$};
-        \draw[color=black] (1.5,9) node [scale=0.7] {$f(x) = x^2$};
-        \draw[color=OrangeRed1] (3.5,4) node [scale=0.5] {$Tangente$};
+            \draw[color=SeaGreen3] (1.6,0.6) node {$\Delta x$};
+            \draw[color=SeaGreen3] (2.3,1.8) node {$\Delta y$};
+            \draw[color=SeaGreen3] (.5,1.2) node {$A$};
+            \draw[color=SeaGreen3] (1.3,3.2) node {$B$};
+            \draw[color=black] (1.5,9) node [scale=0.7] {$f(x) = x^2$};
+            \draw[color=OrangeRed1] (3.5,4) node [scale=0.5] {$Tangente$};
+            \draw[color=SlateBlue1] (2,8) node [scale=0.5] {$Approximation$};
         \end{scriptsize}
         \end{axis}
     \end{tikzpicture}
@@ -196,9 +197,11 @@ In einzelnen Etappen darstellt sieht das folgendermassen aus: \\
             \draw[line width=1pt,smooth,samples=100,domain=-5:5] plot(\x,{(\x)^(2)});
             \draw [line width=1pt,color=SlateBlue1,domain=-5:5] plot(\x,{(-0.5866610252431241--1.0013527903985366*\x)/0.4146917651554125});
             \draw [line width=1pt,color=OrangeRed1,domain=-5:5] plot(\x,{(-1--2*\x)/1});
+            \draw [color=SeaGreen3, fill=SeaGreen3] (1,1) circle (1.5pt);
             \begin{scriptsize}
                 \draw[color=black] (1.5,9) node [scale=0.7] {$f(x) = x^2$};
                 \draw[color=OrangeRed1] (3.5,4) node [scale=0.5] {$Tangente$};
+                \draw[color=SlateBlue1] (2.2,8) node [scale=0.5] {$Approximation$};
             \end{scriptsize}
             \end{axis}
         \end{tikzpicture}
@@ -221,9 +224,11 @@ In einzelnen Etappen darstellt sieht das folgendermassen aus: \\
             \draw[line width=1pt,smooth,samples=100,domain=-5:5] plot(\x,{(\x)^(2)});
             \draw [line width=1pt,color=SlateBlue1,domain=-5:5] plot(\x,{(-0.26685783030006305--0.4857860814489958*\x)/0.21892825114893277});
             \draw [line width=1pt,color=OrangeRed1,domain=-5:5] plot(\x,{(-1--2*\x)/1});
+            \draw [color=SeaGreen3, fill=SeaGreen3] (1,1) circle (1.5pt);
             \begin{scriptsize}
                 \draw[color=black] (1.5,9) node [scale=0.7] {$f(x) = x^2$};
                 \draw[color=OrangeRed1] (3.5,4) node [scale=0.5] {$Tangente$};
+                \draw[color=SlateBlue1] (2.4,8) node [scale=0.5] {$Approximation$};
             \end{scriptsize}
             \end{axis}
         \end{tikzpicture}
@@ -246,9 +251,11 @@ In einzelnen Etappen darstellt sieht das folgendermassen aus: \\
             \draw[line width=1pt,smooth,samples=100,domain=-5:5] plot(\x,{(\x)^(2)});
             \draw [line width=1pt,color=SlateBlue1,domain=-5:5] plot(\x,{(-0.13280363043648746--0.2515148962434772*\x)/0.11871126580698976});
             \draw [line width=1pt,color=OrangeRed1,domain=-5:5] plot(\x,{(-1--2*\x)/1});
+            \draw [color=SeaGreen3, fill=SeaGreen3] (1,1) circle (1.5pt);
             \begin{scriptsize}
                 \draw[color=black] (1.5,9) node [scale=0.7] {$f(x) = x^2$};
                 \draw[color=OrangeRed1] (3.5,4) node [scale=0.5] {$Tangente$};
+                \draw[color=SlateBlue1] (2.5,8) node [scale=0.5] {$Approximation$};
             \end{scriptsize}
             \end{axis}
         \end{tikzpicture}
@@ -271,9 +278,11 @@ In einzelnen Etappen darstellt sieht das folgendermassen aus: \\
             \draw[line width=1pt,smooth,samples=100,domain=-5:5] plot(\x,{(\x)^(2)});
             \draw [line width=1pt,color=SlateBlue1,domain=-5:5] plot(\x,{(-0.025258746556910072--0.04990981780037007*\x)/0.02465107124346});
             \draw [line width=1pt,color=OrangeRed1,domain=-5:5] plot(\x,{(-1--2*\x)/1});
+            \draw [color=SeaGreen3, fill=SeaGreen3] (1,1) circle (1.5pt);
             \begin{scriptsize}
                 \draw[color=black] (1.5,9) node [scale=0.7] {$f(x) = x^2$};
                 \draw[color=OrangeRed1] (3.5,4) node [scale=0.5] {$Tangente$};
+                \draw[color=SlateBlue1] (2.6,8) node [scale=0.5] {$Approximation$};
             \end{scriptsize}
             \end{axis}
         \end{tikzpicture}
