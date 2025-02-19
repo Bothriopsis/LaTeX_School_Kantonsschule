@@ -102,7 +102,9 @@
 \part{Analysis}
 \chapter{Graphischer Zusammenhang der Analysis}
 \section{Bedeutung der Ableitung}
-Die Ableitung ist die Funktion, welche die Steigung einer Anderen Funktion an einem bestimmten Wert für $x$ angibt. \\
+Die Ableitung ist die Funktion, welche die Steigung einer anderen Funktion an einem bestimmten Wert für $x$ angibt. 
+
+Es lässt sich somit an dem $y$-Wert der abgeleiteten Funktion die Steigung graphisch, sowie auch numerisch bestimmen.\\
 \begin{center}
     \begin{tikzpicture}
         \begin{axis}[
@@ -120,12 +122,20 @@ Die Ableitung ist die Funktion, welche die Steigung einer Anderen Funktion an ei
     \end{tikzpicture}
 \end{center}
 
-Dies lässt sich in dieser Grafik gut erkennen. Die abgeleitete Funktion $f'(x)$ gibt die Steigung der Funktion $f(x)$ an.
+\noindent Dies lässt sich in dieser Grafik gut erkennen. Die abgeleitete Funktion $f'(x)$ gibt die Steigung der Funktion $f(x)$ an.
+
+\newpage
 \section{Graphische Darstellung des Differential}
 Wie man jedoch schrittweise auf die Lösung kommt ist folgendermassen. Hierfür beginnen wir mit einer einfachen Funktion $f(x) = x^2$.
 Um die Steigung der Funktion zu bekommen, braucht man eine Tangente zu der Funktion. Die Tangente bekommt man in dem man $\frac{\Delta x}{\Delta y}$ berechnet.
 
-\begin{center}
+\begin{minipage}{.5\textwidth}
+    Es lässt sich an diesem Graphen erkennen, dass die Gerade durch der Tangente annähert, aber noch nicht gleich ist.
+
+    Nun wird man den Abstand verkleinern, bis die Gerade und die Tangente equivalänt sind.
+\end{minipage}
+\hspace{0.1\textwidth}
+\begin{minipage}{.4\textwidth}
     \begin{tikzpicture}[line cap=round,line join=round,>=triangle 45]
         \begin{axis}[
         x=.5cm,y=.5cm,
@@ -155,7 +165,102 @@ Um die Steigung der Funktion zu bekommen, braucht man eine Tangente zu der Funkt
         \end{scriptsize}
         \end{axis}
     \end{tikzpicture}
-\end{center}
+\end{minipage}
 
+In einzelnen Etappen darstellt sieht das folgendermassen aus: \\
+\begin{minipage}{.5\textwidth}
+    \begin{center}
+        \begin{tikzpicture}[line cap=round,line join=round,>=triangle 45]
+            \begin{axis}[
+            x=.5cm,y=.5cm,
+            axis lines=middle,
+            xmin=-5,
+            xmax=5,
+            ymin=-1,
+            ymax=10,
+            xtick={-4,-2,...,4},
+            ytick={-1,0,5,10},]
+            \clip(-5,-1) rectangle (5,10);
+            % the functions
+            \draw[line width=1pt,smooth,samples=100,domain=-5:5] plot(\x,{(\x)^(2)});
+            \draw [line width=1pt,color=SlateBlue1,domain=-5:5] plot(\x,{(-0.5866610252431241--1.0013527903985366*\x)/0.4146917651554125});
+            \draw [line width=1pt,color=OrangeRed1,domain=-5:5] plot(\x,{(-1--2*\x)/1});
+            \begin{scriptsize}
+            \end{scriptsize}
+            \end{axis}
+        \end{tikzpicture}
+    \end{center}
+\end{minipage}
+\begin{minipage}{.5\textwidth}
+    \begin{center}
+        \begin{tikzpicture}[line cap=round,line join=round,>=triangle 45]
+            \begin{axis}[
+            x=.5cm,y=.5cm,
+            axis lines=middle,
+            xmin=-5,
+            xmax=5,
+            ymin=-1,
+            ymax=10,
+            xtick={-4,-2,...,4},
+            ytick={-1,0,5,10},]
+            \clip(-5,-1) rectangle (5,10);
+            % the functions
+            \draw[line width=1pt,smooth,samples=100,domain=-5:5] plot(\x,{(\x)^(2)});
+            \draw [line width=1pt,color=SlateBlue1,domain=-5:5] plot(\x,{(-0.26685783030006305--0.4857860814489958*\x)/0.21892825114893277});
+            \draw [line width=1pt,color=OrangeRed1,domain=-5:5] plot(\x,{(-1--2*\x)/1});
+            \begin{scriptsize}
+            \end{scriptsize}
+            \end{axis}
+        \end{tikzpicture}
+    \end{center}
+\end{minipage}
+\begin{minipage}{.5\textwidth}
+    \begin{center}
+        \begin{tikzpicture}[line cap=round,line join=round,>=triangle 45]
+            \begin{axis}[
+            x=.5cm,y=.5cm,
+            axis lines=middle,
+            xmin=-5,
+            xmax=5,
+            ymin=-1,
+            ymax=10,
+            xtick={-4,-2,...,4},
+            ytick={-1,0,5,10},]
+            \clip(-5,-1) rectangle (5,10);
+            % the functions
+            \draw[line width=1pt,smooth,samples=100,domain=-5:5] plot(\x,{(\x)^(2)});
+            \draw [line width=1pt,color=SlateBlue1,domain=-5:5] plot(\x,{(-0.13280363043648746--0.2515148962434772*\x)/0.11871126580698976});
+            \draw [line width=1pt,color=OrangeRed1,domain=-5:5] plot(\x,{(-1--2*\x)/1});
+            \begin{scriptsize}
+            \end{scriptsize}
+            \end{axis}
+        \end{tikzpicture}
+    \end{center}
+\end{minipage}
+\begin{minipage}{.5\textwidth}
+    \begin{center}
+        \begin{tikzpicture}[line cap=round,line join=round,>=triangle 45]
+            \begin{axis}[
+            x=.5cm,y=.5cm,
+            axis lines=middle,
+            xmin=-5,
+            xmax=5,
+            ymin=-1,
+            ymax=10,
+            xtick={-4,-2,...,4},
+            ytick={-1,0,5,10},]
+            \clip(-5,-1) rectangle (5,10);
+            % the functions
+            \draw[line width=1pt,smooth,samples=100,domain=-5:5] plot(\x,{(\x)^(2)});
+            \draw [line width=1pt,color=SlateBlue1,domain=-5:5] plot(\x,{(-0.025258746556910072--0.04990981780037007*\x)/0.02465107124346});
+            \draw [line width=1pt,color=OrangeRed1,domain=-5:5] plot(\x,{(-1--2*\x)/1});
+            \begin{scriptsize}
+            \end{scriptsize}
+            \end{axis}
+        \end{tikzpicture}
+    \end{center}
+\end{minipage}
+Es ist klar eine tendenz zu sehen, dass sich die Geraden immer mehr annähern. Wenn durch den Limes nun dieser Abstand unendlich klein wird, konvergierren diese Geraden und werden zu einer.
 \section{Graphische Darstellung des Integral}
+\section{Graphischer Zusammenhang der Beiden}
 \end{document}
