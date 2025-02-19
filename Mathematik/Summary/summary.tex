@@ -124,75 +124,38 @@ Dies lässt sich in dieser Grafik gut erkennen. Die abgeleitete Funktion $f'(x)$
 \section{Graphische Darstellung des Differential}
 Wie man jedoch schrittweise auf die Lösung kommt ist folgendermassen. Hierfür beginnen wir mit einer einfachen Funktion $f(x) = x^2$.
 Um die Steigung der Funktion zu bekommen, braucht man eine Tangente zu der Funktion. Die Tangente bekommt man in dem man $\frac{\Delta x}{\Delta y}$ berechnet.
-\begin{center}
-    \begin{tikzpicture}
-        \begin{axis}[
-            axis lines = middle,
-            width=.5\linewidth,
-            ymin=-5, ymax=10,
-            xmin=-5, xmax=5,
-            xlabel=$x$,
-            ylabel=$y$,
-        ]
-        \addplot[smooth, thick, SlateBlue4, domain=-5:5]{x^2}; 
-        \end{axis}
-    \end{tikzpicture}
-\end{center}
 
 \begin{center}
-    \begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1cm,y=1cm]
+    \begin{tikzpicture}[line cap=round,line join=round,>=triangle 45]
         \begin{axis}[
-        x=1cm,y=.5cm,
+        x=.5cm,y=.5cm,
         axis lines=middle,
-        ymajorgrids=false,
-        xmajorgrids=false,
         xmin=-5,
         xmax=5,
         ymin=-1,
         ymax=10,
         xtick={-4,-2,...,4},
         ytick={-1,0,5,10},]
-        \clip(-4,-1) rectangle (4,10);
-        \draw[line width=2pt,color=SlateBlue4,smooth,samples=100,domain=-10:10] plot(\x,{(\x)^(2)});
+        \clip(-5,-1) rectangle (5,10);
+        % the functions
+        \draw[line width=1pt,smooth,samples=100,domain=-5:5] plot(\x,{(\x)^(2)});
+        \draw [line width=1pt,color=SlateBlue1,domain=-5:5] plot(\x,{(-1.2204223944078445--1.9330321397125094*\x)/0.7126097453046649});
+        \draw [line width=1pt,color=OrangeRed1,domain=-5:5] plot(\x,{(-1--2*\x)/1});
+        % the lines for illustration
+        \draw [line width=1pt,color=SeaGreen3, dash pattern=on 1pt off 2pt] (1,1)-- (1.712609745304665,1);
+        \draw [line width=1pt,color=SeaGreen3, dash pattern=on 1pt off 2pt] (1.712609745304665,1)-- (1.712609745304665,2.9330321397125094);
+        % The two points
+        \draw [color=SeaGreen3, fill=SeaGreen3] (1,1) circle (1.5pt);
+        \draw [color=SeaGreen3 , fill=SeaGreen3] (1.712609745304665,2.9330321397125094) circle (1.5pt);
         \begin{scriptsize}
-        \draw[color=SlateBlue4] (-2.5,8.19) node {$f$};
+        \draw[color=SeaGreen3] (1.6,0.6) node {$\Delta x$};
+        \draw[color=SeaGreen3] (2.3,1.8) node {$\Delta y$};
+        \draw[color=SeaGreen3] (.5,1.2) node {$A$};
+        \draw[color=SeaGreen3] (1.3,3.2) node {$B$};
         \end{scriptsize}
         \end{axis}
     \end{tikzpicture}
 \end{center}
-
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45]
-    \begin{axis}[
-    x=1cm,y=1cm,
-    axis lines=middle,
-    xmin=-5,
-    xmax=5,
-    ymin=-1,
-    ymax=10,
-    xtick={-4,-2,...,4},
-    ytick={-1,0,5,10},]
-    \clip(-5,-1) rectangle (5,10);
-    \draw[line width=2pt,smooth,samples=100,domain=-8.485502813204585:9.794636385294337] plot(\x,{(\x)^(2)});
-    \draw [line width=2pt,color=SlateBlue1,domain=-8.485502813204585:9.794636385294337] plot(\x,{(-1.2204223944078445--1.9330321397125094*\x)/0.7126097453046649});
-    \draw [line width=2pt,color=SlateBlue1] (1,1)-- (1.712609745304665,1);
-    \draw [line width=2pt,color=SlateBlue1] (1.712609745304665,1)-- (1.712609745304665,2.9330321397125094);
-    \draw [line width=2pt,color=SlateBlue4,domain=-8.485502813204585:9.794636385294337] plot(\x,{(-1--2*\x)/1});
-    \begin{scriptsize}
-    \draw[color=black] (-3.177655166411525,10.307094444340319) node {$f$};
-    \draw [fill=blue] (1,1) circle (2.5pt);
-    \draw [fill=blue] (1.712609745304665,2.9330321397125094) circle (2.5pt);
-    \draw[color=purple] (4.31059462574466,10.307094444340319) node {$g$};
-    \draw [fill=black] (1.712609745304665,1) circle (2pt);
-    \draw[color=black] (1.7998285189628802,1.2110733732800083) node {$C$};
-    \draw[color=black] (1.5,0.8) node {$\Delta x$};
-    \draw[color=black] (2.2,1.7) node {$\Delta y$};
-    \draw[color=blue] (1.0840399358891273,1.2330976373745854) node {$A$};
-    \draw[color=blue] (1.7998285189628802,3.1712328776973635) node {$B$};
-    \draw[color=red] (5.521929150946396,10.307094444340319) node {$j$};
-    \end{scriptsize}
-    \end{axis}
-\end{tikzpicture}
 
 \section{Graphische Darstellung des Integral}
 \end{document}

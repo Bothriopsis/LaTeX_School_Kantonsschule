@@ -1,5 +1,5 @@
-PWD c:\Users\fiste\Documents\GitHub\LaTeX_School_Kantonsschule\Mathematik\Summary
-INPUT c:\Users\fiste\Documents\GitHub\LaTeX_School_Kantonsschule\Mathematik\Summary\summary.tex
+PWD d:\GitHub\LaTeX_School_Kantonsschule\Mathematik\Summary
+INPUT d:\GitHub\LaTeX_School_Kantonsschule\Mathematik\Summary\summary.tex
 OUTPUT summary.log
 OUTPUT summary.log
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\latexconfig\lualatexquotejobname.lua
@@ -19,7 +19,7 @@ OUTPUT C:\Users\fiste\AppData\Local\MiKTeX\m_t_x_t_e_s_t.tmp
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\luatex\luaotfload\luaotfload-parsers.lua
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\luatex\luaotfload\luaotfload-configuration.lua
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\luatex\luaotfload\luaotfload-status.lua
-INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\luatex\luaotfload\fontloader-2023-12-28.lua
+INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\luatex\luaotfload\fontloader-2023-08-19.lua
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\luatex\luaotfload\luaotfload-fallback.lua
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\luatex\luaotfload\luaotfload-multiscript.lua
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\luatex\luaotfload\luaotfload-scripts.lua
@@ -36,13 +36,11 @@ INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\generic\unicode-data\Spec
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\luatex\lua-uni-algos\lua-uni-case.lua
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\luatex\lua-uni-algos\lua-uni-parse.lua
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\generic\unicode-data\CaseFolding.txt
-INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\luatex\luaotfload\luaotfload-realpath.lua
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\luatex\luaotfload\luaotfload-colors.lua
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\luatex\luaotfload\luaotfload-resolvers.lua
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\luatex\luaotfload\luaotfload-features.lua
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\luatex\lua-uni-algos\lua-uni-normalize.lua
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\generic\unicode-data\UnicodeData.txt
-INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\luatex\luaotfload\luaotfload-arabic.lua
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\luatex\luaotfload\luaotfload-harf-define.lua
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\luatex\luaotfload\luaotfload-harf-var-cff2.lua
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\luatex\luaotfload\luaotfload-harf-var-t2-writer.lua
@@ -146,6 +144,8 @@ INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\de\b
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\de\babel-de.ini
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
@@ -156,11 +156,13 @@ INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.s
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.lua
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
@@ -171,8 +173,6 @@ INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
-INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
@@ -189,6 +189,8 @@ INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.s
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hluatex.def
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hluatex.def
+INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
+INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
@@ -530,6 +532,8 @@ INPUT .\summary.aux
 INPUT .\summary.aux
 OUTPUT summary.aux
 OUTPUT summary.aux
+INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\base\ts1cmr.fd
+INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\base\ts1cmr.fd
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
@@ -589,9 +593,12 @@ INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cme
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\ursfs.fd
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\ursfs.fd
+INPUT C:\Users\fiste\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
+INPUT C:\Users\fiste\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
+INPUT C:\Users\fiste\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
+INPUT C:\Users\fiste\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
 OUTPUT C:\Users\fiste\AppData\Local\MiKTeX\luatex-cache\generic\names\luaotfload-lookup-cache.lua
 OUTPUT C:\Users\fiste\AppData\Local\MiKTeX\luatex-cache\generic\names\luaotfload-lookup-cache.luc
-INPUT C:\Users\fiste\AppData\Local\MiKTeX\luatex-cache\generic\fonts\one\rsfs10.luc
 INPUT C:\Users\fiste\AppData\Local\MiKTeX\luatex-cache\generic\fonts\one\rsfs5.luc
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm

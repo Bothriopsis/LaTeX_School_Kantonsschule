@@ -1,24 +1,21 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.1.27)  19 FEB 2025 09:17
+This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.1.26)  19 FEB 2025 10:33
  restricted system commands enabled.
  file:line:error style messages enabled.
-**c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/Mathematik/Summary
-/summary.tex
-
-(c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/Mathematik/Summary/
-summary.tex
-LaTeX2e <2024-11-01> patch level 1
-L3 programming layer <2024-12-09>
-Lua module: luaotfload 2024-02-14 v3.28 Lua based OpenType font support
-Lua module: lualibs 2023-07-13 v2.76 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2023-07-13 v2.76 ConTeXt Lua libraries -- extended 
-collection.
+**d:/GitHub/LaTeX_School_Kantonsschule/Mathematik/Summary/summary.tex
+(d:/GitHub/LaTeX_School_Kantonsschule/Mathematik/Summary/summary.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+Lua module: luaotfload 2023-08-31 3.26 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
+ollection.
 luaotfload | conf : Root cache directory is "C:/Users/fiste/AppData/Local/MiKTeX
 /luatex-cache/generic/names".
-luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-res
+luaotfload | init : Loading fontloader "fontloader-2023-08-19.lua" from kpse-res
 olved path "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/f
-ontloader-2023-12-28.lua".
+ontloader-2023-08-19.lua".
 Lua-only attribute luaotfload@noligature = 1
-luaotfload | init : Context OpenType loader version 3.134
+luaotfload | init : Context OpenType loader version 3.133
 Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
 Inserting `luaotfload.node_processor' in `hpack_filter'.
 Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
@@ -45,27 +42,27 @@ Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
 Inserting `tracingstacklevels' in `input_level_string'. (C:/Users/fiste/AppData
 /Local/Programs/MiKTeX/tex/latex/base/report.cls
-Document Class: report 2024/06/29 v1.4n Standard LaTeX document class
+Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/base/size11.clo
-File: size11.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 luaotfload | db : Font names database loaded from C:/Users/fiste/AppData/Local/M
 iKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz)
-\c@part=\count194
-\c@chapter=\count195
-\c@section=\count196
-\c@subsection=\count197
-\c@subsubsection=\count198
-\c@paragraph=\count199
-\c@subparagraph=\count266
-\c@figure=\count267
-\c@table=\count268
-\abovecaptionskip=\skip49
-\belowcaptionskip=\skip50
-\bibindent=\dimen140
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen139
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2024/11/05 v2.17t AMS math features
-\@mathmargin=\skip51
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip50
 
 For additional information on amsmath, use the `?' option.
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amstext.sty
@@ -74,59 +71,59 @@ Package: amstext 2021/08/26 v2.01 AMS text
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks17
-\ex@=\dimen141
+\ex@=\dimen140
 ))
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen142
+\pmbraise@=\dimen141
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count269
-LaTeX Info: Redefining \frac on input line 235.
-\uproot@=\count270
-\leftroot@=\count271
-LaTeX Info: Redefining \overline on input line 398.
-LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count272
-\DOTSCASE@=\count273
-LaTeX Info: Redefining \ldots on input line 495.
-LaTeX Info: Redefining \dots on input line 498.
-LaTeX Info: Redefining \cdots on input line 619.
-\Mathstrutbox@=\box52
-\strutbox@=\box53
-LaTeX Info: Redefining \big on input line 721.
-LaTeX Info: Redefining \Big on input line 722.
-LaTeX Info: Redefining \bigg on input line 723.
-LaTeX Info: Redefining \Bigg on input line 724.
-\big@size=\dimen143
-LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count274
-LaTeX Info: Redefining \bmod on input line 904.
-LaTeX Info: Redefining \pmod on input line 909.
-LaTeX Info: Redefining \smash on input line 939.
-LaTeX Info: Redefining \relbar on input line 969.
-LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count275
-\dotsspace@=\muskip17
-\c@parentequation=\count276
-\dspbrk@lvl=\count277
+\inf@bad=\count194
+LaTeX Info: Redefining \frac on input line 236.
+\uproot@=\count195
+\leftroot@=\count196
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count197
+\DOTSCASE@=\count198
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen142
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count199
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count266
+\dotsspace@=\muskip16
+\c@parentequation=\count267
+\dspbrk@lvl=\count268
 \tag@help=\toks18
-\row@=\count278
-\column@=\count279
-\maxfields@=\count280
+\row@=\count269
+\column@=\count270
+\maxfields@=\count271
 \andhelp@=\toks19
-\eqnshift@=\dimen144
-\alignsep@=\dimen145
-\tagshift@=\dimen146
-\tagwidth@=\dimen147
-\totwidth@=\dimen148
-\lineht@=\dimen149
+\eqnshift@=\dimen143
+\alignsep@=\dimen144
+\tagshift@=\dimen145
+\tagwidth@=\dimen146
+\totwidth@=\dimen147
+\lineht@=\dimen148
 \@envbody=\toks20
-\multlinegap=\skip52
-\multlinetaggap=\skip53
+\multlinegap=\skip51
+\multlinetaggap=\skip52
 \mathdisplay@stack=\toks21
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
@@ -139,27 +136,27 @@ Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks22
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphics.sty
-Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty
-Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/graphics.c
 fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: luatex.def on input line 106.
+Package graphics Info: Driver file: luatex.def on input line 107.
 
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/luatex.def
-File: luatex.def 2024/04/13 v1.2e Graphics/color driver for luatex
+File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
 ))
-\Gin@req@height=\dimen150
-\Gin@req@width=\dimen151
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
 ) (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen152
-\WF@size=\dimen153
-\c@WF@wrappedlines=\count281
-\WF@box=\box54
+\wrapoverhang=\dimen151
+\WF@size=\dimen152
+\c@WF@wrappedlines=\count272
+\WF@box=\box53
 \WF@everypar=\toks23
 Package: wrapfig 2003/01/31  v 3.6
 ) (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption.sty
@@ -167,110 +164,111 @@ Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen154
-\captionmargin=\dimen155
-\caption@leftmargin=\dimen156
-\caption@rightmargin=\dimen157
-\caption@width=\dimen158
-\caption@indent=\dimen159
-\caption@parindent=\dimen160
-\caption@hangindent=\dimen161
+\caption@tempdima=\dimen153
+\captionmargin=\dimen154
+\caption@leftmargin=\dimen155
+\caption@rightmargin=\dimen156
+\caption@width=\dimen157
+\caption@indent=\dimen158
+\caption@parindent=\dimen159
+\caption@hangindent=\dimen160
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count282
-\c@continuedfloat=\count283
+\c@caption@flags=\count273
+\c@continuedfloat=\count274
 Package caption Info: wrapfig package is loaded.
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip54
-\enit@outerparindent=\dimen162
+\labelindent=\skip53
+\enit@outerparindent=\dimen161
 \enit@toks=\toks24
-\enit@inbox=\box55
-\enit@count@id=\count284
-\enitdp@description=\count285
+\enit@inbox=\box54
+\enit@count@id=\count275
+\enitdp@description=\count276
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2024/10/28 v0.6c Insert pages of external PDF documents (AM)
 
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/base/ifthen.sty
-Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count286
-\calc@Bcount=\count287
-\calc@Adimen=\dimen163
-\calc@Bdimen=\dimen164
-\calc@Askip=\skip55
-\calc@Bskip=\skip56
+\calc@Acount=\count277
+\calc@Bcount=\count278
+\calc@Adimen=\dimen162
+\calc@Bdimen=\dimen163
+\calc@Askip=\skip54
+\calc@Bskip=\skip55
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count288
-\calc@Cskip=\skip57
+\calc@Ccount=\count279
+\calc@Cskip=\skip56
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
-\ESO@tempdima=\dimen165
-\ESO@tempdimb=\dimen166
+\ESO@tempdima=\dimen164
+\ESO@tempdimb=\dimen165
 
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
 
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: luatex.def on input line 274.
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/graphics/mathcolor.ltx)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
-Package xcolor Info: Model `RGB' extended on input line 1365.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 ))
-\AM@pagewidth=\dimen167
-\AM@pageheight=\dimen168
-\AM@fboxrule=\dimen169
+\AM@pagewidth=\dimen166
+\AM@pageheight=\dimen167
+\AM@fboxrule=\dimen168
 
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/pdfpages/ppluatex.def
 File: ppluatex.def 2024/10/28 v0.6c Pdfpages driver for LuaTeX (AM)
 )
-\pdfpages@includegraphics@status=\count289
-\AM@pagebox=\box56
+\pdfpages@includegraphics@status=\count280
+\AM@pagebox=\box55
 \AM@global@opts=\toks25
-\AM@pagecnt=\count290
+\AM@pagecnt=\count281
 \AM@toc@title=\toks26
 \AM@lof@heading=\toks27
-\c@AM@survey=\count291
-\AM@templatesizebox=\box57
+\c@AM@survey=\count282
+\AM@templatesizebox=\box56
 ) (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty
-Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
-\c@tracingmulticols=\count292
-\mult@box=\box58
-\multicol@leftmargin=\dimen170
-\c@unbalance=\count293
-\c@collectmore=\count294
-\doublecol@number=\count295
-\multicoltolerance=\count296
-\multicolpretolerance=\count297
-\full@width=\dimen171
-\page@free=\dimen172
-\premulticols=\dimen173
-\postmulticols=\dimen174
-\multicolsep=\skip58
-\multicolbaselineskip=\skip59
-\partial@page=\box59
-\last@line=\box60
-\mc@boxedresult=\box61
-\maxbalancingoverflow=\dimen175
-\mult@rightbox=\box62
-\mult@grightbox=\box63
-\mult@firstbox=\box64
-\mult@gfirstbox=\box65
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count283
+\mult@box=\box57
+\multicol@leftmargin=\dimen169
+\c@unbalance=\count284
+\c@collectmore=\count285
+\doublecol@number=\count286
+\multicoltolerance=\count287
+\multicolpretolerance=\count288
+\full@width=\dimen170
+\page@free=\dimen171
+\premulticols=\dimen172
+\postmulticols=\dimen173
+\multicolsep=\skip57
+\multicolbaselineskip=\skip58
+\partial@page=\box58
+\last@line=\box59
+\mc@boxedresult=\box60
+\maxbalancingoverflow=\dimen174
+\mult@rightbox=\box61
+\mult@grightbox=\box62
+\mult@firstbox=\box63
+\mult@gfirstbox=\box64
+\@tempa=\box65
 \@tempa=\box66
 \@tempa=\box67
 \@tempa=\box68
@@ -306,16 +304,15 @@ Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
 \@tempa=\box98
 \@tempa=\box99
 \@tempa=\box100
-\@tempa=\box101
-\c@minrows=\count298
-\c@columnbadness=\count299
-\c@finalcolumnbadness=\count300
-\last@try=\dimen176
-\multicolovershoot=\dimen177
-\multicolundershoot=\dimen178
-\mult@nat@firstbox=\box102
-\colbreak@box=\box103
-\mc@col@check@num=\count301
+\c@minrows=\count289
+\c@columnbadness=\count290
+\c@finalcolumnbadness=\count291
+\last@try=\dimen175
+\multicolovershoot=\dimen176
+\multicolundershoot=\dimen177
+\mult@nat@firstbox=\box101
+\colbreak@box=\box102
+\mc@col@check@num=\count292
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
@@ -324,24 +321,23 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty
-Package: iftex 2024/12/12 v1.0g TeX engine tests
+Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count302
-\Gm@cntv=\count303
-\c@Gm@tempcnt=\count304
-\Gm@bindingoffset=\dimen179
-\Gm@wd@mp=\dimen180
-\Gm@odd@mp=\dimen181
-\Gm@even@mp=\dimen182
-\Gm@layoutwidth=\dimen183
-\Gm@layoutheight=\dimen184
-\Gm@layouthoffset=\dimen185
-\Gm@layoutvoffset=\dimen186
+\Gm@cnth=\count293
+\Gm@cntv=\count294
+\c@Gm@tempcnt=\count295
+\Gm@bindingoffset=\dimen178
+\Gm@wd@mp=\dimen179
+\Gm@odd@mp=\dimen180
+\Gm@even@mp=\dimen181
+\Gm@layoutwidth=\dimen182
+\Gm@layoutheight=\dimen183
+\Gm@layouthoffset=\dimen184
+\Gm@layoutvoffset=\dimen185
 \Gm@dimlist=\toks28
 
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.cfg)) (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty
-Package: babel 2025/01/01 v25.1 The multilingual framework for pdfLaTeX, LuaLaT
-eX and XeLaTeX
+Package: babel 2024/01/07 v24.1 The Babel package
 
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/babel/luababel.def
 \bbl@readstream=\read2
@@ -426,8 +422,8 @@ Package babel Info: Non-standard hyphenation setup on input line 118.
 \babelcatcodetablenum=\catcodetable14
 \bbl@pattcodes=\catcodetable15
 )
-\babel@savecnt=\count305
-\U@D=\dimen187
+\babel@savecnt=\count296
+\U@D=\dimen186
 \l@unhyphenated=\language79
 
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/babel/luababel.def
@@ -463,8 +459,12 @@ Package babel Info: Importing font and identification data for ngerman
 (babel)             from babel-de.ini. Reported on input line 11.
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
 
+(C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/infwarerr/infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
@@ -483,11 +483,6 @@ Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 .sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
-
-(C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/infwarerr/infwarerr.s
-ty
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
@@ -495,6 +490,13 @@ Package pdftexcmds Info: \pdfdraftmode found.
 ))
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/letltxmacro/letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/nameref.sty
 Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
@@ -509,44 +511,42 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count306
+\c@section@level=\count297
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count307
+\etb@tempcnta=\count298
 )
-(C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/stringenc/stringenc.s
-ty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+\@linkdim=\dimen187
+\Hy@linkcounter=\count299
+\Hy@pagecounter=\count300
+
+(C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
 )
-)
-\@linkdim=\dimen188
-\Hy@linkcounter=\count308
-\Hy@pagecounter=\count309
- (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
-) (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/intcalc/intcalc.sty
+(C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count310
- (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/puenc.def
-File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+\Hy@SavedSpaceFactor=\count301
+
+(C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/puenc.def
+File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Hyper figures OFF on input line 4157.
-Package hyperref Info: Link nesting OFF on input line 4162.
-Package hyperref Info: Hyper index ON on input line 4165.
-Package hyperref Info: Plain pages OFF on input line 4172.
-Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Hyper figures OFF on input line 4181.
+Package hyperref Info: Link nesting OFF on input line 4186.
+Package hyperref Info: Hyper index ON on input line 4189.
+Package hyperref Info: Plain pages OFF on input line 4196.
+Package hyperref Info: Backreferencing OFF on input line 4201.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count311
+Package hyperref Info: Bookmarks ON on input line 4448.
+\c@Hy@tempcnt=\count302
 
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty
-\Urlmuskip=\muskip18
+\Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen189
+LaTeX Info: Redefining \url on input line 4786.
+\XeTeXLinkMargin=\dimen188
 
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -556,36 +556,41 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count312
-\Field@Width=\dimen190
-\Fld@charsize=\dimen191
-Package hyperref Info: Hyper figures OFF on input line 6042.
-Package hyperref Info: Link nesting OFF on input line 6047.
-Package hyperref Info: Hyper index ON on input line 6050.
-Package hyperref Info: backreferencing OFF on input line 6057.
-Package hyperref Info: Link coloring OFF on input line 6062.
-Package hyperref Info: Link coloring with OCG OFF on input line 6067.
-Package hyperref Info: PDF/A mode OFF on input line 6072.
+\Fld@menulength=\count303
+\Field@Width=\dimen189
+\Fld@charsize=\dimen190
+Package hyperref Info: Hyper figures OFF on input line 6065.
+Package hyperref Info: Link nesting OFF on input line 6070.
+Package hyperref Info: Hyper index ON on input line 6073.
+Package hyperref Info: backreferencing OFF on input line 6080.
+Package hyperref Info: Link coloring OFF on input line 6085.
+Package hyperref Info: Link coloring with OCG OFF on input line 6090.
+Package hyperref Info: PDF/A mode OFF on input line 6095.
 
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count313
-\c@Item=\count314
-\c@Hfootnote=\count315
+\Hy@abspage=\count304
+\c@Item=\count305
+\c@Hfootnote=\count306
 )
 Package hyperref Info: Driver (autodetected): hluatex.
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hluatex.def
-File: hluatex.def 2024-11-05 v7.01l Hyperref driver for luaTeX
+File: hluatex.def 2023-11-26 v7.01g Hyperref driver for luaTeX
 
+(C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/stringenc/stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count316
-\c@bookmark@seq@number=\count317
+\Fld@listcount=\count307
+\c@bookmark@seq@number=\count308
 
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfil
 echeck.sty
@@ -598,28 +603,28 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip60
+\Hy@SectionHShift=\skip59
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/x11nam.def
-File: x11nam.def 2024/09/29 v3.02 Predefined colors according to Unix/X11 (UK)
+File: x11nam.def 2023/11/15 v3.01 Predefined colors according to Unix/X11 (UK)
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2025/01/07 v5.1.1 Extensive control of page headers and foote
 rs
-\f@nch@headwidth=\skip61
-\f@nch@offset@elh=\skip62
-\f@nch@offset@erh=\skip63
-\f@nch@offset@olh=\skip64
-\f@nch@offset@orh=\skip65
-\f@nch@offset@elf=\skip66
-\f@nch@offset@erf=\skip67
-\f@nch@offset@olf=\skip68
-\f@nch@offset@orf=\skip69
-\f@nch@height=\skip70
-\f@nch@footalignment=\skip71
-\f@nch@widthL=\skip72
-\f@nch@widthC=\skip73
-\f@nch@widthR=\skip74
+\f@nch@headwidth=\skip60
+\f@nch@offset@elh=\skip61
+\f@nch@offset@erh=\skip62
+\f@nch@offset@olh=\skip63
+\f@nch@offset@orh=\skip64
+\f@nch@offset@elf=\skip65
+\f@nch@offset@erf=\skip66
+\f@nch@offset@olf=\skip67
+\f@nch@offset@orf=\skip68
+\f@nch@height=\skip69
+\f@nch@footalignment=\skip70
+\f@nch@widthL=\skip71
+\f@nch@widthC=\skip72
+\f@nch@widthR=\skip73
 \@temptokenb=\toks30
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/pgf/frontendlayer/tikz.
@@ -630,12 +635,12 @@ y
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfutil
 -common.tex
 \pgfutil@everybye=\toks31
-\pgfutil@tempdima=\dimen192
-\pgfutil@tempdimb=\dimen193
+\pgfutil@tempdima=\dimen191
+\pgfutil@tempdimb=\dimen192
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfutil
 -latex.def
-\pgfutil@abb=\box104
+\pgfutil@abb=\box103
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfrcs.
 code.tex
@@ -661,26 +666,26 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 libraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks34
 ))
-\pgf@x=\dimen194
-\pgf@y=\dimen195
-\pgf@xa=\dimen196
-\pgf@ya=\dimen197
-\pgf@xb=\dimen198
-\pgf@yb=\dimen199
-\pgf@xc=\dimen256
-\pgf@yc=\dimen257
-\pgf@xd=\dimen258
-\pgf@yd=\dimen259
+\pgf@x=\dimen193
+\pgf@y=\dimen194
+\pgf@xa=\dimen195
+\pgf@ya=\dimen196
+\pgf@xb=\dimen197
+\pgf@yb=\dimen198
+\pgf@xc=\dimen199
+\pgf@yc=\dimen256
+\pgf@xd=\dimen257
+\pgf@yd=\dimen258
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count318
-\c@pgf@countb=\count319
-\c@pgf@countc=\count320
-\c@pgf@countd=\count321
+\c@pgf@counta=\count309
+\c@pgf@countb=\count310
+\c@pgf@countc=\count311
+\c@pgf@countd=\count312
 \t@pgf@toka=\toks35
 \t@pgf@tokb=\toks36
 \t@pgf@tokc=\toks37
-\pgf@sys@id@count=\count322
+\pgf@sys@id@count=\count313
 
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgf.c
 fg
@@ -699,8 +704,8 @@ File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgfsy
 ssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count323
-\pgfsyssoftpath@bigbuffer@items=\count324
+\pgfsyssoftpath@smallbuffer@items=\count314
+\pgfsyssoftpath@bigbuffer@items=\count315
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgfsy
 sprotocol.code.tex
@@ -716,9 +721,9 @@ Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 code.tex)
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathparse
 r.code.tex
-\pgfmath@dimen=\dimen260
-\pgfmath@count=\count325
-\pgfmath@box=\box105
+\pgfmath@dimen=\dimen259
+\pgfmath@count=\count316
+\pgfmath@box=\box104
 \pgfmath@toks=\toks38
 \pgfmath@stack@operand=\toks39
 \pgfmath@stack@operation=\toks40
@@ -745,59 +750,59 @@ ions.integerarithmetics.code.tex)
 code.tex)
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfloat
 .code.tex
-\c@pgfmathroundto@lastzeros=\count326
+\c@pgfmathroundto@lastzeros=\count317
 ))
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfint.code.
 tex)
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 epoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen261
-\pgf@picmaxx=\dimen262
-\pgf@picminy=\dimen263
-\pgf@picmaxy=\dimen264
-\pgf@pathminx=\dimen265
-\pgf@pathmaxx=\dimen266
-\pgf@pathminy=\dimen267
-\pgf@pathmaxy=\dimen268
-\pgf@xx=\dimen269
-\pgf@xy=\dimen270
-\pgf@yx=\dimen271
-\pgf@yy=\dimen272
-\pgf@zx=\dimen273
-\pgf@zy=\dimen274
+\pgf@picminx=\dimen260
+\pgf@picmaxx=\dimen261
+\pgf@picminy=\dimen262
+\pgf@picmaxy=\dimen263
+\pgf@pathminx=\dimen264
+\pgf@pathmaxx=\dimen265
+\pgf@pathminy=\dimen266
+\pgf@pathmaxy=\dimen267
+\pgf@xx=\dimen268
+\pgf@xy=\dimen269
+\pgf@yx=\dimen270
+\pgf@yy=\dimen271
+\pgf@zx=\dimen272
+\pgf@zy=\dimen273
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 epathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen275
-\pgf@path@lasty=\dimen276
+\pgf@path@lastx=\dimen274
+\pgf@path@lasty=\dimen275
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 epathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen277
-\pgf@shorten@start@additional=\dimen278
+\pgf@shorten@end@additional=\dimen276
+\pgf@shorten@start@additional=\dimen277
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 escopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfpic=\box106
-\pgf@hbox=\box107
-\pgf@layerbox@main=\box108
-\pgf@picture@serial@count=\count327
+\pgfpic=\box105
+\pgf@hbox=\box106
+\pgf@layerbox@main=\box107
+\pgf@picture@serial@count=\count318
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 egraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen279
+\pgflinewidth=\dimen278
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 etransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen280
-\pgf@pt@y=\dimen281
-\pgf@pt@temp=\dimen282
+\pgf@pt@x=\dimen279
+\pgf@pt@y=\dimen280
+\pgf@pt@temp=\dimen281
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 equick.code.tex
@@ -814,14 +819,14 @@ File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 earrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen283
+\pgfarrowsep=\dimen282
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 eshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen284
-\pgf@sys@shading@range@num=\count328
-\pgf@shadingcount=\count329
+\pgf@max=\dimen283
+\pgf@sys@shading@range@num=\count319
+\pgf@shadingcount=\count320
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 eimage.code.tex
@@ -830,7 +835,7 @@ File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 eexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfexternal@startupbox=\box109
+\pgfexternal@startupbox=\box108
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 elayers.code.tex
@@ -851,7 +856,7 @@ File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmodule
 shapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box110
+\pgfnodeparttextbox=\box109
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmodule
 plot.code.tex
@@ -860,8 +865,8 @@ File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/pgf/compatibility/pgfco
 mp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen285
-\pgf@nodesepend=\dimen286
+\pgf@nodesepstart=\dimen284
+\pgf@nodesepend=\dimen285
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/pgf/compatibility/pgfco
 mp-version-1-18.sty
@@ -879,8 +884,8 @@ ty
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgffor.
 code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen287
-\pgffor@skip=\dimen288
+\pgffor@iter=\dimen286
+\pgffor@skip=\dimen287
 \pgffor@stack=\toks41
 \pgffor@toks=\toks42
 ))
@@ -891,34 +896,34 @@ Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/pgflibr
 aryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count330
-\pgfplotmarksize=\dimen289
+\pgf@plot@mark@count=\count321
+\pgfplotmarksize=\dimen288
 )
-\tikz@lastx=\dimen290
-\tikz@lasty=\dimen291
-\tikz@lastxsaved=\dimen292
-\tikz@lastysaved=\dimen293
-\tikz@lastmovetox=\dimen294
-\tikz@lastmovetoy=\dimen295
-\tikzleveldistance=\dimen296
-\tikzsiblingdistance=\dimen297
-\tikz@figbox=\box111
-\tikz@figbox@bg=\box112
-\tikz@tempbox=\box113
-\tikz@tempbox@bg=\box114
-\tikztreelevel=\count331
-\tikznumberofchildren=\count332
-\tikznumberofcurrentchild=\count333
-\tikz@fig@count=\count334
+\tikz@lastx=\dimen289
+\tikz@lasty=\dimen290
+\tikz@lastxsaved=\dimen291
+\tikz@lastysaved=\dimen292
+\tikz@lastmovetox=\dimen293
+\tikz@lastmovetoy=\dimen294
+\tikzleveldistance=\dimen295
+\tikzsiblingdistance=\dimen296
+\tikz@figbox=\box110
+\tikz@figbox@bg=\box111
+\tikz@tempbox=\box112
+\tikz@tempbox@bg=\box113
+\tikztreelevel=\count322
+\tikznumberofchildren=\count323
+\tikznumberofcurrentchild=\count324
+\tikz@fig@count=\count325
 
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmodule
 matrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count335
-\pgfmatrixcurrentcolumn=\count336
-\pgf@matrix@numberofcolumns=\count337
+\pgfmatrixcurrentrow=\count326
+\pgfmatrixcurrentcolumn=\count327
+\pgf@matrix@numberofcolumns=\count328
 )
-\tikz@expandcount=\count338
+\tikz@expandcount=\count329
 
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/tik
 z/libraries/tikzlibrarytopaths.code.tex
@@ -930,60 +935,60 @@ File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/titling/titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
-\thanksmarkwidth=\skip75
-\thanksmargin=\skip76
-\droptitle=\skip77
+\thanksmarkwidth=\skip74
+\thanksmargin=\skip75
+\droptitle=\skip76
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.sty
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xparse/xpars
 e.sty
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-12-09 L3 programming layer (loader) 
+Package: expl3 2024-01-04 L3 programming layer (loader) 
 
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-lua
 tex.def
-File: l3backend-luatex.def 2024-05-08 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count339
+File: l3backend-luatex.def 2024-01-04 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count330
 Inserting `l3color' in `luaotfload.parse_color'.
-\l__pdf_internal_box=\box115
+\l__pdf_internal_box=\box114
 ))
-Package: xparse 2024-08-16 L3 Experimental document command parser
+Package: xparse 2023-10-10 L3 Experimental document command parser
 )
-Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
-Lua module: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec-luate
 x.sty
-Package: fontspec-luatex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaT
+Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaT
 eX
-\l__fontspec_script_int=\count340
-\l__fontspec_language_int=\count341
-\l__fontspec_strnum_int=\count342
-\l__fontspec_tmp_int=\count343
-\l__fontspec_tmpa_int=\count344
-\l__fontspec_tmpb_int=\count345
-\l__fontspec_tmpc_int=\count346
-\l__fontspec_em_int=\count347
-\l__fontspec_emdef_int=\count348
-\l__fontspec_strong_int=\count349
-\l__fontspec_strongdef_int=\count350
-\l__fontspec_tmpa_dim=\dimen298
-\l__fontspec_tmpb_dim=\dimen299
-\l__fontspec_tmpc_dim=\dimen300
+\l__fontspec_script_int=\count331
+\l__fontspec_language_int=\count332
+\l__fontspec_strnum_int=\count333
+\l__fontspec_tmp_int=\count334
+\l__fontspec_tmpa_int=\count335
+\l__fontspec_tmpb_int=\count336
+\l__fontspec_tmpc_int=\count337
+\l__fontspec_em_int=\count338
+\l__fontspec_emdef_int=\count339
+\l__fontspec_strong_int=\count340
+\l__fontspec_strongdef_int=\count341
+\l__fontspec_tmpa_dim=\dimen297
+\l__fontspec_tmpb_dim=\dimen298
+\l__fontspec_tmpc_dim=\dimen299
  (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ) (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.cfg
 )))
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
-\ttl@box=\box116
-\beforetitleunit=\skip78
-\aftertitleunit=\skip79
-\ttl@plus=\dimen301
-\ttl@minus=\dimen302
+\ttl@box=\box115
+\beforetitleunit=\skip77
+\aftertitleunit=\skip78
+\ttl@plus=\dimen300
+\ttl@minus=\dimen301
 \ttl@toksa=\toks43
-\titlewidth=\dimen303
-\titlewidthlast=\dimen304
-\titlewidthfirst=\dimen305
+\titlewidth=\dimen302
+\titlewidthlast=\dimen303
+\titlewidthfirst=\dimen304
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/moresize/moresize.sty
 Package: moresize 1999/07/26 v1.9 (more font sizes)
@@ -1002,9 +1007,9 @@ Package pgfplots info on input line 124: Initializing with LUA version Lua 5.3
 \t@pgfplots@toka=\toks44
 \t@pgfplots@tokb=\toks45
 \t@pgfplots@tokc=\toks46
-\pgfplots@tmpa=\dimen306
-\c@pgfplots@coordindex=\count351
-\c@pgfplots@scanlineindex=\count352
+\pgfplots@tmpa=\dimen305
+\c@pgfplots@coordindex=\count342
+\c@pgfplots@scanlineindex=\count343
 
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgfplots/sys/pgfplots
 sysgeneric.code.tex))
@@ -1037,13 +1042,13 @@ e/pgfplotsliststructure.code.tex)
 e/pgfplotsliststructureext.code.tex)
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgfplots/liststructur
 e/pgfplotsarray.code.tex
-\c@pgfplotsarray@tmp=\count353
+\c@pgfplotsarray@tmp=\count344
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgfplots/liststructur
 e/pgfplotsmatrix.code.tex)
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgfplots/numtable/pgf
 plotstableshared.code.tex
-\c@pgfplotstable@counta=\count354
+\c@pgfplotstable@counta=\count345
 \t@pgfplotstable@a=\toks50
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgfplots/liststructur
@@ -1056,7 +1061,7 @@ sbinary.data.code.tex))
 sutil.verb.code.tex)
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgfplots/libs/pgflibr
 arypgfplots.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count355
+\c@pgfplotslibrarysurf@no=\count346
 
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgfplots/sys/pgflibra
 rypgfplots.surfshading.pgfsys-luatex.def)))
@@ -1088,16 +1093,16 @@ hs.code.tex)
 z/libraries/tikzlibrarydecorations.code.tex
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmodule
 decorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen307
-\pgfdecoratedremainingdistance=\dimen308
-\pgfdecoratedinputsegmentcompleteddistance=\dimen309
-\pgfdecoratedinputsegmentremainingdistance=\dimen310
-\pgf@decorate@distancetomove=\dimen311
-\pgf@decorate@repeatstate=\count356
-\pgfdecorationsegmentamplitude=\dimen312
-\pgfdecorationsegmentlength=\dimen313
+\pgfdecoratedcompleteddistance=\dimen306
+\pgfdecoratedremainingdistance=\dimen307
+\pgfdecoratedinputsegmentcompleteddistance=\dimen308
+\pgfdecoratedinputsegmentremainingdistance=\dimen309
+\pgf@decorate@distancetomove=\dimen310
+\pgf@decorate@repeatstate=\count347
+\pgfdecorationsegmentamplitude=\dimen311
+\pgfdecorationsegmentlength=\dimen312
 )
-\tikz@lib@dec@box=\box117
+\tikz@lib@dec@box=\box116
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/tik
 z/libraries/tikzlibrarydecorations.pathmorphing.code.tex
@@ -1109,13 +1114,13 @@ z/libraries/tikzlibrarydecorations.pathreplacing.code.tex
 ions/pgflibrarydecorations.pathreplacing.code.tex))
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgfplots/libs/tikzlib
 rarypgfplots.contourlua.code.tex)
-\pgfplots@numplots=\count357
-\pgfplots@xmin@reg=\dimen314
-\pgfplots@xmax@reg=\dimen315
-\pgfplots@ymin@reg=\dimen316
-\pgfplots@ymax@reg=\dimen317
-\pgfplots@zmin@reg=\dimen318
-\pgfplots@zmax@reg=\dimen319
+\pgfplots@numplots=\count348
+\pgfplots@xmin@reg=\dimen313
+\pgfplots@xmax@reg=\dimen314
+\pgfplots@ymin@reg=\dimen315
+\pgfplots@ymax@reg=\dimen316
+\pgfplots@zmin@reg=\dimen317
+\pgfplots@zmax@reg=\dimen318
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/tik
 z/libraries/tikzlibraryplotmarks.code.tex
@@ -1136,76 +1141,60 @@ File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/pgflibr
 aryarrows.code.tex
 File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\arrowsize=\dimen320
+\arrowsize=\dimen319
 ))
 luaotfload | cache : Lookup cache loaded from C:/Users/fiste/AppData/Local/MiKTe
 X/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
 
-Package fontspec Info: 
-(fontspec)             Could not resolve font "Bebas Neue/BI" (it probably
+Package fontspec Info: Could not resolve font "BebasNeue/BI" (it probably
 (fontspec)             doesn't exist).
 
 
-Package fontspec Info: 
-(fontspec)             Could not resolve font "Bebas Neue/B" (it probably
+Package fontspec Info: Could not resolve font "BebasNeue/B" (it probably
 (fontspec)             doesn't exist).
 
 
-Package fontspec Info: 
-(fontspec)             Could not resolve font "Bebas Neue/I" (it probably
+Package fontspec Info: Could not resolve font "BebasNeue/I" (it probably
 (fontspec)             doesn't exist).
 
 luaotfload | aux : font no 20 (nil) does not define feature smcp for script latn
  with language dflt
-luaotfload | aux : font no 20 (nil) does not define feature smcp for script latn
- with language dflt
-luaotfload | aux : font no 20 (nil) does not define feature smcp for script dflt
- with language dflt
-luaotfload | aux : font no 20 (nil) does not define feature smcp for script latn
- with language dflt
-luaotfload | aux : font no 20 (nil) does not define feature smcp for script latn
- with language dflt
-luaotfload | aux : font no 20 (nil) does not define feature smcp for script dflt
- with language dflt
 
-Package fontspec Info: 
-(fontspec)             Font family 'BebasNeue(0)' created for font 'Bebas
+Package fontspec Info: Font family 'BebasNeue(0)' created for font 'Bebas
 (fontspec)             Neue' with options [].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"name:Bebas
-(fontspec)             Neue:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"BebasNeue:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 
-Package fontspec Info: 
-(fontspec)             Could not resolve font "Tex Gyre Heros Bold/BI" (it
+Package fontspec Info: Could not resolve font "TexGyreHerosBold/BI" (it
 (fontspec)             probably doesn't exist).
 
 
-Package fontspec Info: 
-(fontspec)             Could not resolve font "Tex Gyre Heros Bold/B" (it
+Package fontspec Info: Could not resolve font "TexGyreHerosBold/B" (it
 (fontspec)             probably doesn't exist).
 
 
-Package fontspec Info: 
-(fontspec)             Could not resolve font "Tex Gyre Heros Bold/I" (it
+Package fontspec Info: Could not resolve font "TexGyreHerosBold/I" (it
 (fontspec)             probably doesn't exist).
 
 
-Package fontspec Info: 
-(fontspec)             Font family 'TexGyreHerosBold(0)' created for font 'Tex
+Package fontspec Info: Font family 'TexGyreHerosBold(0)' created for font 'Tex
 (fontspec)             Gyre Heros Bold' with options [].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"name:Tex Gyre
-(fontspec)             Heros Bold:mode=node;script=latn;language=dflt;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"name:Tex
-(fontspec)             Gyre Heros
-(fontspec)             Bold:mode=node;script=latn;language=dflt;+smcp;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"TexGyreHerosBold:mode=node;script=latn;language=dflt
+;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"TexGyreHerosBold:mode=node;script=latn;language=dflt
+;+smcp;"
 
 Package hyperref Info: Option `colorlinks' set `true' on input line 44.
  (./summary.aux)
@@ -1220,6 +1209,12 @@ LaTeX Font Info:    ... okay on input line 68.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
 LaTeX Font Info:    ... okay on input line 68.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 6
+8.
+
+(C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
 LaTeX Font Info:    ... okay on input line 68.
 LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 68.
 LaTeX Font Info:    ... okay on input line 68.
@@ -1235,16 +1230,16 @@ LaTeX Font Info:    ... okay on input line 68.
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count358
-\scratchdimen=\dimen321
-\scratchbox=\box118
-\nofMPsegments=\count359
-\nofMParguments=\count360
+\scratchcounter=\count349
+\scratchdimen=\dimen320
+\scratchbox=\box117
+\nofMPsegments=\count350
+\nofMParguments=\count351
 \everyMPshowfont=\toks51
-\MPscratchCnt=\count361
-\MPscratchDim=\dimen322
-\MPnumerator=\count362
-\makeMPintoPDFobject=\count363
+\MPscratchCnt=\count352
+\MPscratchDim=\dimen321
+\MPnumerator=\count353
+\makeMPintoPDFobject=\count354
 \everyMPtoPDFconversion=\toks52
 )
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-b
@@ -1314,8 +1309,7 @@ Package hyperref Info: Link coloring ON on input line 68.
 
 \openout4 = summary.out
 
-Package fontspec Info: 
-(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup5
@@ -1384,8 +1378,6 @@ ne 83.
 LaTeX Font Warning: Font shape `TU/BebasNeue(0)/b/n' undefined
 (Font)              using `TU/BebasNeue(0)/m/n' instead on input line 88.
 
-
-
 [1
 
 {C:/Users/fiste/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./resources/im
@@ -1393,8 +1385,6 @@ ages/Mandelbrotmenge.jpg>]
 
 LaTeX Font Warning: Font shape `TU/BebasNeue(0)/m/sc' undefined
 (Font)              using `TU/BebasNeue(0)/m/n' instead on input line 102.
-
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1423,19 +1413,13 @@ LaTeX Font Info:    Trying to load font information for U+rsfs on input line 10
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/jknappen/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-luaotfload | db : Reload initiated (formats: otf,ttf,ttc); reason: Font "rsfs10"
- not found.
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
+luaotfload | db : Reload initiated (formats: otf,ttf,ttc); reason: Font "rsfs5" 
+not found.
 luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
 luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
 Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
  []
-
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1448,26 +1432,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
 (fancyhdr)                \setlength{\headheight}{13.59999pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[3]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[4] (./summary.aux)
+[3] (./summary.aux)
  ***********
-LaTeX2e <2024-11-01> patch level 1
-L3 programming layer <2024-12-09>
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
  ***********
 
 
@@ -1478,28 +1452,28 @@ Package rerunfilecheck Info: File `summary.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 39791 strings out of 475554
- 100000,1977958 words of node,token memory allocated
+ 39653 strings out of 476497
+ 125027,1977958 words of node,token memory allocated
  603 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 12 attribute, 66 glue_spec
 , 8 attribute_list, 2 write nodes
-   avail lists: 2:5671,3:2009,4:81,5:181,6:27,7:3172,8:17,9:652,10:4,11:172
- 61811 multiletter control sequences out of 65536+600000
- 51 fonts using 4103951 bytes
- 84i,17n,91p,805b,2251s stack positions out of 10000i,1000n,20000p,200000b,200000s
+   avail lists: 1:1,2:5085,3:1321,4:74,5:182,6:27,7:3285,8:17,9:639,10:3,11:172
+ 60741 multiletter control sequences out of 65536+600000
+ 51 fonts using 4186495 bytes
+ 84i,17n,89p,783b,2251s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/opentype/public/tex-gyre/tex
-gyreheros-bold.otf><c:/users/fiste/appdata/local/programs/miktex/fonts/opentype/
-public/lm/lmroman10-regular.otf><C:/Users/fiste/AppData/Local/Microsoft/Windows/
-Fonts/bebasneue-regular.ttf><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/fiste/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/fiste/AppData/Local/
-Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/fiste/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/fiste/
-AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on summary.pdf (5 pages, 1654864 bytes).
+gyreheros-bold.otf><//?/c:/users/fiste/appdata/local/programs/miktex/fonts/opent
+ype/public/lm/lmroman10-regular.otf><C:/Users/fiste/AppData/Local/Microsoft/Wind
+ows/Fonts/bebasneue-regular.ttf><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/fiste/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/fiste/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/fiste/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/fiste/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/fi
+ste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on summary.pdf (4 pages, 1648063 bytes).
 
-PDF statistics: 96 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 131072)
+PDF statistics: 92 PDF objects out of 1000 (max. 8388607)
+ 9 named destinations out of 1000 (max. 131072)
  56 words of extra memory for PDF output out of 10000 (max. 100000000)
 
