@@ -105,6 +105,15 @@
 Die Ableitung ist die Funktion, welche die Steigung einer anderen Funktion an einem bestimmten Wert für $x$ angibt. 
 
 Es lässt sich somit an dem $y$-Wert der abgeleiteten Funktion die Steigung graphisch, sowie auch numerisch bestimmen.\\
+
+Um dies algebraisch zu bestimmen verwendet man den Limes:
+\begin{equation}
+    f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}
+\end{equation}
+
+Diese Formel ist nichts weiteres als das vorhin erwähnte $\frac{\Delta y}{\Delta x}$, jedoch wurde hier die Funktion eingesetzt.
+
+Man nimmt einen Punkt $x$, sowieso den um $h$ vergrösserten und erhält damit die Formel. Durch den Limes wird der Abstand $h$ 0 angenähert und somit erhält man die Tangente.
 \begin{center}
     \begin{tikzpicture}
         \begin{axis}[
