@@ -289,6 +289,39 @@ In einzelnen Etappen darstellt sieht das folgendermassen aus: \\
     \end{center}
 \end{minipage}
 Es ist klar eine tendenz zu sehen, dass sich die Geraden immer mehr annähern. Wenn durch den Limes nun dieser Abstand unendlich klein wird, konvergierren diese Geraden und werden zu einer.
+
 \section{Graphische Darstellung des Integral}
+\pgfplotsset{
+    integral segments/.code={\pgfmathsetmacro\integralsegments{#1}},
+    integral segments=5,
+    integral/.style args={#1:#2}{
+        ybar interval,
+        domain=#1+((#2-#1)/\integralsegments)/2:#2+((#2-#1)/\integralsegments)/2,
+        samples=\integralsegments+1,
+        x filter/.code=\pgfmathparse{\pgfmathresult-((#2-#1)/\integralsegments)/2}
+    }
+}
+
+\begin{tikzpicture}[/pgf/declare function={f=x^-1+1;}]
+\begin{axis}[
+    xmin=-1,
+    xmax=20,
+    ymin=-1,
+    ymax=10,
+    domain=0:20,
+    samples=1000,
+    axis lines=middle
+]
+\addplot [thick] {f};
+\addplot [
+    smooth,
+    SlateBlue1,
+    integral=.5:10
+] {f};
+\legend{$f(x) = x^{-1}+1$}
+\end{axis}
+\end{tikzpicture}
+
+\newpage
 \section{Graphischer Zusammenhang der Beiden}
 \end{document}
