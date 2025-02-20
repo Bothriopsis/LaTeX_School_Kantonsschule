@@ -293,7 +293,7 @@ Es ist klar eine tendenz zu sehen, dass sich die Geraden immer mehr annähern. W
 \section{Graphische Darstellung des Integral}
 \pgfplotsset{
     integral segments/.code={\pgfmathsetmacro\integralsegments{#1}},
-    integral segments=5,
+    integral segments=7,
     integral/.style args={#1:#2}{
         ybar interval,
         domain=#1+((#2-#1)/\integralsegments)/2:#2+((#2-#1)/\integralsegments)/2,
@@ -302,24 +302,62 @@ Es ist klar eine tendenz zu sehen, dass sich die Geraden immer mehr annähern. W
     }
 }
 
+\begin{minipage}{.5\textwidth}
+    Die Herangehensweise um den Integral zu bestimmen ist folgender, dass man die Fläche unter der Funktion in Quadrate unterteilt, von welchen man die Fläche einfach berechnen kann.
+
+    Da mit grossem $\Delta h$ die Fläche ungenau ist, nähert man dies 0 an, um sich der tatsächlichen Fläche unter der Kuzrve anzunähern.
+\end{minipage}
+\hspace{0.1\textwidth}
+\begin{minipage}{.4\textwidth}
+    \begin{center}
+        \begin{tikzpicture}[/pgf/declare function={f=(1/32)*x^2;}]
+        \begin{axis}[
+            xmin=-1,
+            xmax=20,
+            ymin=-1,
+            ymax=10,
+            domain=0:20,
+            samples=1000,
+            axis lines=middle
+        ]
+        \addplot [thick] {f};
+        \addplot [
+            smooth,
+            SlateBlue1,
+            integral=2:16,
+        ] {f};
+        \begin{scriptsize}
+            \draw[color=SeaGreen3] (17.5, 3.5) node [scale=0.8] {$f(x)$};
+            \draw[color=SeaGreen3] (15, 7.5) node [scale=0.8] {$\Delta h$};
+        \end{scriptsize}
+        \legend{$f(x) = x^{-1}+1$}
+        \end{axis}
+        \end{tikzpicture}
+    \end{center}
+\end{minipage}
+
 \begin{tikzpicture}[/pgf/declare function={f=(1/32)*x^2;}]
-\begin{axis}[
-    xmin=-1,
-    xmax=20,
-    ymin=-1,
-    ymax=10,
-    domain=0:20,
-    samples=1000,
-    axis lines=middle
-]
-\addplot [thick] {f};
-\addplot [
-    smooth,
-    SlateBlue1,
-    integral=2:16,
-] {f};
-\legend{$f(x) = x^{-1}+1$}
-\end{axis}
+    \begin{axis}[
+        xmin=-1,
+        xmax=20,
+        ymin=-1,
+        ymax=10,
+        domain=0:20,
+        samples=1000,
+        axis lines=middle
+    ]
+    \addplot [thick] {f};
+    \addplot [
+        smooth,
+        SlateBlue1,
+        integral=2:16,
+    ] {f};
+    \begin{scriptsize}
+        \draw[color=SeaGreen3] (17.5, 3.5) node [scale=0.8] {$f(x)$};
+        \draw[color=SeaGreen3] (15, 7.5) node [scale=0.8] {$\Delta h$};
+    \end{scriptsize}
+    \legend{$f(x) = x^{-1}+1$}
+    \end{axis}
 \end{tikzpicture}
 
 \newpage
