@@ -474,4 +474,84 @@ Es ist klar eine tendenz zu sehen, dass sich die Geraden immer mehr annähern. W
 
 \newpage
 \section{Graphischer Zusammenhang der Beiden}
+\begin{center}
+    \begin{tikzpicture}
+        \begin{axis}[
+            axis lines = middle,
+            width=.8\linewidth,
+            ymin=-25,ymax=20,
+            xmin=-4,xmax=4,
+            xlabel=$x$,
+            ylabel=$y$,
+        ]
+        % normal function
+        \addplot[smooth, thick, black, domain=-4:4]{4*x^4-5*x^3};
+        % derivative
+        \addplot[smooth, thick, SlateBlue1, domain=-4:4]{16*x^3-15*x^2};
+        % main integral
+        \addplot[smooth, thick, SeaGreen3, domain=-4:4]{(4/5)*x^4-(5/4)*x^3}; 
+        % segments 
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) + 1};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) + 2}; 
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) + 3}; 
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) + 4}; 
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) + 5}; 
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) + 6};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) + 7}; 
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) + 8}; 
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) + 9}; 
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) + 10};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) + 11};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) + 12};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) + 13};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) + 14};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) + 15};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) + 16};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) + 17};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) + 18};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) + 19};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) + 20};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 1};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 2}; 
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 3}; 
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 4}; 
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 5}; 
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 6};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 7}; 
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 8}; 
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 9}; 
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 10};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 11};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 12};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 13};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 14};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 15};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 16};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 17};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 18};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 19};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 20};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 21};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 22};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 23};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 24};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 25};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 26};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 27};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 28};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 29};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 30};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 31};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 32};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 33};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 34};
+        \addplot[smooth, very thin, dash pattern=on 3pt off 5pt, SeaGreen3, domain=-4:4]{((4/5)*x^4-(5/4)*x^3) - 35};
+
+
+
+
+        \legend{$f(x)$}
+        \end{axis}
+    \end{tikzpicture}
+\end{center}
 \end{document}

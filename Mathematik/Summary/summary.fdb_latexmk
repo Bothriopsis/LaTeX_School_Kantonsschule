@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1740417299.67518 "d:/GitHub/LaTeX_School_Kantonsschule/Mathematik/Summary/summary.tex" "summary.pdf" "summary" 1740417303.49381 0
+["lualatex"] 1740419936.10695 "d:/GitHub/LaTeX_School_Kantonsschule/Mathematik/Summary/summary.tex" "summary.pdf" "summary" 1740419940.25157 0
   "//?/c:/users/fiste/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman10-regular.otf" 1256929440 111536 fc712364c8d0a1b548d46c76f2678030 ""
   "C:/Users/fiste/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1739911437 123019 4e6d54fe28a67ad1b512b0cc9d03c2e8 ""
   "C:/Users/fiste/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1737885660 688 37338d6ab346c2f1466b29e195316aa4 ""
@@ -14,7 +14,7 @@
   "C:/Users/fiste/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/lmroman8-regular.luc" 1737899643 128160 28b1b93c613c1eacd15aed33642386f3 ""
   "C:/Users/fiste/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/lmromancaps10-regular.luc" 1737975658 120261 42c15cd740b07660044cbd803fb81b08 ""
   "C:/Users/fiste/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/texgyreheros-bold.luc" 1737975443 212920 dc960ca44f2db7ff02228f84942e5b3d ""
-  "C:/Users/fiste/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.luc" 1740417301 269 67045bf065c3a11cd48c3ae473d78b7d "lualatex"
+  "C:/Users/fiste/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.luc" 1740419938 269 67045bf065c3a11cd48c3ae473d78b7d "lualatex"
   "C:/Users/fiste/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz" 1739911438 77332 5c4b0b31925c7bc12a601ae6bde3bba3 ""
   "C:/Users/fiste/AppData/Local/Microsoft/Windows/Fonts/bebasneue-regular.ttf" 1737924012 57676 8ca9c853bd5d15c668502e7f5b7a1c3a ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/opentype/public/tex-gyre/texgyreheros-bold.otf" 1256929440 135204 8f06fb429a9f6f6beef8952b9153147a ""
@@ -297,11 +297,11 @@
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload-unicode.lua" 1693506766 7917 2ac5fb697191fbe7f30f4ab4e5f7037b ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload.lua" 1693506766 13565 c514d92e6ff6be7b2f35d8e0eb56185c ""
   "C:/Users/fiste/AppData/Roaming/MiKTeX/tex/generic/config/language.dat" 1736530677 2269 c2be9efecb8e53facf8213ae101f16af ""
-  "d:/GitHub/LaTeX_School_Kantonsschule/Mathematik/Summary/summary.tex" 1740417299 17797 dcbc741bcd8a7f7b60e977ca8e33505f ""
+  "d:/GitHub/LaTeX_School_Kantonsschule/Mathematik/Summary/summary.tex" 1740419935 24996 1a04bac2fed13eb0e141294521d4bb66 ""
   "resources/images/Mandelbrotmenge.jpg" 1739864978 1563277 5443e541ebc37540840f60a8988c5a09 ""
-  "summary.aux" 1740417303 1200 18576186b13d07e4d9d872c1aa59ccbf "lualatex"
-  "summary.out" 1740417303 1246 cdcc6c18f3b8237c6c8f7e1244ef8e6e "lualatex"
-  "summary.tex" 1740417299 17797 dcbc741bcd8a7f7b60e977ca8e33505f ""
+  "summary.aux" 1740419939 1200 18576186b13d07e4d9d872c1aa59ccbf "lualatex"
+  "summary.out" 1740419939 1246 cdcc6c18f3b8237c6c8f7e1244ef8e6e "lualatex"
+  "summary.tex" 1740419935 24996 1a04bac2fed13eb0e141294521d4bb66 ""
   (generated)
   "C:/Users/fiste/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.lua"
   "C:/Users/fiste/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.luc"
