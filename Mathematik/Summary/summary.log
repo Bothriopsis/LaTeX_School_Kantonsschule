@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.1.27)  20 FEB 2025 11:52
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.1.27)  24 FEB 2025 14:46
  restricted system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/Mathematik/Summary
@@ -1461,19 +1461,19 @@ Overfull \hbox (2.4309pt too wide) in paragraph at lines 182--292
 []$ $[]$
  []
 
-Package pgfplots info on input line 328: Using 'lua backend=false' for plot 1 (
+Package pgfplots info on input line 337: Using 'lua backend=false' for plot 1 (
 type 'pgfplothandlerybarinterval'): LUA does not support x filter (yet).
 
-Overfull \hbox (44.70534pt too wide) in paragraph at lines 335--336
+Overfull \hbox (44.70534pt too wide) in paragraph at lines 344--345
  [] 
  []
 
 
-Overfull \hbox (4.86177pt too wide) in paragraph at lines 305--338
+Overfull \hbox (4.86177pt too wide) in paragraph at lines 314--347
 $[]$   $[]$ 
  []
 
-Package pgfplots info on input line 354: Using 'lua backend=false' for plot 1 (
+Package pgfplots info on input line 363: Using 'lua backend=false' for plot 1 (
 type 'pgfplothandlerybarinterval'): LUA does not support x filter (yet).
 
 
@@ -1516,13 +1516,13 @@ Package rerunfilecheck Info: File `summary.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 39736 strings out of 475554
+ 39746 strings out of 475554
  156267,1977958 words of node,token memory allocated
  615 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 16 attribute, 66 glue_spec
 , 10 attribute_list, 2 write nodes
-   avail lists: 2:20078,3:6704,4:175,5:254,6:40,7:7028,8:36,9:1361,10:9,11:233
- 61753 multiletter control sequences out of 65536+600000
+   avail lists: 2:20060,3:6698,4:175,5:254,6:40,7:7028,8:36,9:1361,10:9,11:233
+ 61763 multiletter control sequences out of 65536+600000
  51 fonts using 4103951 bytes
  84i,19n,91p,805b,2312s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/opentype/public/tex-gyre/tex
@@ -1535,7 +1535,7 @@ s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/fiste/AppData/Local/
 Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/fiste/AppData/
 Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/fiste/
 AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on summary.pdf (6 pages, 1670898 bytes).
+Output written on summary.pdf (6 pages, 1670964 bytes).
 
 PDF statistics: 105 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 131072)

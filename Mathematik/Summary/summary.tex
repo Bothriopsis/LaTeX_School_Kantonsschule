@@ -293,13 +293,22 @@ Es ist klar eine tendenz zu sehen, dass sich die Geraden immer mehr annähern. W
 \section{Graphische Darstellung des Integral}
 \pgfplotsset{
     integral segments/.code={\pgfmathsetmacro\integralsegments{#1}},
-    integral segments=7,
+    integral segments=1,
     integral/.style args={#1:#2}{
         ybar interval,
         domain=#1+((#2-#1)/\integralsegments)/2:#2+((#2-#1)/\integralsegments)/2,
         samples=\integralsegments+1,
         x filter/.code=\pgfmathparse{\pgfmathresult-((#2-#1)/\integralsegments)/2}
-    }
+    },
+    % New settings for a second integral plot
+    integralB segments/.code={\pgfmathsetmacro\integralsegmentsB{#1}},
+    integralB segments=7,
+    integralB/.style args={#1:#2}{
+        ybar interval,
+        domain=#1+((#2-#1)/\integralsegmentsB)/2:#2+((#2-#1)/\integralsegmentsB)/2,
+        samples=\integralsegmentsB+1,
+        x filter/.code=\pgfmathparse{\pgfmathresult-((#2-#1)/\integralsegmentsB)/2}
+    },
 }
 
 \begin{minipage}{.5\textwidth}
@@ -324,7 +333,7 @@ Es ist klar eine tendenz zu sehen, dass sich die Geraden immer mehr annähern. W
         \addplot [
             smooth,
             SlateBlue1,
-            integral=2:16,
+            integral=14:16,
         ] {f};
         \begin{scriptsize}
             \draw[color=SeaGreen3] (17.5, 3.5) node [scale=0.8] {$f(x)$};
@@ -350,7 +359,7 @@ Es ist klar eine tendenz zu sehen, dass sich die Geraden immer mehr annähern. W
     \addplot [
         smooth,
         SlateBlue1,
-        integral=2:16,
+        integralB=2:16,
     ] {f};
     \begin{scriptsize}
         \draw[color=SeaGreen3] (17.5, 3.5) node [scale=0.8] {$f(x)$};
