@@ -142,7 +142,7 @@ Man nimmt einen Punkt $x$, sowieso den um $\Delta x$ vergrösserten und betracht
     \[
     f'(x)=\lim_{\Delta x\to 0}\frac{f(x+\Delta x)-f(x)}{\Delta x}
     \]
-    berechnet. Dieser Grenzwert entspricht der exakten Steigung der Tangente an die Funktion f im Punkt x.
+    berechnet. Dieser Grenzwert entspricht der exakten Steigung der Tangente an die Funktion $f(x)$ im Punkt $x$.
 \end{minipage}
 \hspace{0.1\textwidth}
 \begin{minipage}{.4\textwidth}
@@ -182,7 +182,7 @@ Man nimmt einen Punkt $x$, sowieso den um $\Delta x$ vergrösserten und betracht
 
 \vspace{.5cm}
 
-\noindent In einzelnen Etappen darstellt sieht das folgendermassen aus: \\
+\noindent In einzelnen Etappen dargestellt, sieht das folgendermassen aus: \\
 
 \vspace{.5cm}
 
@@ -297,7 +297,7 @@ Man nimmt einen Punkt $x$, sowieso den um $\Delta x$ vergrösserten und betracht
         \end{tikzpicture}
     \end{center}
 \end{minipage}
-Es ist klar eine tendenz zu sehen, dass sich die Geraden immer mehr annähern. Wenn durch den Limes nun dieser Abstand unendlich klein wird, konvergierren diese Geraden und werden zu einer.
+Man erkennt eindeutig, dass die Geraden sich kontinuierlich annähern. Im Grenzwert, wenn der Abstand unendlich klein wird, konvergieren sie zu einer einzigen Geraden.
 
 \section{Graphische Darstellung des Integral}
 \pgfplotsset{
@@ -344,9 +344,11 @@ Es ist klar eine tendenz zu sehen, dass sich die Geraden immer mehr annähern. W
 }
 
 \begin{minipage}{.5\textwidth}
-    Die Herangehensweise um den Integral zu bestimmen ist folgender, dass man die Fläche unter der Funktion in Quadrate unterteilt, von welchen man die Fläche einfach berechnen kann.
+    Die Herangehensweise um den Integral zu bestimmen ist folgende, dass man die Fläche unter der Funktion in Rechtecke unterteilt, von welchen man die Fläche einfach berechnen kann.
 
-    Da mit grossem $\Delta h$ die Fläche ungenau ist, nähert man dies 0 an, um sich der tatsächlichen Fläche unter der Kuzrve anzunähern.
+    Da mit grossem $\Delta x$ die Fläche ungenau ist, nähert man dies 0 an, um sich der tatsächlichen Fläche unter der Kuzrve anzunähern. Die Fläche unter der Kurve ist die Summe aller Flächen der Rechtecke. Somit kommt man auf folgende Formel.
+
+    $$\int_{a}^{b} f(x)dx = \lim_{\Delta x \to 0} \sum_{i=1}^{n} f(x_i) \Delta x$$
 \end{minipage}
 \begin{minipage}{.5\textwidth}
     \begin{center}
@@ -369,7 +371,7 @@ Es ist klar eine tendenz zu sehen, dass sich die Geraden immer mehr annähern. W
         ] {f};
         \begin{scriptsize}
             \draw[color=SeaGreen3] (17.5, 3.5) node [scale=0.8] {$f(x)$};
-            \draw[color=SeaGreen3] (15, 7.5) node [scale=0.8] {$\Delta h$};
+            \draw[color=SeaGreen3] (15, 7.5) node [scale=0.8] {$\Delta x$};
         \end{scriptsize}
         \legend{$f(x) = x^{-1}+1$}
         \end{axis}
