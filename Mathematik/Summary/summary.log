@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.1.26)  2 MAR 2025 12:03
+This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.1.26)  2 MAR 2025 18:20
  restricted system commands enabled.
  file:line:error style messages enabled.
 **d:/GitHub/LaTeX_School_Kantonsschule/Mathematik/Summary/summary.tex
@@ -1383,11 +1383,11 @@ enefit from \pgfplotsset{compat=1.18} (current compat level: 1.15).
 File: resources/images/Mandelbrotmenge.jpg Graphic file (type jpg)
 <use resources/images/Mandelbrotmenge.jpg>
 Package luatex.def Info: resources/images/Mandelbrotmenge.jpg  used on input li
-ne 84.
+ne 81.
 (luatex.def)             Requested size: 483.69771pt x 731.25594pt.
 
 LaTeX Font Warning: Font shape `TU/BebasNeue(0)/b/n' undefined
-(Font)              using `TU/BebasNeue(0)/m/n' instead on input line 89.
+(Font)              using `TU/BebasNeue(0)/m/n' instead on input line 86.
 
 [1
 
@@ -1395,7 +1395,7 @@ LaTeX Font Warning: Font shape `TU/BebasNeue(0)/b/n' undefined
 ages/Mandelbrotmenge.jpg>]
 
 LaTeX Font Warning: Font shape `TU/BebasNeue(0)/m/sc' undefined
-(Font)              using `TU/BebasNeue(0)/m/n' instead on input line 103.
+(Font)              using `TU/BebasNeue(0)/m/n' instead on input line 100.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1412,26 +1412,26 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.I'
 Kapitel 1.
 
 LaTeX Font Warning: Font shape `TU/BebasNeue(0)/bx/n' undefined
-(Font)              using `TU/BebasNeue(0)/m/n' instead on input line 104.
+(Font)              using `TU/BebasNeue(0)/m/n' instead on input line 101.
 
 
 LaTeX Font Warning: Font shape `TU/TexGyreHerosBold(0)/bx/n' undefined
 (Font)              using `TU/TexGyreHerosBold(0)/m/n' instead on input line 10
-5.
+2.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 106
+LaTeX Font Info:    Trying to load font information for U+msa on input line 103
 .
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 106
+LaTeX Font Info:    Trying to load font information for U+msb on input line 103
 .
 
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 10
-6.
+3.
 
 (C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/latex/jknappen/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
@@ -1440,7 +1440,7 @@ luaotfload | db : Reload initiated (formats: otf,ttf,ttc); reason: Font "rsfs5"
 not found.
 luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
 luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-Underfull \hbox (badness 10000) in paragraph at lines 108--109
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
  []
 
@@ -1454,30 +1454,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [2
 
 ]
-Overfull \hbox (4.86177pt too wide) in paragraph at lines 139--177
+Overfull \hbox (4.86177pt too wide) in paragraph at lines 136--182
 $[]$   $[]$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--179
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
 
  []
 
 
-Overfull \hbox (19.4309pt too wide) in paragraph at lines 182--236
+Overfull \hbox (19.4309pt too wide) in paragraph at lines 189--243
 []$[]$ $[]$ 
  []
 
 
-Overfull \hbox (19.4309pt too wide) in paragraph at lines 239--294
+Overfull \hbox (19.4309pt too wide) in paragraph at lines 246--301
 []$[]$ $[]$
- []
-
-Package pgfplots info on input line 362: Using 'lua backend=false' for plot 1 (
-type 'pgfplothandlerybarinterval'): LUA does not support x filter (yet).
-
-Overfull \hbox (2.4309pt too wide) in paragraph at lines 339--372
-$[]$ $[]$ 
  []
 
 
@@ -1488,21 +1481,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [3]
-Package pgfplots info on input line 392: Using 'lua backend=false' for plot 1 (
-type 'pgfplothandlerybarinterval'): LUA does not support x filter (yet).
-Package pgfplots info on input line 414: Using 'lua backend=false' for plot 1 (
+Package pgfplots info on input line 369: Using 'lua backend=false' for plot 1 (
 type 'pgfplothandlerybarinterval'): LUA does not support x filter (yet).
 
-Overfull \hbox (19.4309pt too wide) in paragraph at lines 375--419
+Overfull \hbox (2.4309pt too wide) in paragraph at lines 346--379
+$[]$ $[]$ 
+ []
+
+Package pgfplots info on input line 399: Using 'lua backend=false' for plot 1 (
+type 'pgfplothandlerybarinterval'): LUA does not support x filter (yet).
+Package pgfplots info on input line 421: Using 'lua backend=false' for plot 1 (
+type 'pgfplothandlerybarinterval'): LUA does not support x filter (yet).
+
+Overfull \hbox (19.4309pt too wide) in paragraph at lines 382--426
 []$[]$ $[]$ 
  []
 
-Package pgfplots info on input line 439: Using 'lua backend=false' for plot 1 (
+Package pgfplots info on input line 446: Using 'lua backend=false' for plot 1 (
 type 'pgfplothandlerybarinterval'): LUA does not support x filter (yet).
-Package pgfplots info on input line 461: Using 'lua backend=false' for plot 1 (
+Package pgfplots info on input line 468: Using 'lua backend=false' for plot 1 (
 type 'pgfplothandlerybarinterval'): LUA does not support x filter (yet).
 
-Overfull \hbox (19.4309pt too wide) in paragraph at lines 422--466
+Overfull \hbox (19.4309pt too wide) in paragraph at lines 429--473
 []$[]$ $[]$ 
  []
 
@@ -1549,14 +1549,14 @@ Package rerunfilecheck Info: File `summary.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 40460 strings out of 476497
+ 40462 strings out of 476497
  195364,2373549 words of node,token memory allocated
- 630 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 18 attribute, 66 glue_spec
-, 11 attribute_list, 2 write nodes
-   avail lists: 1:1,2:21100,3:12199,4:432,5:200,6:44,7:9668,8:36,9:1222,10:11,11
-:248
- 61513 multiletter control sequences out of 65536+600000
+ 642 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 22 attribute, 66 glue_spec
+, 13 attribute_list, 2 write nodes
+   avail lists: 1:2,2:21100,3:12199,4:432,5:214,6:44,7:9668,8:39,9:1222,10:9,11:
+248
+ 61515 multiletter control sequences out of 65536+600000
  57 fonts using 4557407 bytes
  84i,19n,89p,783b,2353s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <//?/c:/users/fiste/appdata/local/programs/miktex/fonts/opentype/public/lm/lmrom
@@ -1574,7 +1574,7 @@ mr8.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
 s/cm/cmsy10.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /amsfonts/cm/cmsy8.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/amsfonts/symbols/msbm10.pfb>
-Output written on summary.pdf (7 pages, 1781250 bytes).
+Output written on summary.pdf (7 pages, 1781408 bytes).
 
 PDF statistics: 141 PDF objects out of 1000 (max. 8388607)
  24 named destinations out of 1000 (max. 131072)

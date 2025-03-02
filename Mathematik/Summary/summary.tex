@@ -69,9 +69,6 @@
 \begin{document}
 \pagenumbering{Roman}
 
-% pretitle
-%\includepdf[scale=1.05]{resources/pdf/Title.pdf}
-
 % own title
 \begin{titlepage}
     \centering
@@ -103,18 +100,18 @@
 \part{Analysis}
 \chapter{Graphischer Zusammenhang der Analysis}
 \section{Bedeutung der Ableitung}
-Die Ableitung ist die Funktion, welche die Steigung einer anderen Funktion an einem bestimmten Wert für $x$ angibt. 
+Die Ableitung ist die Funktion, welche die Steigung der abgeleiteten Funktion an einem bestimmten Wert für $x$ angibt. 
 
-Es lässt sich somit an dem $y$-Wert der abgeleiteten Funktion die Steigung graphisch, sowie auch numerisch bestimmen.\\
+Es lässt sich somit an dem $y$-Wert der Ableitung die Steigung der abgeleiteten Funktion graphisch, sowie auch numerisch bestimmen.\\
 
 Um dies algebraisch zu bestimmen verwendet man den Limes:
 \begin{equation}
-    f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}
+    f'(x) = \lim_{\Delta x \to 0} \frac{f(x+\Delta x)-f(x)}{\Delta x}
 \end{equation}
 
 Diese Formel ist nichts weiteres als das vorhin erwähnte $\frac{\Delta y}{\Delta x}$, jedoch wurde hier die Funktion eingesetzt.
 
-Man nimmt einen Punkt $x$, sowieso den um $h$ vergrösserten und erhält damit die Formel. Durch den Limes wird der Abstand $h$ 0 angenähert und somit erhält man die Tangente.
+Man nimmt einen Punkt $x$, sowieso den um $\Delta x$ vergrösserten und betrachtet die Steigung der Sekante zwischen den beiden Punkten. Durch den Limes wird der Abstand $\Delta x$ an 0 angenähert und somit erhält man die Steigung der Tangente am Punkt $x$.
 \begin{center}
     \begin{tikzpicture}
         \begin{axis}[
@@ -127,7 +124,7 @@ Man nimmt einen Punkt $x$, sowieso den um $h$ vergrösserten und erhält damit d
         ]
         \addplot[smooth, thick, SlateBlue4, domain=-5:10]{x^3 - 3*x^2 - 9*x + 5}; 
         \addplot[smooth, thick, SlateBlue1, domain=-5:10]{3*x^2-6*x-9}; 
-        \legend{$f(x) = x^3 - 3\cdot x^2 - 9\cdot x + 5$, $f'(x) = 3\cdot x^2 - 6\cdot x - 9$}
+        \legend{$f(x) = x^3 - 3 x^2 - 9x + 5$, $f'(x) = 3x^2 - 6x - 9$}
         \end{axis}
     \end{tikzpicture}
 \end{center}
@@ -137,7 +134,15 @@ Man nimmt einen Punkt $x$, sowieso den um $h$ vergrösserten und erhält damit d
 \newpage
 \section{Graphische Darstellung des Differential}
 \begin{minipage}{.5\textwidth}
-    Um das Differential zu erhalten, versucht man die Funktion einer Tangente an der Stelle anzunähern. Um eine Annäherung zu erhlaten rechnet man $\frac{\Delta x}{\Delta y}$. Ziel ist es dabei das $\Delta x$ gegen 0 zu nähern. Wenn es unendlich klein wird, erhält man die tatsächliche Tangente.
+    Um das Differential beziehungsweise die Ableitung einer Funktion zu bestimmen, nähert man die Tangente an der Stelle x an. Hierzu wird der Differenzenquotient
+    \[
+    \frac{\Delta y}{\Delta x} = \frac{f(x+\Delta x)-f(x)}{\Delta x}
+    \]
+    betrachtet und der Grenzwert
+    \[
+    f'(x)=\lim_{\Delta x\to 0}\frac{f(x+\Delta x)-f(x)}{\Delta x}
+    \]
+    berechnet. Dieser Grenzwert entspricht der exakten Steigung der Tangente an die Funktion f im Punkt x.
 \end{minipage}
 \hspace{0.1\textwidth}
 \begin{minipage}{.4\textwidth}
@@ -175,7 +180,9 @@ Man nimmt einen Punkt $x$, sowieso den um $h$ vergrösserten und erhält damit d
     \end{tikzpicture}
 \end{minipage}
 
-In einzelnen Etappen darstellt sieht das folgendermassen aus: \\
+\vspace{.5cm}
+
+\noindent In einzelnen Etappen darstellt sieht das folgendermassen aus: \\
 
 \vspace{.5cm}
 
