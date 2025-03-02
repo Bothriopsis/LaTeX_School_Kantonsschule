@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.1.26)  2 MAR 2025 18:29
+This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.1.26)  2 MAR 2025 18:35
  restricted system commands enabled.
  file:line:error style messages enabled.
 **d:/GitHub/LaTeX_School_Kantonsschule/Mathematik/Summary/summary.tex
@@ -1554,7 +1554,7 @@ Here is how much of LuaTeX's memory you used:
  648 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 24 attribute, 66 glue_spec
 , 14 attribute_list, 2 write nodes
-   avail lists: 1:2,2:21121,3:12209,4:432,5:273,6:45,7:9668,8:39,9:1282,10:9,11:
+   avail lists: 1:1,2:21121,3:12209,4:432,5:273,6:44,7:9668,8:39,9:1282,10:9,11:
 248
  61515 multiletter control sequences out of 65536+600000
  57 fonts using 4557407 bytes
@@ -1574,7 +1574,7 @@ mr8.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
 s/cm/cmsy10.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /amsfonts/cm/cmsy8.pfb><C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/amsfonts/symbols/msbm10.pfb>
-Output written on summary.pdf (7 pages, 1783713 bytes).
+Output written on summary.pdf (7 pages, 1783803 bytes).
 
 PDF statistics: 141 PDF objects out of 1000 (max. 8388607)
  24 named destinations out of 1000 (max. 131072)
