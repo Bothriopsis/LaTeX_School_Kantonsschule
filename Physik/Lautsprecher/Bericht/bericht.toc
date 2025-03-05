@@ -9,7 +9,8 @@
 \contentsline {subsection}{\numberline {1.3.3}Ideale Bauweise}{5}{subsection.1.3.3}%
 \contentsline {chapter}{\numberline {2}Material und Methoden}{6}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Material}{6}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Methoden}{6}{section.2.2}%
+\contentsline {section}{\numberline {2.2}Material}{6}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Methoden}{6}{section.2.3}%
 \contentsline {chapter}{\numberline {3}Resultate}{7}{chapter.3}%
 \contentsline {chapter}{\numberline {4}Diskussion}{8}{chapter.4}%
 \contentsline {part}{II\hspace {1em}Baudokumentation}{9}{part.2}%
