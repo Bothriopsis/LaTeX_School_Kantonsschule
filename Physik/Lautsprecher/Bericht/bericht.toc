@@ -14,4 +14,7 @@
 \contentsline {chapter}{\numberline {4}Diskussion}{8}{chapter.4}%
 \contentsline {part}{II\hspace {1em}Baudokumentation}{9}{part.2}%
 \contentsline {chapter}{\numberline {5}Plan}{10}{chapter.5}%
+\contentsline {section}{\numberline {5.1}CAD Zeichnung}{10}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Skizzen}{10}{section.5.2}%
 \contentsline {chapter}{\numberline {6}Bau}{11}{chapter.6}%
+\contentsline {section}{\numberline {6.1}beöntigte Materialien}{11}{section.6.1}%
