@@ -18,3 +18,4 @@
 \contentsline {section}{\numberline {5.2}Skizzen}{10}{section.5.2}%
 \contentsline {chapter}{\numberline {6}Bau}{11}{chapter.6}%
 \contentsline {section}{\numberline {6.1}beöntigte Materialien}{11}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Bauanleitung}{11}{section.6.2}%
