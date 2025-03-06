@@ -20,6 +20,6 @@
 \contentsline {section}{\numberline {6.1}beöntigte Materialien}{11}{section.6.1}%
 \contentsline {section}{\numberline {6.2}Bauanleitung}{11}{section.6.2}%
 \contentsline {subsection}{\numberline {6.2.1}Gehäuse}{11}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}Tieftönergestell}{11}{subsection.6.2.2}%
-\contentsline {subsection}{\numberline {6.2.3}Tieftöner}{11}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.2}Tieftönergestell}{12}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Tieftöner}{12}{subsection.6.2.3}%
 \contentsline {subsection}{\numberline {6.2.4}Hochtöner}{12}{subsection.6.2.4}%
