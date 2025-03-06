@@ -23,3 +23,4 @@
 \contentsline {subsection}{\numberline {6.2.2}Tieftönergestell}{13}{subsection.6.2.2}%
 \contentsline {subsection}{\numberline {6.2.3}Tieftöner}{13}{subsection.6.2.3}%
 \contentsline {subsection}{\numberline {6.2.4}Hochtöner}{13}{subsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.2.5}Elektronik}{14}{subsection.6.2.5}%
