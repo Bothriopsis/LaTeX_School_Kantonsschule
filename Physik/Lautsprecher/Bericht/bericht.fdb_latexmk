@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex bericht"] 1741251983.88807 "bericht.aux" "bericht.bbl" "bericht" 1741252716.25205 0
+["bibtex bericht"] 1741253788.70301 "bericht.aux" "bericht.bbl" "bericht" 1741254294.22572 0
   "./mybib.bib" 1741249641 856 f391d69464ae46eaf6147b757f1d6424 ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "bericht.aux" 1741252714 3937 4f181f4736e54ca98f20214cabefe486 "lualatex"
+  "bericht.aux" 1741254292 4430 fc9a9569bdd4295298f83f449c04e99d "lualatex"
   (generated)
   "bericht.bbl"
   "bericht.blg"
   (rewritten before read)
-["lualatex"] 1741252711.20654 "c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" "bericht.pdf" "bericht" 1741252716.25301 0
+["lualatex"] 1741254288.61849 "c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" "bericht.pdf" "bericht" 1741254294.22671 0
   "C:/Users/fiste/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1739905029 123019 4e6d54fe28a67ad1b512b0cc9d03c2e8 ""
   "C:/Users/fiste/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/bebasneue-regular.luc" 1737960879 101099 08bf2a84bd2e49e2a7f167c2b4a200c7 ""
   "C:/Users/fiste/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/lmmono10-regular.luc" 1737960717 81847 d9f42f3c049c163eef1f92643b736b74 ""
@@ -266,13 +266,13 @@
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload-unicode.lua" 1709104755 7917 cebc6454abe34f2fe1c1248f8b2453da ""
   "C:/Users/fiste/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload.lua" 1709104755 13565 50482dad4c221a79dbdbb982122baf8c ""
   "C:/Users/fiste/AppData/Roaming/MiKTeX/tex/generic/config/language.dat" 1736506447 2269 c2be9efecb8e53facf8213ae101f16af ""
-  "bericht.aux" 1741252714 3937 4f181f4736e54ca98f20214cabefe486 "lualatex"
-  "bericht.bbl" 1741251984 792 5dc7afed9075854979c8fd48369907c3 "bibtex bericht"
-  "bericht.lof" 1741252714 377 9456e4fc8369ed94537f49b65f14b063 "lualatex"
-  "bericht.out" 1741252714 2299 63ea31b465ef449ae365c5a957cc645d "lualatex"
-  "bericht.tex" 1741252710 13062 1118c8d30f86618e21d4ebeb7664e198 ""
-  "bericht.toc" 1741252714 1459 119a61e1d2915714d346049be1c69f90 "lualatex"
-  "c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" 1741252710 13062 1118c8d30f86618e21d4ebeb7664e198 ""
+  "bericht.aux" 1741254292 4430 fc9a9569bdd4295298f83f449c04e99d "lualatex"
+  "bericht.bbl" 1741253789 792 5dc7afed9075854979c8fd48369907c3 "bibtex bericht"
+  "bericht.lof" 1741254292 377 9456e4fc8369ed94537f49b65f14b063 "lualatex"
+  "bericht.out" 1741254292 2764 66c9917bd885d489837bc75a19da003f "lualatex"
+  "bericht.tex" 1741254287 13464 5aa06e60ab46d814c94fc0c25e9d0141 ""
+  "bericht.toc" 1741254292 1788 cfc0d6d2c339056d3c5629f57ecf4404 "lualatex"
+  "c:/Users/fiste/Documents/GitHub/LaTeX_School_Kantonsschule/Physik/Lautsprecher/Bericht/bericht.tex" 1741254287 13464 5aa06e60ab46d814c94fc0c25e9d0141 ""
   "c:/users/fiste/appdata/local/programs/miktex/fonts/opentype/public/lm/lmmono10-regular.otf" 1256929440 64684 c6f5a48921f83c1a51d9384f785ddd5a ""
   "c:/users/fiste/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman10-bold.otf" 1256929440 111240 1d60e9def74b1102bb4defa7cb772ee3 ""
   "c:/users/fiste/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman10-italic.otf" 1256929440 118828 5d91d27a335c65bda4818de63abc25ce ""
