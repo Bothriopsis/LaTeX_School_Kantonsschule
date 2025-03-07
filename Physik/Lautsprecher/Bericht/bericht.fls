@@ -504,6 +504,9 @@ INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr5.tfm
 INPUT C:\Users\fiste\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr5.tfm
 INPUT .\resources\images\Bassreflex-Gehäuse.png
+INPUT .\resources\pdf\Speaker.pdf
+INPUT .\resources\pdf\Speaker.pdf
+INPUT .\resources\pdf\Speaker.pdf
 INPUT .\bericht.lof
 INPUT .\bericht.lof
 OUTPUT bericht.lof
