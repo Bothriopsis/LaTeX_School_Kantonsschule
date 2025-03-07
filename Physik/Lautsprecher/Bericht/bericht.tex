@@ -377,23 +377,38 @@ Der Hochtöner wurde erst nachträglich installiert, da sich herausstellte, dass
 Zu beginn war die Idee, ein Bassreflexrohr in den Lautsprecher einzubauen. Ein solches sollte die Qualität der Basswiedergabe verbessern. Dafür wäre es nötig, dass das Gehäuse bis auf das Loch für das Rohr komplett luftdicht verschlossen sein muss. Dies war mit der Weinkiste nicht zu erreichen. Entsprechend wurde dann entschieden, dass ein zusätzlicher Hochtöner gebaut werden sollte, welcher dann den Platz und das Loch für das Bassreflexrohr eingenommen hat. Trotzdem wurde versucht, die Kiste so gut wie nur möglich mit Holzfaser- und Reparaturspachtel abzudichten. 
 
 \subsection{Magnet-Stelleinheit}
-\begin{wrapfigure}{r}{0.4\textwidth}
-    \centering
-    \includegraphics[width=.95\linewidth]{resources/images/Fotos/Physik-86.jpg}
-    \caption{\raggedright{Magnet-Stelleinheit}}
-    \label{fig:magnet}
-\end{wrapfigure}
 Um die Neodymmagneten des Tieftöners auf eine möglichst effiziente Funktionsweise justieren zu können, wurde ein System entwickelt, welches aus den Magneten und einer Gewindstange besteht. Dabei kann die gesamte Gewindestange inklusive Magneten näher zur Membran oder weg davon bewegt und an der entsprechendne Stelle fixiert werden. Dabei wurden selbstverständlich nur nicht ferromatgnetische Materialien verwendet, damit das Magnetfeld nicht beeinflusst wird.
 
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=.3\linewidth]{resources/images/Fotos/Physik-86.jpg}
+    \caption{{Magnet-Stelleinheit}}
+    \label{fig:magnet}
+\end{figure}
+
+\newpage
 \subsection{Elektrik}
 \subsubsection*{Hitze}
-Hauptverantwortlich für die Hitzeentwicklung sind die tiefen Frequenzen. Sie weisen den grössten Membranhub auf und brauchen auch die meiste Energie. Aufgrund der Grösse der Tieftönerspule konnte diese die Wärme stehts gut abführen. Viel eher lag das Problem in der Ungleichverteilung der Stromstärke aufgrund der beiden unterschiedlichen Widerstände. So war die Stromstärke des Hochtöners mit 7.7\Omega\ viel grösser als die des Tieftöners. Somit wurde dieser schnell heiss, und die Höhen wurden zu laut wiedergegeben. Also wurde ein 7.2\Omega\ Wiederstand in den Stromkreis integriert. Somit wird viel eher der Wiederstand als die Spule heiss und die Frequenzen sind in ihrer Lautstärke ausgeglichen. Zusätzlich wurde die Spule absichtlich nicht mit Ofenschnurkleber eingedeckt um keine Isolationsschicht zu schaffen und eine bessere Luftkühlung zu ermöglichen.
+Hauptverantwortlich für die Hitzeentwicklung sind die tiefen Frequenzen. Sie weisen den grössten Membranhub auf und brauchen auch die meiste Energie. Aufgrund der Grösse der Tieftönerspule konnte diese die Wärme stehts gut abführen. Viel eher lag das Problem in der Ungleichverteilung der Stromstärke aufgrund der beiden unterschiedlichen Widerstände. So war die Stromstärke des Hochtöners mit 7,7\Omega\ viel grösser als die des Tieftöners. Somit wurde dieser schnell heiss, und die Höhen wurden zu laut wiedergegeben. Also wurde ein 7,2\Omega\ Wiederstand in den Stromkreis integriert. Somit wird viel eher der Wiederstand als die Spule heiss und die Frequenzen sind in ihrer Lautstärke ausgeglichen. Zusätzlich wurde die Spule absichtlich nicht mit Ofenschnurkleber eingedeckt um keine Isolationsschicht zu schaffen und eine bessere Luftkühlung zu ermöglichen.
 \subsubsection*{Frquenzselektion und Filterung}
 Da bemerkt wurde, dass der Hochtöner beim Versuch tiefe Frequenzen wiederzugeben, stark zu klappern begann sollte zuerst eine Frequenzweiche gebaut werden. Diese benötigt jedoch genau aufeinander abgestimmte Bauteile. Diese waren so nicht verfügbar. Speziell die Kondensatoren welche über eine ausserordentlich hohe Kapazität von 40\mu F aufweisen müssten. Zwar wurde eine Frequenzweiche mit nicht perfekt abgestimmten Bauteilen gebaut (siehe Grafik), welche die Tonqualität auch verbesserte, jedoch wurden versehentlich Elektrolytkondensatoren verwendet. Diese gehen bei Wechselspannung kaputt und sind somit nicht für diese Anwendung geeignet. 
 
-Da die Frequenzweiche selbst mit den passenden Teilen vermutlich nicht äusserst präzise funktioniert hätte, sollte nun lediglich ein Hochpassfilter, welcher die tiefen Frequenen entfernt, auf den Hochtöner angewendet werden. Dieser Filter (siehe Grafik) wurde aus vier 2,2\mu F Folienkondensatoren gebaut und in den Lautsprecher integriert. Dies führte (bei 8.8\mu F) zu einer Eckfrequenz von 150Hz welche für die Lautsprecher optimal ist. 
+Da die Frequenzweiche selbst mit den passenden Teilen vermutlich nicht äusserst präzise funktioniert hätte, sollte nun lediglich ein Hochpassfilter, welcher die tiefen Frequenen entfernt, auf den Hochtöner angewendet werden. Dieser Filter (siehe Grafik) wurde aus vier 2,2\mu F Folienkondensatoren gebaut und in den Lautsprecher integriert. Dies führte (bei 8,8\mu F) zu einer Eckfrequenz von 150Hz welche für die Lautsprecher optimal ist. 
 
+\begin{minipage}{0.5\textwidth}
+    \centering
+    \includegraphics[width=.8\linewidth]{resources/images/Fotos/Physik-138.jpg}
+    \captionof{figure}{\raggedright{Frequenzweiche}}
+    \label{fig:weiche}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+    \centering
+    \includegraphics[width=.8\linewidth]{resources/images/Fotos/Physik-127.jpg}
+    \captionof{figure}{\raggedright{Hochbassfilter}}
+    \label{fig:filter}
+\end{minipage}
 
+\newpage
 \section{Methoden}
 Es wurde viel im Internet recherchiert, um herauszufinden wie bestimmte Bauteile optimal konstruiert werden können. Zudem versuchte man auch durch Versuche optimale Ausführungen mit den zur Verfügung stehenden Materialien zu finden.
 
@@ -418,7 +433,7 @@ In einem Zeitraum von zwei Monaten gelang es, das Ziel, einen selbstgebauten Lau
 \section{Bauprozess}
 Der Bauprozess wurde in verschiedene Phasen unterteilt, in denen kontinuierlich nach potenziellen Optimierungen gesucht wurde, die schlussendlich zum Endresultat führten.
 
-In der ersten Phase wurde eine Form eines Lautsprechers mit einer einzelnen, grossen Membran (in den folgenden Phasen der "Tieftöner") gebaut und in eine Weinkiste integriert. In einem Zeitraum von wenigen Wochen gelang es der Gruppe, diesen Lautsprecher zu konstruieren. Das erzielte Ergebnis wurde jedoch als zu basslastig empfunden. Positiv anzumerken ist jedoch, dass in dieser Phase Wissen und Ideen für Optimierungen gewonnen werden konnten. In der darauffolgenden Phase wurde daher die Entscheidung getroffen, einen Hochtöner zu installieren, der parallel zum Tieftöner geschaltet wird. 
+In der ersten Phase wurde eine Form eines Lautsprechers mit einer einzelnen, grossen Membran (in den folgenden Phasen der Tieftöner) gebaut und in eine Weinkiste integriert. In einem Zeitraum von wenigen Wochen gelang es der Gruppe, diesen Lautsprecher zu konstruieren. Das erzielte Ergebnis wurde jedoch als zu basslastig empfunden. Positiv anzumerken ist jedoch, dass in dieser Phase Wissen und Ideen für Optimierungen gewonnen werden konnten. In der darauffolgenden Phase wurde daher die Entscheidung getroffen, einen Hochtöner zu installieren, der parallel zum Tieftöner geschaltet wird. 
 
 Die Fertigung und Installation des Hochtöners konnte innerhalb weniger Tage erfolgreich abgeschlossen werden. Der verringerte Zeitaufwand kann auf die gewonnenen Erfahrungen zurückgeführt werden. Anfänglich wurden die Lautsprecher ohne weitere Bauteile parallel an den Verstärker angeschlossen. Die Integration des Widerstandes resultierte in einer signifikant positiven Beeinflussung der Tonqualität. Nichtsdestotrotz wurde ein zusätzliches Optimierungspotenzial identifiziert, welches durch die Implementierung eines Akustikfilters erschlossen werden sollte, um eine weitere Steigerung der Tonqualität zu erreichen.
 
@@ -426,6 +441,7 @@ Der Bau der nicht verwendeten Frequenzweiche und des funktionierenden Filters er
 
 In der finalen Bauphase wurde dieser Filter konstruiert. Der Bauprozess gestaltete sich jedoch als komplex und zeitintensiv, was zu gewissen Herausforderungen führte.        
 
+\newpage
 \section{Technische Erkenntnisse}
 Im Hinblick auf die Spule des Tieftöners wurde die Anzahl der Wicklungen eines 0,2mm dicken Kupferdrahtes auf 400 festgelegt. Diese Entscheidung resultierte aus einer Reihe von Versuchen mit unterschiedlichen Spulen mit unterschiedlichen Wicklungen. Das Resultat dieser Bemühungen zeigt sich in einer optimalen Frequenzwiedergabe im Tieftonbereich, die insbesondere durch das gute Prototyping ermöglicht wurde.
 
@@ -442,16 +458,27 @@ Das Gestell, in welchem sich die Spule, der Magnet und die Membran befinden, mus
 \section{Kritische Reflexion des Prozesses}
 Der Bauprozess verlief im Allgemeinen zufriedenstellend. Allerdings wäre eine Optimierung des Zeitmanagements noch als möglich zu erachten gewesen. So wurde beispielsweise für den Bau der Frequenzweiche ein erheblicher Zeitraum aufgewendet, der sich am Ende als unnötig herausstellte, da man die falschen Kondensatoren verwendete. Hätte man sich im Vorfeld mit den Eigenschaften der Kondensatoren auseinandergesetzt, hätte man gemerkt dass der Bau einer Frequenzweiche mit den vorhandenen Teilen nicht möglich ist.
 
+\newpage
 \section{Ergebnis}
 Das Endprodukt ist als zufriedenstellend zu bewerten. Die Soundqualität des Lautsprechers ist für einen eigenhändig konstruierten Lautsprecher auf gymnasialem Niveau als eher überdurchschnittlich zu bewerten. Es wurde jedoch ein leises Klappern und Vibrieren festgestellt, das je nach Tonfrequenz und Lautstärke variiert und von Eigenresonanzbewegungen verursacht wird. Die Behebung dieses Problems erweist sich als äußerst herausfordernd, weshalb keine Maßnahmen zur Verbesserung der Membran ergriffen wurden. Erfreulicherweise ist das klappern jedoch kaum wahrnehmbar, sofern nicht speziell darauf geachtet wird. 
 
-
+\begin{minipage}{0.5\textwidth}
+    \centering
+    \includegraphics[width=.8\linewidth]{resources/images/Fotos/Physik-131.jpg}
+    \captionof{figure}{{Lautsprecherbox von oben}}
+    \label{fig:total}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+    \centering
+    \includegraphics[width=.8\linewidth]{resources/images/Fotos/Physik-121.jpg}
+    \captionof{figure}{{Deckplatte von innen}}
+    \label{fig:plate_top}
+\end{minipage}
 % Baudokumentation
 \part{Baudokumentation}
 
 % How to build it
 \chapter{Plan}
-\section{Skizzen}
 \section{CAD Zeichnung}
 \includegraphics[width=1\textwidth]{resources/pdf/Speaker.pdf}
 % How it was built
@@ -465,7 +492,7 @@ Die Bauform des Lautsprechers, welcher im Rahmen dieses Projektes entwickelt wur
         \item 9x Gewindeeinsätze M4
         \item 8x Maschinenschrauben M4 (versch. Längen)
         \item 3x Aluminiummuttern M4
-        \item 5x Unterlegscheibe Mç
+        \item 5x Unterlegscheibe M4
         \item Tesa Dichtungsband 10mm
         \item Holzfaser- und Reparaturspachtel
         \item 2x Holzleisten Länge: 295mm
@@ -486,11 +513,13 @@ Die Bauform des Lautsprechers, welcher im Rahmen dieses Projektes entwickelt wur
         \item 2x Bananenbuchse
         \item Holzleim Rapid
         \item Isolierband
-        \item Ofenschnurkleber (1100\textdegree)
+        \item Ofenschnurkleber (1100\textdegree C)
         \item Araldite Crystal
         \item Werkzeuge des Physiklbaors
     \end{itemize}
 \end{multicols}
+
+\newpage
 \section{Bauanleitung}
 \subsection{Gehäuse}
 \begin{enumerate}
@@ -498,6 +527,14 @@ Die Bauform des Lautsprechers, welcher im Rahmen dieses Projektes entwickelt wur
     \item Zwischen die Deckplatte und die Weinkiste wird ein Dichtungsband zur Schallabdichtung angebracht.
     \item Die Kiste wird zudem allgemein an undichten Stellen mit Holzfaser- und Reparaturspachtel abgedichtet. 
 \end{enumerate}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\textwidth]{resources/images/Fotos/Physik-134.jpg}
+    \caption{{abgedichtetes Gehäuse}}
+    \label{fig:sealed}
+\end{figure}
+
+\newpage
 \subsection{Tieftönergestell}
 \begin{enumerate}
     \item Es wird zuerst ein Kreuz aus den zwei Holzleisten gebaut, mit Holzleim verleimt und in der Mitte ein Gewindeeinsatz eingelassen.
@@ -510,6 +547,14 @@ Die Bauform des Lautsprechers, welcher im Rahmen dieses Projektes entwickelt wur
         \item Der Aluminiumstab wird von unten in die Mitte des Holzkreuzes geschraubt und mit einer weiteren Aluminiummutter und einer Unterlegscheibe fixiert.
     \end{enumerate}
 \end{enumerate}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\textwidth]{resources/images/Fotos/Physik-69.jpg}
+    \caption{{Tieftönergestell in Herstellung}}
+    \label{fig:production}
+\end{figure}
+
+\newpage
 \subsection{Tieftöner}
 \begin{enumerate}
     \item Aus Schleifpapier wird eine Membran für den Tieftöner ausgeschnitten und in Kegelform zusammengeklebt, so dass dessen Grundfläche einen Durchmesser von 213mm hat und die Kegelhöhe 50mm beträgt.
@@ -519,6 +564,14 @@ Die Bauform des Lautsprechers, welcher im Rahmen dieses Projektes entwickelt wur
     \item Nun wird die Membran durch die Sickenstreifen an die Holzplatte angeleimt.
     \item Schlussendlich wird das Holzkreuz durch vier Schrauben mit vier Unterlegscheiben auf die vier Rundstäbe geschraubt.
 \end{enumerate}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.3\textwidth]{resources/images/Fotos/Physik-125.jpg}
+    \caption{{fertiger spule}}
+    \label{fig:spule_fin}
+\end{figure}
+
+\newpage
 \subsection{Hochtöner}
 \begin{enumerate}
     \item Aus dem Wellkartonkarton wird ein kegelförmiges Gestell gebaut, welches vier Löcher in Form von Dreiecken aufweist. Die Kegelhöhe soll 80mm betragen und der Druchmesser der Grundfläche 75mm.
@@ -529,14 +582,34 @@ Die Bauform des Lautsprechers, welcher im Rahmen dieses Projektes entwickelt wur
     \item Die Membran wird über diese Sicken nun an die Gestellkonstruktion geklebt.
     \item Die Hochtönereinheit wird nun ind das kleinere Loch der Deckplatte geklebt.
 \end{enumerate}
+
+\begin{minipage}{0.5\textwidth}
+    \centering
+    \includegraphics[width=.8\linewidth]{resources/images/Fotos/Physik-84.jpg}
+    \captionof{figure}{{fertige Hochtönermembran}}
+    \label{fig:fin_high}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+    \centering
+    \includegraphics[width=.8\linewidth]{resources/images/Fotos/Physik-124.jpg}
+    \captionof{figure}{{fertige Hochtönereinheit}}
+    \label{fig:fin_high_unit}
+\end{minipage}
+
+\newpage
 \subsection{Elektrik}
 \begin{enumerate}
     \item Nun müssen alle Kabel an einen zentralen Ort für das Hochpassfiltermodul verlegt werden. Dafür werden diese über ihre gesamte Länge mit Isolierband auf die Platte geklebt. Wichtig ist dabei, dass diese auch beim Übergang von Membran zur Platte über keine Kante vibrieren können sondern locker in der Luft hängen.
     \item Nun können die Kabel mit dem Hochpassfiltermodul verlötet werden. Zusätzlich werden zwei Litzenstücke an die Plattine gelötet.
-    \item Es werden zwei Bananenbuchsen in der Deckplatte verfsenkt und die Litzen daran befestigt. Diese werden dann auch an der Platte befestigt. 
+    \item Es werden zwei Bananenbuchsen in der Deckplatte versenkt und die Litzen daran befestigt. Diese werden dann auch an der Platte befestigt. 
     \item Nun kann das Filtermodul mit Heisskleber an der Platte fixiert und die Platte auf die Weinkiste montiert werden. Der Lautsprecher kann nun verwendet werden. 
 \end{enumerate}
-
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.7\textwidth]{resources/images/Fotos/Physik-118.jpg}
+    \caption{{verklebte Elektrik}}
+    \label{fig:glued_elek}
+\end{figure}
 % Tanking
 \chapter*{Dank}
 Ein grosser Dank geht an den Physiklehrer Patrick Perucchi, welcher uns regelmässig mit Tipps und Tricks zur optimierung der Bauweise unterstützt hat.
