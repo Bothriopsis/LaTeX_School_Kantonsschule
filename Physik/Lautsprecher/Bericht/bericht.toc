@@ -11,16 +11,21 @@
 \contentsline {section}{\numberline {2.1}Material}{7}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Methoden}{7}{section.2.2}%
 \contentsline {chapter}{\numberline {3}Resultate}{8}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Diskussion}{9}{chapter.4}%
-\contentsline {part}{II\hspace {1em}Baudokumentation}{10}{part.2}%
-\contentsline {chapter}{\numberline {5}Plan}{11}{chapter.5}%
-\contentsline {section}{\numberline {5.1}CAD Zeichnung}{11}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Skizzen}{11}{section.5.2}%
-\contentsline {chapter}{\numberline {6}Bau}{12}{chapter.6}%
-\contentsline {section}{\numberline {6.1}beöntigte Materialien}{12}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Bauanleitung}{12}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}Gehäuse}{12}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}Tieftönergestell}{13}{subsection.6.2.2}%
-\contentsline {subsection}{\numberline {6.2.3}Tieftöner}{13}{subsection.6.2.3}%
-\contentsline {subsection}{\numberline {6.2.4}Hochtöner}{13}{subsection.6.2.4}%
-\contentsline {subsection}{\numberline {6.2.5}Elektronik}{14}{subsection.6.2.5}%
+\contentsline {chapter}{\numberline {4}Reflexion}{9}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Bauprozess}{9}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Technische Erkenntnisse}{9}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Highpass Filter}{10}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Kritische Reflexion des Prozesses}{10}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Ergebnis}{10}{section.4.5}%
+\contentsline {part}{II\hspace {1em}Baudokumentation}{11}{part.2}%
+\contentsline {chapter}{\numberline {5}Plan}{12}{chapter.5}%
+\contentsline {section}{\numberline {5.1}CAD Zeichnung}{12}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Skizzen}{12}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Bau}{13}{chapter.6}%
+\contentsline {section}{\numberline {6.1}beöntigte Materialien}{13}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Bauanleitung}{13}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Gehäuse}{13}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Tieftönergestell}{14}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Tieftöner}{14}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.4}Hochtöner}{14}{subsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.2.5}Elektronik}{15}{subsection.6.2.5}%
