@@ -210,7 +210,7 @@ Diese Bauform ist jedoch vor allem für reine Tieftöner-/Subwooferboxen geeigne
 
 Im Folgenden ist eine Zwei-Wege-Frequenzweiche dargestellt. Die Kondensatoren verringern ihren internen Widerstand mit der steigenden Frequenz. So sorgt dies beim Hochtöner dafür, dass der Strom bei hohen Frequenzen durch dessen Spule geführt wird. Im Gegensatz dazu führt dieser Effekt beim Tieftöner dafür, dass der Strom bei hohen Frequenzen abgeleitet wird. Um die sich dadurch ändernde Impedanz auszugleichen, werden zwei Spulen verwendet. 
 \newpage
-Das ganze sieht schematisch folgendermassen aus: \\
+Das Schema sieht wie folgt aus: \\
 \begin{center}
     \begin{tikzpicture}[rotate=-90, circuit ee IEC,x=3cm,y=2cm,semithick,
         every info/.style={font=\footnotesize},
@@ -246,7 +246,7 @@ Das ganze sieht schematisch folgendermassen aus: \\
     \end{tikzpicture}
 \end{center}
 
-Um für die gewünschte Übergangsfreque (Crossover) die passenden Frequenzweichenteile zu finden, wird folgende Formel verwendet:
+Um für die gewünschte Übergangsfrequenz (Crossover) die passenden Frequenzweichenteile zu finden, wird folgende Formel verwendet:
 Die nötige Induktivität der Spulen lässt sich mithilfe der folgenden Formel berechnen: $C = \frac{R}{\omega}$ 
 So die Kapazität der Kondensatoren: $L = \frac{1}{\omega \cdot R}$.
 
@@ -318,37 +318,71 @@ Bei den Materialien des Gehäuses wurde auf die Stabilität und akustische Eigen
 \subsection{Spule}
 \subsubsection*{Trägerkonstruktion}
 
-Beim Konstruieren der Spule wurde auf drei grundlegende Aspekte geachtet. Erstens sollte die Spule so Regelmässig wie möglich gewickelt werden um ein möglichst reines Magnetfeld entstehen zu lassen. Weiter war die Hitzebeständigkeit des Trägermatierals sowie die des Klebstoffes ein Problem. Ein Spulenträger aus einem Ferromagnetischen Stoff fiel aufgrund der Beeinflussung des Magnetfeldes weg, ein Träger aus anderen Metallen wäre zu träge und könnte so die Klangqualität beeinflussen. Je schwerer die Membran, desto ungenauer kann ihre Schwingung kontrolliert werden. Kunststoff wäre aufgrund der Schmelztemteraturen auch ungeeignet. Somit hat man sich für ein Rohr aus dünner Graupappe entschieden. Da diese nicht schmelzen kann und über eine sehr hohe Entflammungstempereatur aufweist ist diese für diese Anwendung perfekt geeignet. 
+Beim Konstruieren der Spule wurde auf drei grundlegende Aspekte geachtet. Erstens sollte die Spule so Regelmässig wie möglich gewickelt werden um ein möglichst reines Magnetfeld entstehen zu lassen. Weiter war die Hitzebeständigkeit des Trägermatierals sowie die des Klebstoffes ein Problem. Ein Spulenträger aus einem ferromagnetischen Stoff fiel aufgrund der Beeinflussung des Magnetfeldes weg, ein Träger aus anderen Metallen wäre zu träge und könnte so die Klangqualität beeinflussen. Je schwerer die Membran, desto ungenauer kann ihre Schwingung kontrolliert werden. Kunststoff wäre aufgrund der Schmelztemteraturen auch ungeeignet. Somit hat man sich für ein Rohr aus dünner Graupappe entschieden. Da diese nicht schmelzen kann und über eine sehr hohe Entflammungstempereatur aufweist ist diese für diese Anwendung perfekt geeignet. 
 
+\newpage
 \subsubsection*{Draht}
+\begin{wrapfigure}{r}{0.4\textwidth}
+    \centering
+    \includegraphics[width=.95\linewidth]{resources/images/Fotos/Physik-62.jpg}
+    \caption{\raggedright{Prototyp Spule}}
+    \label{fig:spule_prot}
+\end{wrapfigure}
 Für die eigens durch die Gruppe gewickelte Spule aus Kupferdraht musste die optimale Vorgehensweise ermittelt werden.
 
 Um ein Lösen der Spule zu verhindern, musste diese geleimt werden. Dies geschah mit dem Ofenschnurkleber der Firma Fermit, welcher laut Datenblatt 1100\textdegree C aushalten sollte. Dabei wurden die Klebflächen auf vier Streifen reduziert, um eine bessere Wärmeableitung zu ermöglichen. Siehe Grafik. Die Spule könnte so in der Theorie bis mehrere hundert Grad-Celsius aushalten.  
 
-Nach mehreren Versuchen mit zwei verschiedenen Spulen wurde entschieden, dass die optimalsten Spezifikationen für die Spule 400 Wicklungen mit 0,2mm Draht sind. Bei der Hochtönerspule sind es 200 Wicklungen mit 0,2mm Kupferdraht. Der 0,2mm Draht führt zwar zu höheren Wiederständen als ein 0,3mm Draht war aber in der verfügbaren Version sehr viel hitzebeständiger. Schlussendlich führte dies zwar zu einer relativ hohen Impedanz von 19.8\Omega\ dafür ist die Spule stark genung um Lautstärken von über 80dB (Abstand 1m) zu erreichen. 
+Nach mehreren Versuchen mit zwei verschiedenen Spulen (siehe Abbildung) wurde entschieden, dass die optimalsten Spezifikationen für die Spule 400 Wicklungen mit 0,2mm Draht sind. Bei der Hochtönerspule sind es 200 Wicklungen mit 0,2mm Kupferdraht. Der 0,2mm Draht führt zwar zu höheren Wiederständen als ein 0,3mm Draht war aber in der verfügbaren Version sehr viel hitzebeständiger. Schlussendlich führte dies zwar zu einer relativ hohen Impedanz von 19,8\Omega\ dafür ist die Spule stark genung um Lautstärken von über 80dB (Abstand 1m) zu erreichen. 
 
 \subsection{Tieftönermembran}
 Als Material für die Membran wurde Schleifpapier mit einer Körnung von P180 verwendet. Dieses ist steif genug um sich nicht bei jedem Membranhub zu verformen, aber trotzdem leicht genug um eine flinke Bewegung der Membran zu ermöglichen. Trotzdem ermöglicht der grosse Durchmesser eine Verformung der Membran bei sehr tiefen Frequenzen (<20 Hz) was verhindert das selbst der Maximalhub die Sicke nicht beschädigen kann. Trotzdem ist die Freiheit so beschränkt, dass Freqenzen unter 15Hz nur mit der doppelten Frequenz widergegeben werden können. 
 
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\textwidth]{resources/images/Fotos/Physik-87.jpg}
+    \caption{{fertige Membran}}
+    \label{fig:membrane_fin}
+\end{figure}
+\newpage
 \subsection{Weinkiste}
 Die Wahl, eine Weinkiste als Resonanzkörper zu nehmen, wurde aufgrund deren spezifischen Eigenschaften getroffen. Holz weist ein gutes Resonazverhalten auf und Dämft die Schwingungen, wodurch die Klänge und Frequenzen nicht verschmimmen. Die Wandstärke von 10 mm ist gross genug, damit die Wände nicht beginnen sich mit den Frequenzen zu wölben. Sie sind aber dünn genug, um mit der vom Lautsprecher verfügbaren Leistung mitzuschwingen. 
 
 \subsection{Tieftönersicke}
-\begin{wrapfigure}{r}{0.4\textwidth}
-    \centering
-    \includegraphics[width=.95\linewidth]{resources/images/Fotos/Physik-77.jpg}
-    \caption{\raggedright{W-Sicke (Typ I)}}
-    \label{fig:w_sicke}
-\end{wrapfigure}
 Während der Entwicklung der Sicke wurden verschiene Konzepte ausprobiert. Die W-Sicke (Typ I, siehe Grafik) stellte sich vorerst als gute Lösung heraus. Sie besteht aus acht Sickenstreiefen welche fünf Male gefaltet wurden. In Kombination mit vier Gummibändern zwischen Spule und Gestell konnte ein gutes Resultat erziehlt werden. Die Gummibänder erfüllten den Zweck einer Spinne und drückten die Membran nach aussen, bis die Sickenstücke unter Spannung waren. Wenn die Membran nun zurückgezogen wurde, falteten sich die Sickenstreifen an den gewollten Stellen und die Membran konnte sich sehr frei bewegen. Diese Bewegungsfreiheit sorgte jedoch für eine sehr unklare Hochfrequenzwiedergabe. Also wurde die C-Sicke (Typ II) entwickelt. Diese ist viel stabiler und weist lediglich zwei Faltstellen auf. Die Gummibänder erfüllen nun nur noch den Zweck der Spinne, also das exakte führen der Spule über den Magneten. Sie sind ebenfalls so in ihrer Spannung angepasst, dass die Spule (im stehenden Zustand) bei der radial wirkenden Gravitation nicht in Berührung mit dem Magneten kommt. (Siehe Grafik) 
 
+\begin{minipage}{0.3\textwidth}
+    \centering
+    \includegraphics[width=.8\linewidth]{resources/images/Fotos/Physik-77.jpg}
+    \captionof{figure}{\raggedright{W-Sickel (Typ I)}}
+    \label{fig:w_sicke}
+\end{minipage}
+\begin{minipage}{0.3\textwidth}
+    \centering
+    \includegraphics[width=.8\linewidth]{resources/images/Fotos/Physik-96.jpg}
+    \captionof{figure}{\raggedright{C-Sicke (Typ II)}}
+    \label{fig:c_sicke}
+\end{minipage}
+\begin{minipage}{0.3\textwidth}
+    \centering
+    \includegraphics[width=.8\linewidth]{resources/images/Fotos/Physik-119.jpg}
+    \captionof{figure}{\raggedright{Fertiger Tieftöner}}
+    \label{fig:deep_fin}
+\end{minipage}
+
+\newpage
 \subsection{Hochtöner}
-Der Hochtöner wurde erst nachträglich installiert, da sich herausstellte, dass die Tieftönermembran trotz der neuen C-Sicke zu viel Bewegungsfreiraum hat, um hohe Frequenzen, welche vorallem in Stimmen sehr wichtig sind, klar wiederzugeben. Aus diesem Grund wurde ein zweiter Lautsprecher mit viel kleinerer Membran, ein Hochtöner, gebaut. Dieser weist über eine sehr steife Sicke auf, welche aus Strohhalmen konstruiert wurde. Dies ermöglicht die Wiedergabe von Frequenzen von über 15'000Hz. Der Platz, welcher der Hochtöner einnimmt war ursprünglich für ein Bassreflexrohr angedacht. Die Hochtönerspule hat 200 Wicklungen und weist eine Impedanz von 7.7\Omega\  auf. Er wurde als eigenständiges Modul (siehe Grafik) konstruiert und dann eingebaut.
+Der Hochtöner wurde erst nachträglich installiert, da sich herausstellte, dass die Tieftönermembran trotz der neuen C-Sicke zu viel Bewegungsfreiraum hat, um hohe Frequenzen, welche vorallem in Stimmen sehr wichtig sind, klar wiederzugeben. Aus diesem Grund wurde ein zweiter Lautsprecher mit viel kleinerer Membran, ein Hochtöner, gebaut. Dieser weist über eine sehr steife Sicke auf, welche aus Strohhalmen konstruiert wurde. Dies ermöglicht die Wiedergabe von Frequenzen von über 15'000Hz. Der Platz, welcher der Hochtöner einnimmt war ursprünglich für ein Bassreflexrohr angedacht. Die Hochtönerspule hat 200 Wicklungen und weist eine Impedanz von 7,7\Omega\  auf. Er wurde als eigenständiges Modul (siehe Grafik) konstruiert und dann eingebaut.
 
 \subsection{Bassreflexrohr}
 Zu beginn war die Idee, ein Bassreflexrohr in den Lautsprecher einzubauen. Ein solches sollte die Qualität der Basswiedergabe verbessern. Dafür wäre es nötig, dass das Gehäuse bis auf das Loch für das Rohr komplett luftdicht verschlossen sein muss. Dies war mit der Weinkiste nicht zu erreichen. Entsprechend wurde dann entschieden, dass ein zusätzlicher Hochtöner gebaut werden sollte, welcher dann den Platz und das Loch für das Bassreflexrohr eingenommen hat. Trotzdem wurde versucht, die Kiste so gut wie nur möglich mit Holzfaser- und Reparaturspachtel abzudichten. 
 
 \subsection{Magnet-Stelleinheit}
+\begin{wrapfigure}{r}{0.4\textwidth}
+    \centering
+    \includegraphics[width=.95\linewidth]{resources/images/Fotos/Physik-86.jpg}
+    \caption{\raggedright{Magnet-Stelleinheit}}
+    \label{fig:magnet}
+\end{wrapfigure}
 Um die Neodymmagneten des Tieftöners auf eine möglichst effiziente Funktionsweise justieren zu können, wurde ein System entwickelt, welches aus den Magneten und einer Gewindstange besteht. Dabei kann die gesamte Gewindestange inklusive Magneten näher zur Membran oder weg davon bewegt und an der entsprechendne Stelle fixiert werden. Dabei wurden selbstverständlich nur nicht ferromatgnetische Materialien verwendet, damit das Magnetfeld nicht beeinflusst wird.
 
 \subsection{Elektrik}
