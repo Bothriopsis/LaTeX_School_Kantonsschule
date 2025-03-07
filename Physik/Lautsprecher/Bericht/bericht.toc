@@ -31,7 +31,7 @@
 \contentsline {chapter}{\numberline {5}Plan}{18}{chapter.5}%
 \contentsline {section}{\numberline {5.1}CAD Zeichnung}{18}{section.5.1}%
 \contentsline {chapter}{\numberline {6}Bau}{19}{chapter.6}%
-\contentsline {section}{\numberline {6.1}beöntigte Materialien}{19}{section.6.1}%
+\contentsline {section}{\numberline {6.1}Benötigte Materialien}{19}{section.6.1}%
 \contentsline {section}{\numberline {6.2}Bauanleitung}{20}{section.6.2}%
 \contentsline {subsection}{\numberline {6.2.1}Gehäuse}{20}{subsection.6.2.1}%
 \contentsline {subsection}{\numberline {6.2.2}Tieftönergestell}{21}{subsection.6.2.2}%
