@@ -255,6 +255,57 @@ Das Spulen nicht immer mit ihrer Induktivität angeschriben sind, kann die Induk
 \subsubsection*{Hochpassfilter}
 Ein Hochpassfilter (Highpassfilter) sorgt dafür, dass tiefe Frequenzen aus einem Audiosignal herausgefiltert werden und lediglich die Höhen in die Lautsprecherspule geführt werden. Er besteht in seiner einfachsten Ausführung lediglich aus einem oder mehrern Kondensatoren. Dabei bestimmt die Kapazität die Eckfrequenz, also der Punkt, ab welchem Tiefen herausgefiltert werden.
 
+\begin{center}
+    \begin{tikzpicture}[rotate=-90, circuit ee IEC,x=1.5cm,y=1.5cm,semithick,
+        every info/.style={font=\footnotesize},
+        small circuit symbols,
+        set resistor graphic=var resistor IEC graphic,
+        set diode graphic=var diode IEC graphic,
+        set make contact graphic= var make contact IEC graphic]
+    % Let us start with some contacts:
+    \tikzstyle{contact}=[fill=white, inner sep=0pt, outer sep=0pt]
+    \tikzstyle{my_point}=[circle, fill=black, inner sep=1.5pt]
+    
+    \foreach \contact/\y in {1/1,2/2,3/3,4/3.5,5/4,6/5,7/6,8/7,9/8}
+    {
+    \node [contact] (lane_1 contact \contact) at (0,\y) {};
+    \node [contact] (lane_2 contact \contact) at (1,\y) {};
+    \node [contact] (lane_3 contact \contact) at (1.5,\y) {};
+    \node [contact] (lane_4 contact \contact) at (2.5,\y) {};
+    \node [contact] (lane_5 contact \contact) at (3,\y) {};
+    \node [contact] (lane_6 contact \contact) at (4,\y) {};
+    }
+    \draw (lane_3 contact 1) to [ac source] (lane_4 contact 1);
+    \draw (lane_3 contact 1) to (lane_3 contact 9);
+    \draw (lane_4 contact 1) to (lane_4 contact 4);
+    \draw (lane_1 contact 2) to [resistor={info={[SlateBlue1]$TT$}}] (lane_2 contact 2);
+    \draw (lane_5 contact 2) to [resistor={info={[SlateBlue1]$HT$}}] (lane_6 contact 2);
+    \draw (lane_1 contact 2) to (lane_1 contact 4);
+    \draw (lane_2 contact 2) to (lane_2 contact 3);
+    \draw (lane_5 contact 2) to (lane_5 contact 3);
+    \draw (lane_6 contact 2) to (lane_6 contact 5);
+    \draw (lane_1 contact 4) to (lane_4 contact 4);
+    \draw (lane_2 contact 3) to (lane_3 contact 3);
+    \draw (lane_4 contact 3) to (lane_5 contact 3);
+    \draw (lane_6 contact 5) to (lane_4 contact 5);
+    \draw (lane_4 contact 5) to [resistor={ohm=7.2}] (lane_4 contact 6);
+    \draw (lane_4 contact 6) to (lane_4 contact 9);
+    \draw (lane_4 contact 6) to [capacitor={info=$2.2 \mu F$}] (lane_3 contact 6);
+    \draw (lane_4 contact 7) to [capacitor={info=$2.2 \mu F$}] (lane_3 contact 7);
+    \draw (lane_4 contact 8) to [capacitor={info=$2.2 \mu F$}] (lane_3 contact 8);
+    \draw (lane_4 contact 9) to [capacitor={info=$2.2 \mu F$}] (lane_3 contact 9);
+    \node [my_point] (point_1 contact) at (2.5,3) {};
+    \node [my_point] (point_1 contact) at (1.5,3) {};
+    \node [my_point] (point_1 contact) at (2.5,5) {};
+    \node [my_point] (point_1 contact) at (1.5,5) {};
+    \node [my_point] (point_1 contact) at (2.5,6) {};
+    \node [my_point] (point_1 contact) at (1.5,6) {};
+    \node [my_point] (point_1 contact) at (2.5,7) {};
+    \node [my_point] (point_1 contact) at (1.5,7) {};
+    
+\end{tikzpicture}
+\end{center}
+
 % Materials and Methods
 \chapter{Arbeitsprozess}
 \section{Material und Überlegungen}
