@@ -1,4 +1,4 @@
-\documentclass{beamer}
+\documentclass[aspectratio=169]{beamer}
 
 \usepackage{blindtext}
 
@@ -19,16 +19,16 @@
 	\begin{frame}
 		\frametitle{Contents}
 		\begin{enumerate}
-			\item Introduction \\ \textcolor{ExecusharesGrey}{\footnotesize\hspace{1em} The reasoning and background behind this theme}
-			\item Lorem Text  \\ \textcolor{ExecusharesGrey}{\footnotesize\hspace{1em} Just some Lorem Ipsum for filler}
-			\item Conclusions \\ \textcolor{ExecusharesGrey}{\footnotesize\hspace{1em} Some closing thoughts}
+			\item \hyperlink{sec:one}{Bau der Mauer} \\ \textcolor{ExecusharesGrey}{\footnotesize\hspace{1em} the very important informations}
+			\item \hyperlink{sec:two}{Politik}   \\ \textcolor{ExecusharesGrey}{\footnotesize\hspace{1em} why they did that thing}
+			\item \hyperlink{sec:three}{Conclusion} \\ \textcolor{ExecusharesGrey}{\footnotesize\hspace{1em} most import things}
 		\end{enumerate}
 	\end{frame}
 
 	\setcounter{framenumber}{0}
 	\setcounter{showProgressBar}{1}
 	\setcounter{showSlideNumbers}{1}
-	\section{Bau der Mauer}
+	\section{\hypertarget{sec:one}{Bau der Mauer}}
 		\begin{frame}
 			\frametitle{Mauern sind sehr maurig}
 			\begin{enumerate}
@@ -46,13 +46,13 @@
 			\end{itemize}
 		\end{frame}
 
-	\section{Politik}
+	\section{\hypertarget{sec:two}{Politik}}
 		\begin{frame}
 			\frametitle{Main}
 			Die damalige Politik war sehr interessant. Nervig war sie leider auch, deshalb nächstes Thema bitte...
 		\end{frame}
 
-	\section{Conclusions}
+	\section{\hypertarget{sec:three}{Conclusion}}
 		\begin{frame}
 			\frametitle{Take home}
 			\begin{itemize}

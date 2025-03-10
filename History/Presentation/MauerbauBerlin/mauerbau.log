@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.1.26)  10 MAR 2025 14:14
+This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.1.26)  10 MAR 2025 14:42
  restricted system commands enabled.
  file:line:error style messages enabled.
 **d:/GitHub/LaTeX_School_Kantonsschule/History/Presentation/MauerbauBerlin/maue
@@ -1090,12 +1090,12 @@ LaTeX Font Info:    ... okay on input line 13.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
-* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
-* \paperwidth=364.19536pt
-* \paperheight=273.14662pt
-* \textwidth=307.28987pt
-* \textheight=244.6939pt
+* h-part:(L,W,R)=(28.45274pt, 398.3386pt, 28.45274pt)
+* v-part:(T,H,B)=(0.0pt, 256.0748pt, 0.0pt)
+* \paperwidth=455.24408pt
+* \paperheight=256.0748pt
+* \textwidth=398.3386pt
+* \textheight=227.62207pt
 * \oddsidemargin=-43.81725pt
 * \evensidemargin=-43.81725pt
 * \topmargin=-72.26999pt
@@ -1322,6 +1322,11 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 ] [2
 
 ]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hypertarget' on input line 31.
+
+
 Overfull \hbox (56.90549pt too wide) in paragraph at lines 31--31
 [][][]  
  []
@@ -1332,11 +1337,22 @@ Overfull \vbox (5.0pt too high) detected at line 31
 
 [3
 
-] [4
 
-] [5
+warning  (pdf backend): ignoring duplicate destination with the name 'sec:one'
+]
+warning  (pdf backend): ignoring duplicate destination with the name 'sec:one'
+[4
 
 ]
+warning  (pdf backend): ignoring duplicate destination with the name 'sec:one'
+[5
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hypertarget' on input line 49.
+
+
 Overfull \hbox (56.90549pt too wide) in paragraph at lines 49--49
 [][][]  
  []
@@ -1347,9 +1363,18 @@ Overfull \vbox (5.0pt too high) detected at line 49
 
 [6
 
-] [7
+
+warning  (pdf backend): ignoring duplicate destination with the name 'sec:two'
+]
+warning  (pdf backend): ignoring duplicate destination with the name 'sec:two'
+[7
 
 ]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hypertarget' on input line 55.
+
+
 Overfull \hbox (56.90549pt too wide) in paragraph at lines 55--55
 [][][]  
  []
@@ -1360,7 +1385,13 @@ Overfull \vbox (5.0pt too high) detected at line 55
 
 [8
 
-] [9
+
+warning  (pdf backend): ignoring duplicate destination with the name 'sec:three'
+
+]
+warning  (pdf backend): ignoring duplicate destination with the name 'sec:three'
+
+[9
 
 ]
 
@@ -1386,25 +1417,25 @@ L3 programming layer <2024-01-04>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `mauerbau.out' has not changed.
-(rerunfilecheck)             Checksum: 15A10C7EA684D4703285899AFCEA56CD;290.
+(rerunfilecheck)             Checksum: 45D614843EC8943E295293490DC5A621;400.
 )
 
 Here is how much of LuaTeX's memory you used:
- 28035 strings out of 476497
+ 28038 strings out of 476497
  100000,1977958 words of node,token memory allocated
  2403 words of node memory still in use:
    25 hlist, 7 vlist, 2 rule, 2 local_par, 65 glue, 13 kern, 14 penalty, 25 glyp
 h, 155 attribute, 61 glue_spec, 155 attribute_list, 10 write, 82 pdf_literal, 1 
 pdf_dest, 18 pdf_colorstack nodes
-   avail lists: 2:420,3:362,4:159,5:82,6:20,7:734,9:290,10:10,11:35
+   avail lists: 2:422,3:365,4:159,5:91,6:23,7:650,9:290,10:12,11:31
  49238 multiletter control sequences out of 65536+600000
  38 fonts using 4535263 bytes
  128i,13n,116p,455b,903s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/fiste/AppData/Local/Programs/MiKTeX/fonts/opentype/public/tex-gyre/tex
 gyreheros-regular.otf>
-Output written on mauerbau.pdf (9 pages, 21890 bytes).
+Output written on mauerbau.pdf (9 pages, 22596 bytes).
 
-PDF statistics: 98 PDF objects out of 1000 (max. 8388607)
- 22 named destinations out of 1000 (max. 131072)
+PDF statistics: 105 PDF objects out of 1000 (max. 8388607)
+ 25 named destinations out of 1000 (max. 131072)
  40 words of extra memory for PDF output out of 10000 (max. 100000000)
 
