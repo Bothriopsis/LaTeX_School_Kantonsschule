@@ -1,0 +1,3 @@
+\beamer@sectionintoc {1}{Bau der Mauer}{3}{0}{1}
+\beamer@sectionintoc {2}{Politik}{6}{0}{2}
+\beamer@sectionintoc {3}{Conclusions}{8}{0}{3}
